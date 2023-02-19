@@ -3035,3 +3035,472 @@ Script call stack:
 [2023.02.19-03.52.53:032][318]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F64387DE00), frame # 166318
 [2023.02.19-03.52.53:044][318]LogUObjectHash: Compacting FUObjectHashTables data took  11.84ms
 [2023.02.19-03.52.53:130][319]LogPlayLevel: Display: Destroying online subsystem :Context_50
+[2023.02.19-03.53.33:158][528]LogWorld: UWorld::CleanupWorld for World_4, bSessionEnded=true, bCleanupResources=true
+[2023.02.19-03.53.33:158][528]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-03.53.34:905][540]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.02.19-03.53.34:906][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-03.53.34:923][540]LogWorld: UWorld::CleanupWorld for World_17, bSessionEnded=true, bCleanupResources=true
+[2023.02.19-03.53.34:923][540]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-03.53.35:876][551]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.19-03.53.35:876][551]LogWorld: UWorld::CleanupWorld for World_19, bSessionEnded=true, bCleanupResources=true
+[2023.02.19-03.53.35:876][551]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-03.53.36:993][564]LogSlate: Window 'AdventurePlayerPawn' being destroyed
+[2023.02.19-03.53.37:078][564]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.19-03.53.37:078][564]LogWorld: UWorld::CleanupWorld for World_2, bSessionEnded=true, bCleanupResources=true
+[2023.02.19-03.53.37:078][564]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-03.53.40:123][618]LogUObjectHash: Compacting FUObjectHashTables data took  13.43ms
+[2023.02.19-03.53.41:424][618]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/LoadableGamePanel" FILE="../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/UI/LoadableGamePanel.uasset" SILENT=true
+[2023.02.19-03.53.41:569][618]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/LoadableGamePanel93BE80B0491B1D52745459AF9E2AD10C.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/UI/LoadableGamePanel.uasset'
+[2023.02.19-03.53.41:776][618]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/MainMenuGameMode617A562D40B7ADB8FCAA7B89A744D1E0.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/MainMenu/MainMenuGameMode.uasset'
+[2023.02.19-03.53.41:820][618]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.19-03.53.41:820][618]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/LoadableGamePanel.LoadableGamePanel
+[2023.02.19-03.53.41:821][618]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainMenu/MainMenuGameMode.MainMenuGameMode
+[2023.02.19-03.53.53:036][914]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.19-03.54.41:232][159]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.19-03.54.41:462][159]LogUObjectHash: Compacting FUObjectHashTables data took   8.22ms
+[2023.02.19-03.54.42:801][175]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameModeFE039D4842D6F24928C035BE9BA68AB7.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.19-03.54.42:825][175]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.19-03.54.42:825][175]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.19-03.57.03:184][879]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.19-03.57.03:356][879]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2023.02.19-03.57.04:492][894]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameMode3BD69BE44D149D3D6B17D1809AEAE303.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.19-03.57.04:512][894]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.19-03.57.04:512][894]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.19-03.59.01:516][305]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.19-03.59.01:803][305]LogUObjectHash: Compacting FUObjectHashTables data took  10.89ms
+[2023.02.19-03.59.03:681][314]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameModeE84755934B7D437A6E8D0CB1D311AF28.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.19-03.59.03:710][314]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.19-03.59.03:710][314]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.19-03.59.32:216][855]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn
+[2023.02.19-04.00.16:606][591]BlueprintLog: New page: Compile AdventurePlayerPawn
+[2023.02.19-04.00.16:847][591]LogUObjectHash: Compacting FUObjectHashTables data took   8.32ms
+[2023.02.19-04.00.18:511][600]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventurePlayerPawn04AC53B0494EDE727EB469976848FA04.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventurePlayerPawn.uasset'
+[2023.02.19-04.00.18:538][600]AssetCheck: New page: Asset Save: AdventurePlayerPawn
+[2023.02.19-04.00.18:539][600]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn
+[2023.02.19-04.00.56:945][456]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2023.02.19-04.02.34:203][860]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/MainMenu/MainMenuGameMode.MainMenuGameMode
+[2023.02.19-04.02.39:524][939]LogAssetEditorSubsystem: Opening Asset editor for LevelScriptBlueprint /Game/Maps/MainMenu.MainMenu:PersistentLevel.MainMenu
+[2023.02.19-04.03.54:500][142]BlueprintLog: New page: Compile MainMenu
+[2023.02.19-04.03.54:645][142]LogUObjectHash: Compacting FUObjectHashTables data took   9.74ms
+[2023.02.19-04.03.56:202][155]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/UI/MainMenu" FILE="../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/UI/MainMenu.uasset" SILENT=true
+[2023.02.19-04.03.56:328][155]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/MainMenu72F6AE2D461CC8952E4770986A637D81.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/UI/MainMenu.uasset'
+[2023.02.19-04.03.56:355][155]AssetCheck: New page: Asset Save: MainMenu
+[2023.02.19-04.03.56:355][155]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/MainMenu.MainMenu
+[2023.02.19-04.03.58:117][189]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.19-04.03.58:183][189]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.19-04.03.58:183][189]PIE: New page: PIE session: MainMenu (18 Feb 2023, 12:03:58)
+[2023.02.19-04.03.58:184][189]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2023.02.19-04.03.58:188][189]LogPlayLevel: PIE: StaticDuplicateObject took: (0.003618s)
+[2023.02.19-04.03.58:190][189]LogAIModule: Creating AISystem for world MainMenu
+[2023.02.19-04.03.58:191][189]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F616B08400), frame # 179189
+[2023.02.19-04.03.58:191][189]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F616B107C0), frame # 179189
+[2023.02.19-04.03.58:191][189]LogPlayLevel: PIE: World Init took: (0.003177s)
+[2023.02.19-04.03.58:191][189]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.007141s)
+[2023.02.19-04.03.58:266][189]LogUObjectHash: Compacting FUObjectHashTables data took   8.06ms
+[2023.02.19-04.03.58:268][189]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.19-04.03.58:268][189]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.19-04.03.58:268][189]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2023.02.19-04.03.58:268][189]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2023.02.19-04.03.58:268][189]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2023.02.19-04.03.58:268][189]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.19-04.03.58:268][189]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.19-04.03.58:268][189]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.19-04.03.58:269][189]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.19-04.03.58:269][189]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.19-04.03.58:278][189]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.19-04.03.58:279][189]LogAudioMixer: Display: 1: FrontRight
+[2023.02.19-04.03.58:358][189]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2023.02.19-04.03.58:358][189]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.19-04.03.58:358][189]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.19-04.03.58:359][189]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.19-04.03.58:360][189]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.19-04.03.58:398][189]LogInit: FAudioDevice initialized.
+[2023.02.19-04.03.58:415][189]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.02.19-04.03.58:419][189]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2023.02.18-20.03.58
+[2023.02.19-04.03.58:419][189]LogWorld: Bringing up level for play took: 0.000788
+[2023.02.19-04.03.58:419][189]LogOnline: OSS: Creating online subsystem instance for: :Context_57
+[2023.02.19-04.03.58:425][189]LogStreaming: Warning: Failed to read file '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/SaveGames/AdventureSaveGames.sav' error.
+[2023.02.19-04.03.58:425][189]LogBlueprintUserMessages: [MainMenuGameMode_C_0] Failed to cast object to SaveGamesList whilst loading list of save games.
+[2023.02.19-04.03.58:427][189]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.02.19-04.03.58:427][189]PIE: Server logged in
+[2023.02.19-04.03.58:429][189]PIE: Play in editor total start time 0.266 seconds.
+[2023.02.19-04.03.59:669][228]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.02.19-04.04.05:542][412]LogNet: Browse: /Game/Maps/MainMap
+[2023.02.19-04.04.05:542][412]LogLoad: LoadMap: /Game/Maps/MainMap
+[2023.02.19-04.04.05:542][412]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2023.02.19-04.04.05:543][412]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.02.19-04.04.05:543][412]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-04.04.05:607][412]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F616B107C0), frame # 179412
+[2023.02.19-04.04.05:607][412]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F616B08400), frame # 179412
+[2023.02.19-04.04.05:613][412]LogUObjectHash: Compacting FUObjectHashTables data took   5.39ms
+[2023.02.19-04.04.05:664][412]LogAIModule: Creating AISystem for world MainMap
+[2023.02.19-04.04.05:664][412]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F621D56000), frame # 179412
+[2023.02.19-04.04.05:664][412]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F67D8D02C0), frame # 179412
+[2023.02.19-04.04.05:665][412]LogLoad: Game class is 'AdventureGameMode_C'
+[2023.02.19-04.04.05:670][412]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2023.02.18-20.04.05
+[2023.02.19-04.04.05:671][412]LogWorld: Bringing up level for play took: 0.002828
+[2023.02.19-04.04.05:857][412]LogLoad: Took 0.315075 seconds to LoadMap(/Game/Maps/MainMap)
+[2023.02.19-04.04.18:830][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.19-04.04.18:830][689]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2023.02.19-04.04.18:831][689]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.19-04.04.18:834][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-04.04.18:915][689]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.19-04.04.18:928][689]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-04.04.19:105][689]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.19-04.04.19:133][689]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F621D56000), frame # 179689
+[2023.02.19-04.04.19:133][689]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F67D8D02C0), frame # 179689
+[2023.02.19-04.04.19:141][689]LogUObjectHash: Compacting FUObjectHashTables data took   7.58ms
+[2023.02.19-04.04.19:223][690]LogPlayLevel: Display: Destroying online subsystem :Context_57
+[2023.02.19-04.04.28:370][956]LogAssetEditorSubsystem: Opening Asset editor for World /Game/Maps/MainMap.MainMap
+[2023.02.19-04.04.28:441][956]LogUObjectHash: Compacting FUObjectHashTables data took   9.10ms
+[2023.02.19-04.04.28:443][956]Cmd: MAP LOAD FILE="../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Maps/MainMap.umap" TEMPLATE=0 SHOWPROGRESS=1 FEATURELEVEL=3
+[2023.02.19-04.04.28:444][956]LightingResults: New page: Lighting Build
+[2023.02.19-04.04.28:502][956]LoadErrors: New page: Loading map: MainMap.umap
+[2023.02.19-04.04.28:576][956]LogWorld: UWorld::CleanupWorld for World_27, bSessionEnded=true, bCleanupResources=true
+[2023.02.19-04.04.28:576][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-04.04.28:685][956]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.02.19-04.04.28:685][956]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-04.04.28:685][956]MapCheck: New page: Map Check
+[2023.02.19-04.04.28:685][956]LightingResults: New page: Lighting Build
+[2023.02.19-04.04.28:761][956]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F665AEAC00), frame # 179956
+[2023.02.19-04.04.28:761][956]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F5EFB43600), frame # 179956
+[2023.02.19-04.04.28:769][956]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2023.02.19-04.04.29:015][956]LogEditorServer: Finished looking for orphan Actors (0.000 secs)
+[2023.02.19-04.04.29:015][956]LogAIModule: Creating AISystem for world MainMap
+[2023.02.19-04.04.29:015][956]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F660007A00), frame # 179956
+[2023.02.19-04.04.29:015][956]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F7ADA039C0), frame # 179956
+[2023.02.19-04.04.29:073][956]LogUObjectHash: Compacting FUObjectHashTables data took   4.57ms
+[2023.02.19-04.04.29:135][956]Cmd: MAP CHECKDEP NOCLEARLOG
+[2023.02.19-04.04.29:136][956]MapCheck: Map check complete: 0 Error(s), 0 Warning(s), took 0.5ms to complete.
+[2023.02.19-04.04.29:136][956]LogFileHelpers: Loading map 'MainMap' took 0.693
+[2023.02.19-04.07.23:992][846]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.19-04.07.24:311][846]LogUObjectHash: Compacting FUObjectHashTables data took   9.14ms
+[2023.02.19-04.07.26:082][855]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameMode973971A2434773E96277A6950D184549.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.19-04.07.26:107][855]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.19-04.07.26:108][855]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.19-04.07.30:382][926]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.19-04.07.30:452][926]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.19-04.07.30:452][926]PIE: New page: PIE session: MainMap (18 Feb 2023, 12:07:30)
+[2023.02.19-04.07.30:453][926]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2023.02.19-04.07.30:459][926]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006042s)
+[2023.02.19-04.07.30:462][926]LogAIModule: Creating AISystem for world MainMap
+[2023.02.19-04.07.30:462][926]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F68505F800), frame # 182926
+[2023.02.19-04.07.30:462][926]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F5F4311D00), frame # 182926
+[2023.02.19-04.07.30:463][926]LogPlayLevel: PIE: World Init took: (0.003446s)
+[2023.02.19-04.07.30:463][926]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.009931s)
+[2023.02.19-04.07.30:551][926]LogUObjectHash: Compacting FUObjectHashTables data took  11.03ms
+[2023.02.19-04.07.30:553][926]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.19-04.07.30:553][926]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.19-04.07.30:554][926]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2023.02.19-04.07.30:554][926]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2023.02.19-04.07.30:554][926]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2023.02.19-04.07.30:554][926]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.19-04.07.30:554][926]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.19-04.07.30:554][926]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.19-04.07.30:555][926]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.19-04.07.30:555][926]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.19-04.07.30:563][926]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.19-04.07.30:563][926]LogAudioMixer: Display: 1: FrontRight
+[2023.02.19-04.07.30:680][926]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2023.02.19-04.07.30:681][926]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.19-04.07.30:681][926]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.19-04.07.30:681][926]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.19-04.07.30:682][926]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.19-04.07.30:731][926]LogInit: FAudioDevice initialized.
+[2023.02.19-04.07.30:747][926]LogLoad: Game class is 'AdventureGameMode_C'
+[2023.02.19-04.07.30:750][926]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2023.02.18-20.07.30
+[2023.02.19-04.07.30:751][926]LogWorld: Bringing up level for play took: 0.001550
+[2023.02.19-04.07.30:751][926]LogOnline: OSS: Creating online subsystem instance for: :Context_58
+[2023.02.19-04.07.30:976][926]PIE: Server logged in
+[2023.02.19-04.07.30:978][926]PIE: Play in editor total start time 0.538 seconds.
+[2023.02.19-04.07.38:720][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.19-04.07.38:720][ 76]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2023.02.19-04.07.38:721][ 76]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.19-04.07.38:724][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-04.07.38:821][ 76]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.19-04.07.38:831][ 76]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-04.07.38:997][ 76]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.19-04.07.39:003][ 76]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F5F4311D00), frame # 183076
+[2023.02.19-04.07.39:003][ 76]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F68505F800), frame # 183076
+[2023.02.19-04.07.39:013][ 76]LogUObjectHash: Compacting FUObjectHashTables data took   7.30ms
+[2023.02.19-04.07.39:110][ 77]LogPlayLevel: Display: Destroying online subsystem :Context_58
+[2023.02.19-04.08.09:703][603]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.19-04.08.09:764][603]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.19-04.08.09:764][603]PIE: New page: PIE session: MainMap (18 Feb 2023, 12:08:09)
+[2023.02.19-04.08.09:765][603]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2023.02.19-04.08.09:771][603]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005592s)
+[2023.02.19-04.08.09:774][603]LogAIModule: Creating AISystem for world MainMap
+[2023.02.19-04.08.09:774][603]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F7CD6DC800), frame # 183603
+[2023.02.19-04.08.09:774][603]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F777C64A40), frame # 183603
+[2023.02.19-04.08.09:775][603]LogPlayLevel: PIE: World Init took: (0.003777s)
+[2023.02.19-04.08.09:775][603]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.009823s)
+[2023.02.19-04.08.09:847][603]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2023.02.19-04.08.09:850][603]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.19-04.08.09:850][603]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.19-04.08.09:850][603]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2023.02.19-04.08.09:850][603]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2023.02.19-04.08.09:850][603]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2023.02.19-04.08.09:850][603]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.19-04.08.09:850][603]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.19-04.08.09:850][603]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.19-04.08.09:851][603]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.19-04.08.09:851][603]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.19-04.08.09:858][603]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.19-04.08.09:858][603]LogAudioMixer: Display: 1: FrontRight
+[2023.02.19-04.08.09:933][603]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2023.02.19-04.08.09:934][603]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.19-04.08.09:934][603]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.19-04.08.09:934][603]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.19-04.08.09:935][603]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.19-04.08.09:980][603]LogInit: FAudioDevice initialized.
+[2023.02.19-04.08.09:996][603]LogLoad: Game class is 'AdventureGameMode_C'
+[2023.02.19-04.08.09:999][603]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2023.02.18-20.08.09
+[2023.02.19-04.08.10:000][603]LogWorld: Bringing up level for play took: 0.001178
+[2023.02.19-04.08.10:000][603]LogOnline: OSS: Creating online subsystem instance for: :Context_59
+[2023.02.19-04.08.10:192][603]PIE: Server logged in
+[2023.02.19-04.08.10:193][603]PIE: Play in editor total start time 0.44 seconds.
+[2023.02.19-04.08.12:352][645]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 882
+[2023.02.19-04.08.12:352][645]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Adventure/Hex.Hex_C:ReceiveActorOnClicked
+	Function /Game/Blueprints/Adventure/Hex.Hex_C:ExecuteUbergraph_Hex
+	Function /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn_C:MovePlayer
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:AddDiscoveryDistanceHexes
+
+[2023.02.19-04.08.30:689][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.19-04.08.30:689][645]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2023.02.19-04.08.30:689][645]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.19-04.08.30:692][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-04.08.30:723][645]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.19-04.08.30:733][645]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-04.08.30:871][645]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.19-04.08.30:875][645]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F777C64A40), frame # 183645
+[2023.02.19-04.08.30:875][645]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F7CD6DC800), frame # 183645
+[2023.02.19-04.08.30:881][645]LogUObjectHash: Compacting FUObjectHashTables data took   5.06ms
+[2023.02.19-04.08.30:958][646]LogPlayLevel: Display: Destroying online subsystem :Context_59
+[2023.02.19-04.08.38:397][775]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.19-04.08.38:652][775]LogUObjectHash: Compacting FUObjectHashTables data took   6.58ms
+[2023.02.19-04.08.40:313][785]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameModeCB45F4CE4FD8EA9B2B1B54831DBBFB85.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.19-04.08.40:342][785]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.19-04.08.40:342][785]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.19-04.08.43:434][838]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.19-04.08.43:504][838]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.19-04.08.43:504][838]PIE: New page: PIE session: MainMap (18 Feb 2023, 12:08:43)
+[2023.02.19-04.08.43:505][838]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2023.02.19-04.08.43:511][838]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005859s)
+[2023.02.19-04.08.43:514][838]LogAIModule: Creating AISystem for world MainMap
+[2023.02.19-04.08.43:514][838]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F7B5277E00), frame # 183838
+[2023.02.19-04.08.43:514][838]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F64A02F740), frame # 183838
+[2023.02.19-04.08.43:515][838]LogPlayLevel: PIE: World Init took: (0.003712s)
+[2023.02.19-04.08.43:515][838]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.010001s)
+[2023.02.19-04.08.43:606][838]LogUObjectHash: Compacting FUObjectHashTables data took  10.79ms
+[2023.02.19-04.08.43:610][838]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.19-04.08.43:611][838]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.19-04.08.43:611][838]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2023.02.19-04.08.43:611][838]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2023.02.19-04.08.43:611][838]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2023.02.19-04.08.43:611][838]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.19-04.08.43:611][838]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.19-04.08.43:611][838]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.19-04.08.43:612][838]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.19-04.08.43:612][838]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.19-04.08.43:620][838]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.19-04.08.43:621][838]LogAudioMixer: Display: 1: FrontRight
+[2023.02.19-04.08.43:729][838]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2023.02.19-04.08.43:729][838]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.19-04.08.43:729][838]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.19-04.08.43:730][838]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.19-04.08.43:731][838]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.19-04.08.43:783][838]LogInit: FAudioDevice initialized.
+[2023.02.19-04.08.43:804][838]LogLoad: Game class is 'AdventureGameMode_C'
+[2023.02.19-04.08.43:808][838]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2023.02.18-20.08.43
+[2023.02.19-04.08.43:808][838]LogWorld: Bringing up level for play took: 0.001405
+[2023.02.19-04.08.43:809][838]LogOnline: OSS: Creating online subsystem instance for: :Context_60
+[2023.02.19-04.08.44:058][838]PIE: Server logged in
+[2023.02.19-04.08.44:060][838]PIE: Play in editor total start time 0.568 seconds.
+[2023.02.19-04.08.45:589][867]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_IfThenElse', from offset 882
+[2023.02.19-04.08.45:590][867]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Adventure/Hex.Hex_C:ReceiveActorOnClicked
+	Function /Game/Blueprints/Adventure/Hex.Hex_C:ExecuteUbergraph_Hex
+	Function /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn_C:MovePlayer
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:AddDiscoveryDistanceHexes
+
+[2023.02.19-04.09.03:010][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.19-04.09.03:011][ 24]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2023.02.19-04.09.03:012][ 24]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.19-04.09.03:017][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-04.09.03:120][ 24]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.19-04.09.03:134][ 24]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-04.09.03:291][ 24]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.19-04.09.03:299][ 24]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F64A02F740), frame # 184024
+[2023.02.19-04.09.03:299][ 24]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F7B5277E00), frame # 184024
+[2023.02.19-04.09.03:308][ 24]LogUObjectHash: Compacting FUObjectHashTables data took   7.43ms
+[2023.02.19-04.09.03:408][ 25]LogPlayLevel: Display: Destroying online subsystem :Context_60
+[2023.02.19-04.15.35:300][666]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.19-04.15.35:363][666]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.19-04.15.35:364][666]PIE: New page: PIE session: MainMap (18 Feb 2023, 12:15:35)
+[2023.02.19-04.15.35:365][666]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2023.02.19-04.15.35:372][666]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007645s)
+[2023.02.19-04.15.35:376][666]LogAIModule: Creating AISystem for world MainMap
+[2023.02.19-04.15.35:376][666]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F6368FDC00), frame # 191666
+[2023.02.19-04.15.35:377][666]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F6155016C0), frame # 191666
+[2023.02.19-04.15.35:377][666]LogPlayLevel: PIE: World Init took: (0.004186s)
+[2023.02.19-04.15.35:377][666]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.012322s)
+[2023.02.19-04.15.35:464][666]LogUObjectHash: Compacting FUObjectHashTables data took   6.67ms
+[2023.02.19-04.15.35:469][666]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.19-04.15.35:470][666]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.19-04.15.35:470][666]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2023.02.19-04.15.35:470][666]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2023.02.19-04.15.35:470][666]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2023.02.19-04.15.35:470][666]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.19-04.15.35:470][666]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.19-04.15.35:470][666]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.19-04.15.35:471][666]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.19-04.15.35:471][666]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.19-04.15.35:480][666]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.19-04.15.35:480][666]LogAudioMixer: Display: 1: FrontRight
+[2023.02.19-04.15.35:567][666]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2023.02.19-04.15.35:568][666]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.19-04.15.35:568][666]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.19-04.15.35:568][666]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.19-04.15.35:571][666]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.19-04.15.35:612][666]LogInit: FAudioDevice initialized.
+[2023.02.19-04.15.35:629][666]LogLoad: Game class is 'AdventureGameMode_C'
+[2023.02.19-04.15.35:632][666]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2023.02.18-20.15.35
+[2023.02.19-04.15.35:632][666]LogWorld: Bringing up level for play took: 0.001089
+[2023.02.19-04.15.35:633][666]LogOnline: OSS: Creating online subsystem instance for: :Context_61
+[2023.02.19-04.15.35:825][666]PIE: Server logged in
+[2023.02.19-04.15.35:826][666]PIE: Play in editor total start time 0.475 seconds.
+[2023.02.19-04.15.37:907][705]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_CalculateHexDistances', from offset 271
+[2023.02.19-04.15.37:907][705]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Adventure/Hex.Hex_C:ReceiveActorOnClicked
+	Function /Game/Blueprints/Adventure/Hex.Hex_C:ExecuteUbergraph_Hex
+	Function /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn_C:MovePlayer
+
+[2023.02.19-04.16.22:236][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.19-04.16.22:237][259]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2023.02.19-04.16.22:238][259]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.19-04.16.22:249][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-04.16.22:345][259]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.19-04.16.22:356][259]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-04.16.22:496][259]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.19-04.16.22:510][259]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F6155016C0), frame # 192259
+[2023.02.19-04.16.22:510][259]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F6368FDC00), frame # 192259
+[2023.02.19-04.16.22:518][259]LogUObjectHash: Compacting FUObjectHashTables data took   6.32ms
+[2023.02.19-04.16.22:585][260]LogPlayLevel: Display: Destroying online subsystem :Context_61
+[2023.02.19-04.16.49:722][769]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Adventure/Hex.Hex
+[2023.02.19-04.17.06:539][ 39]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.19-04.17.06:851][ 39]LogUObjectHash: Compacting FUObjectHashTables data took   8.25ms
+[2023.02.19-04.17.08:408][ 44]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameMode50B91512491DC35BE3B39AA029D6D258.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.19-04.17.08:441][ 44]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.19-04.17.08:441][ 44]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.19-04.17.16:955][179]BlueprintLog: New page: Compile Hex
+[2023.02.19-04.17.17:242][179]LogUObjectHash: Compacting FUObjectHashTables data took   9.38ms
+[2023.02.19-04.17.18:630][185]Cmd: OBJ SAVEPACKAGE PACKAGE="/Game/Blueprints/Adventure/Hex" FILE="../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hex.uasset" SILENT=true
+[2023.02.19-04.17.18:828][185]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexAAF1D0BC476681A9034127960759E319.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hex.uasset'
+[2023.02.19-04.17.18:856][185]AssetCheck: New page: Asset Save: Hex
+[2023.02.19-04.17.18:856][185]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hex.Hex
+[2023.02.19-04.17.22:774][261]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.19-04.17.22:833][261]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.19-04.17.22:833][261]PIE: New page: PIE session: MainMap (18 Feb 2023, 12:17:22)
+[2023.02.19-04.17.22:834][261]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2023.02.19-04.17.22:841][261]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006797s)
+[2023.02.19-04.17.22:844][261]LogAIModule: Creating AISystem for world MainMap
+[2023.02.19-04.17.22:845][261]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F68505F400), frame # 193261
+[2023.02.19-04.17.22:845][261]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F5F4BBCF40), frame # 193261
+[2023.02.19-04.17.22:845][261]LogPlayLevel: PIE: World Init took: (0.003805s)
+[2023.02.19-04.17.22:845][261]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.011085s)
+[2023.02.19-04.17.22:920][261]LogUObjectHash: Compacting FUObjectHashTables data took   8.18ms
+[2023.02.19-04.17.22:921][261]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.19-04.17.22:921][261]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.19-04.17.22:921][261]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2023.02.19-04.17.22:922][261]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2023.02.19-04.17.22:922][261]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2023.02.19-04.17.22:922][261]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.19-04.17.22:922][261]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.19-04.17.22:922][261]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.19-04.17.22:923][261]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.19-04.17.22:923][261]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.19-04.17.22:930][261]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.19-04.17.22:930][261]LogAudioMixer: Display: 1: FrontRight
+[2023.02.19-04.17.23:009][261]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2023.02.19-04.17.23:009][261]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.19-04.17.23:010][261]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.19-04.17.23:010][261]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.19-04.17.23:011][261]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.19-04.17.23:052][261]LogInit: FAudioDevice initialized.
+[2023.02.19-04.17.23:071][261]LogLoad: Game class is 'AdventureGameMode_C'
+[2023.02.19-04.17.23:074][261]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2023.02.18-20.17.23
+[2023.02.19-04.17.23:074][261]LogWorld: Bringing up level for play took: 0.001036
+[2023.02.19-04.17.23:075][261]LogOnline: OSS: Creating online subsystem instance for: :Context_63
+[2023.02.19-04.17.23:160][261]PIE: Server logged in
+[2023.02.19-04.17.23:162][261]PIE: Play in editor total start time 0.337 seconds.
+[2023.02.19-04.18.03:444][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.19-04.18.03:444][858]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2023.02.19-04.18.03:446][858]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.19-04.18.03:451][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-04.18.03:611][858]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.19-04.18.03:618][858]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-04.18.03:681][858]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.19-04.18.03:739][858]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F5F4BBCF40), frame # 193858
+[2023.02.19-04.18.03:739][858]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F68505F400), frame # 193858
+[2023.02.19-04.18.03:747][858]LogUObjectHash: Compacting FUObjectHashTables data took   5.59ms
+[2023.02.19-04.18.03:811][859]LogPlayLevel: Display: Destroying online subsystem :Context_63
+[2023.02.19-04.25.02:442][270]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.19-04.25.02:644][270]LogUObjectHash: Compacting FUObjectHashTables data took   6.49ms
+[2023.02.19-04.25.04:035][285]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameMode214CD112485FBFF10D2F5E80E950ED5E.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.19-04.25.04:057][285]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.19-04.25.04:057][285]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.19-04.25.11:053][434]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.19-04.25.11:243][434]LogUObjectHash: Compacting FUObjectHashTables data took   5.84ms
+[2023.02.19-04.25.12:712][450]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameMode66F6465F470A30F2EA3DE185DB30A46B.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.19-04.25.12:738][450]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.19-04.25.12:738][450]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.19-04.25.15:383][521]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.19-04.25.15:432][521]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.19-04.25.15:432][521]PIE: New page: PIE session: MainMap (18 Feb 2023, 12:25:15)
+[2023.02.19-04.25.15:432][521]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2023.02.19-04.25.15:439][521]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006671s)
+[2023.02.19-04.25.15:442][521]LogAIModule: Creating AISystem for world MainMap
+[2023.02.19-04.25.15:442][521]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (000001F7E6528800), frame # 206521
+[2023.02.19-04.25.15:442][521]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (000001F778176480), frame # 206521
+[2023.02.19-04.25.15:443][521]LogPlayLevel: PIE: World Init took: (0.003385s)
+[2023.02.19-04.25.15:443][521]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.010488s)
+[2023.02.19-04.25.15:507][521]LogUObjectHash: Compacting FUObjectHashTables data took   6.68ms
+[2023.02.19-04.25.15:509][521]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.19-04.25.15:509][521]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.19-04.25.15:509][521]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2023.02.19-04.25.15:509][521]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2023.02.19-04.25.15:509][521]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2023.02.19-04.25.15:509][521]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.19-04.25.15:509][521]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.19-04.25.15:509][521]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.19-04.25.15:510][521]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.19-04.25.15:510][521]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.19-04.25.15:517][521]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.19-04.25.15:517][521]LogAudioMixer: Display: 1: FrontRight
+[2023.02.19-04.25.15:606][521]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2023.02.19-04.25.15:607][521]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.19-04.25.15:607][521]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.19-04.25.15:607][521]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.19-04.25.15:608][521]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.19-04.25.15:643][521]LogInit: FAudioDevice initialized.
+[2023.02.19-04.25.15:656][521]LogLoad: Game class is 'AdventureGameMode_C'
+[2023.02.19-04.25.15:660][521]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2023.02.18-20.25.15
+[2023.02.19-04.25.15:661][521]LogWorld: Bringing up level for play took: 0.000955
+[2023.02.19-04.25.15:661][521]LogOnline: OSS: Creating online subsystem instance for: :Context_64
+[2023.02.19-04.25.15:743][521]PIE: Server logged in
+[2023.02.19-04.25.15:744][521]PIE: Play in editor total start time 0.321 seconds.
+[2023.02.19-04.25.37:694][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.19-04.25.37:694][865]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2023.02.19-04.25.37:695][865]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.19-04.25.37:698][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-04.25.37:809][865]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.19-04.25.37:817][865]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.19-04.25.37:928][865]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.19-04.25.37:932][865]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (000001F778176480), frame # 206865
+[2023.02.19-04.25.37:932][865]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (000001F7E6528800), frame # 206865
+[2023.02.19-04.25.37:939][865]LogUObjectHash: Compacting FUObjectHashTables data took   5.45ms
+[2023.02.19-04.25.38:002][866]LogPlayLevel: Display: Destroying online subsystem :Context_64
