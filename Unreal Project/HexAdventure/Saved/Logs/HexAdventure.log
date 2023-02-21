@@ -1319,3 +1319,1138 @@ LogConfig: Setting CVar [[r.setres:1280x720]]
 [2023.02.21-01.20.57:787][630]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/PostSplashScreen/Content' is outside repository at 'C:/Users/carlt/source/repos/HexAdventure'
 [2023.02.21-01.20.57:787][630]SourceControl: fatal: C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content: 'C:/Program Files/Epic Games/UE_4.25/Engine/Plugins/Runtime/Steam/SteamVR/Content' is outside repository at 'C:/Users/carlt/source/repos/HexAdventure'
 [2023.02.21-01.21.08:665][630]LogSlate: Window 'Submit Files' being destroyed
+[2023.02.21-01.24.52:964][295]LogContentBrowser: Verbose: The majority of assets in the view are of type: None
+[2023.02.21-01.24.59:206][411]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.02.21-01.25.01:956][560]LogContentBrowser: Verbose: The majority of assets in the view are of type: Blueprint
+[2023.02.21-01.25.05:275][755]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Adventure/Hexes/HexObjects/HexObject.HexObject
+[2023.02.21-01.25.05:655][755]LogContentBrowser: Native class hierarchy updated for 'BlueprintGraph' in 0.0007 seconds. Added 125 classes and 0 folders.
+[2023.02.21-01.25.06:682][755]LogSlate: Took 0.000372 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensed.ttf' (158K)
+[2023.02.21-01.25.11:406][961]LogLinker: Warning: Failed to load '/Game/Blueprints/Adventure/HexTypes/GrassHexes/FieldHex': Can't find file.
+[2023.02.21-01.25.11:407][961]LogLinker: Warning: Failed to load '/Game/Blueprints/Adventure/HexTypes/GrassHexes/FieldHex': Can't find file.
+[2023.02.21-01.25.11:407][961]LogUObjectGlobals: Warning: Failed to find object 'Object /Game/Blueprints/Adventure/HexTypes/GrassHexes/FieldHex.FieldHex_C'
+[2023.02.21-01.25.34:246][947]LogSlate: Took 0.001326 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-BoldCondensedItalic.ttf' (160K)
+[2023.02.21-01.25.44:394][427]BlueprintLog: New page: Compile HexObject
+[2023.02.21-01.25.44:440][427]LogUObjectHash: Compacting FUObjectHashTables data took   3.95ms
+[2023.02.21-01.25.44:471][427]LogSlate: Took 0.000973 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/DroidSansMono.ttf' (77K)
+[2023.02.21-01.25.45:346][452]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexObject168C22B64A7FDAEA1325BD87750F9A39.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/HexObjects/HexObject.uasset'
+[2023.02.21-01.25.45:923][452]AssetCheck: New page: Asset Save: HexObject
+[2023.02.21-01.25.45:923][452]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/HexObjects/HexObject.HexObject
+[2023.02.21-01.26.08:259][637]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedEnum /Game/Blueprints/Adventure/Hexes/HexObjects/HexObjectTypes.HexObjectTypes
+[2023.02.21-01.26.16:427][ 16]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexObjectTypes5F048B744DF4ADADE726CF8DA7316BC0.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/HexObjects/HexObjectTypes.uasset'
+[2023.02.21-01.26.16:895][ 16]AssetCheck: New page: Asset Save: HexObjectTypes
+[2023.02.21-01.26.16:895][ 16]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/Adventure/Hexes/HexObjects/HexObjectTypes.HexObjectTypes
+[2023.02.21-01.26.51:136][713]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexObjectTypesBC7C55554C7F09533528FB985A4C6422.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/HexObjects/HexObjectTypes.uasset'
+[2023.02.21-01.26.51:148][713]AssetCheck: New page: Asset Save: HexObjectTypes
+[2023.02.21-01.26.51:148][713]LogContentValidation: Display: Validating UserDefinedEnum /Game/Blueprints/Adventure/Hexes/HexObjects/HexObjectTypes.HexObjectTypes
+[2023.02.21-01.26.52:532][769]BlueprintLog: New page: Compile HexObject
+[2023.02.21-01.26.52:574][769]LogUObjectHash: Compacting FUObjectHashTables data took   3.43ms
+[2023.02.21-01.26.54:006][813]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexObjectD40AA6674523FE359386BCBFFDC1CED8.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/HexObjects/HexObject.uasset'
+[2023.02.21-01.26.54:018][813]AssetCheck: New page: Asset Save: HexObject
+[2023.02.21-01.26.54:018][813]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/HexObjects/HexObject.HexObject
+[2023.02.21-01.27.00:367][ 70]BlueprintLog: New page: Compile HexObject
+[2023.02.21-01.27.00:370][ 70]LogClass: Warning: Type mismatch in Type of HexObject_C - Previous (ArrayProperty) Current(ByteProperty) for package:  FObjectReader
+[2023.02.21-01.27.00:410][ 70]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2023.02.21-01.27.01:446][ 96]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexObject9C00BC964998FF0157054CA500800D9B.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/HexObjects/HexObject.uasset'
+[2023.02.21-01.27.01:460][ 96]AssetCheck: New page: Asset Save: HexObject
+[2023.02.21-01.27.01:461][ 96]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/HexObjects/HexObject.HexObject
+[2023.02.21-01.27.28:686][180]BlueprintLog: New page: Compile HexObject
+[2023.02.21-01.27.28:742][180]LogUObjectHash: Compacting FUObjectHashTables data took   5.19ms
+[2023.02.21-01.27.29:685][197]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexObject637AEEEF46BF221A6287209AEA25D895.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/HexObjects/HexObject.uasset'
+[2023.02.21-01.27.29:700][197]AssetCheck: New page: Asset Save: HexObject
+[2023.02.21-01.27.29:700][197]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/HexObjects/HexObject.HexObject
+[2023.02.21-01.28.53:311][482]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Adventure/AdventureGameState.AdventureGameState
+[2023.02.21-01.29.09:495][807]BlueprintLog: New page: Compile AdventureGameState
+[2023.02.21-01.29.09:614][807]LogUObjectHash: Compacting FUObjectHashTables data took   6.30ms
+[2023.02.21-01.29.10:883][816]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameStateDAD8EB1346D04051F63D00BA26F4D5D1.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameState.uasset'
+[2023.02.21-01.29.10:906][816]AssetCheck: New page: Asset Save: AdventureGameState
+[2023.02.21-01.29.10:906][816]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameState.AdventureGameState
+[2023.02.21-01.29.17:567][959]LogSlate: Took 0.003895 seconds to synchronously load lazily loaded font '../../../Engine/Content/Slate/Fonts/Roboto-Italic.ttf' (157K)
+[2023.02.21-01.29.22:797][ 90]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Adventure/Hexes/Hex.Hex
+[2023.02.21-01.31.36:400][688]BlueprintLog: New page: Compile Hex
+[2023.02.21-01.31.36:672][688]LogUObjectHash: Compacting FUObjectHashTables data took   5.27ms
+[2023.02.21-01.31.37:821][700]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Hex698498614E788C8103135E96CADAAD6F.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/Hex.uasset'
+[2023.02.21-01.31.37:844][700]AssetCheck: New page: Asset Save: Hex
+[2023.02.21-01.31.37:844][700]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/Hex.Hex
+[2023.02.21-01.31.48:453][ 53]BlueprintLog: New page: Compile Hex
+[2023.02.21-01.31.48:669][ 53]LogUObjectHash: Compacting FUObjectHashTables data took   4.35ms
+[2023.02.21-01.31.49:785][ 66]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Hex04270F734335A0735A6B36AD7BC45D16.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/Hex.uasset'
+[2023.02.21-01.31.49:808][ 66]AssetCheck: New page: Asset Save: Hex
+[2023.02.21-01.31.49:808][ 66]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/Hex.Hex
+[2023.02.21-01.31.50:545][ 87]LogRenderer: Reallocating scene render targets to support 924x572 Format 10 NumSamples 1 (Frame:1).
+[2023.02.21-01.32.48:116][725]BlueprintLog: New page: Compile Hex
+[2023.02.21-01.32.48:392][725]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2023.02.21-01.32.49:527][733]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Hex3A359E994A8E316DA8A43FA1DF776696.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/Hex.uasset'
+[2023.02.21-01.32.49:548][733]AssetCheck: New page: Asset Save: Hex
+[2023.02.21-01.32.49:548][733]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/Hex.Hex
+[2023.02.21-01.32.52:998][807]BlueprintLog: New page: Compile Hex
+[2023.02.21-01.32.53:385][807]LogUObjectHash: Compacting FUObjectHashTables data took  10.92ms
+[2023.02.21-01.32.54:635][812]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexB3ED5832411D310A70EF92951FF63533.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/Hex.uasset'
+[2023.02.21-01.32.54:658][812]AssetCheck: New page: Asset Save: Hex
+[2023.02.21-01.32.54:658][812]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/Hex.Hex
+[2023.02.21-01.39.59:043][959]BlueprintLog: New page: Compile Hex
+[2023.02.21-01.39.59:295][959]LogUObjectHash: Compacting FUObjectHashTables data took   5.98ms
+[2023.02.21-01.40.00:695][972]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexD3BE400D4FCFC0658477F4B2844AB146.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/Hex.uasset'
+[2023.02.21-01.40.00:718][972]AssetCheck: New page: Asset Save: Hex
+[2023.02.21-01.40.00:718][972]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/Hex.Hex
+[2023.02.21-01.40.12:191][232]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Hex3D9C68134A951983F65108B04E35C0EC.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/Hex.uasset'
+[2023.02.21-01.40.12:216][232]AssetCheck: New page: Asset Save: Hex
+[2023.02.21-01.40.12:216][232]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/Hex.Hex
+[2023.02.21-01.40.37:555][896]BlueprintLog: New page: Compile Hex
+[2023.02.21-01.40.37:863][896]LogUObjectHash: Compacting FUObjectHashTables data took   6.86ms
+[2023.02.21-01.40.39:613][907]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Hex2F1B608541A6C5F04D0F7FA00B843991.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/Hex.uasset'
+[2023.02.21-01.40.39:642][907]AssetCheck: New page: Asset Save: Hex
+[2023.02.21-01.40.39:642][907]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/Hex.Hex
+[2023.02.21-01.41.14:669][871]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.21-01.42.07:313][732]LogUObjectHash: Compacting FUObjectHashTables data took   8.68ms
+[2023.02.21-01.42.07:315][732]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 0.086
+[2023.02.21-01.42.07:320][732]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Adventure/Hexes/GrassHex] ([1] browsable assets)...
+[2023.02.21-01.42.07:392][732]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Adventure/Hexes/GrassHex.GrassHex]
+[2023.02.21-01.42.07:392][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/GrassHex]
+[2023.02.21-01.42.07:576][732]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/GrassHex_Auto18AD8F92544DFC4BA513A99A0EBF0E7B5.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/GrassHex_Auto1.uasset'
+[2023.02.21-01.42.07:581][732]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Adventure/Hexes/GrassHexes/FieldHex] ([1] browsable assets)...
+[2023.02.21-01.42.07:647][732]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Adventure/Hexes/GrassHexes/FieldHex.FieldHex]
+[2023.02.21-01.42.07:647][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/GrassHexes/FieldHex]
+[2023.02.21-01.42.07:811][732]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/FieldHex_Auto135B5813D41778602947E87BAF5CD5D4E.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/GrassHexes/FieldHex_Auto1.uasset'
+[2023.02.21-01.42.07:814][732]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Adventure/Hexes/GrassHexes/ForestHex] ([1] browsable assets)...
+[2023.02.21-01.42.07:880][732]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Adventure/Hexes/GrassHexes/ForestHex.ForestHex]
+[2023.02.21-01.42.07:880][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/GrassHexes/ForestHex]
+[2023.02.21-01.42.08:032][732]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/ForestHex_Auto16476C115448DE877A53EFDAECC8BC719.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/GrassHexes/ForestHex_Auto1.uasset'
+[2023.02.21-01.42.08:035][732]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Adventure/Hexes/GrassHexes/MeadowHex] ([1] browsable assets)...
+[2023.02.21-01.42.08:097][732]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Adventure/Hexes/GrassHexes/MeadowHex.MeadowHex]
+[2023.02.21-01.42.08:097][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/GrassHexes/MeadowHex]
+[2023.02.21-01.42.08:251][732]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/MeadowHex_Auto1773E0F9A41BAD81379FA65B9D093FD77.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/GrassHexes/MeadowHex_Auto1.uasset'
+[2023.02.21-01.42.08:256][732]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Adventure/Hexes/StoneHex] ([1] browsable assets)...
+[2023.02.21-01.42.08:318][732]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Adventure/Hexes/StoneHex.StoneHex]
+[2023.02.21-01.42.08:319][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/StoneHex]
+[2023.02.21-01.42.08:464][732]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/StoneHex_Auto1DCBCDB6241DD59450CE937B11F25F2BF.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/StoneHex_Auto1.uasset'
+[2023.02.21-01.42.08:468][732]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Adventure/Hexes/StoneHexes/CavesHex] ([1] browsable assets)...
+[2023.02.21-01.42.08:532][732]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Adventure/Hexes/StoneHexes/CavesHex.CavesHex]
+[2023.02.21-01.42.08:532][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/StoneHexes/CavesHex]
+[2023.02.21-01.42.08:666][732]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/CavesHex_Auto1ECE8992240860958F08EAB85224D3AF1.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/StoneHexes/CavesHex_Auto1.uasset'
+[2023.02.21-01.42.08:670][732]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Adventure/Hexes/StoneHexes/HillsHex] ([1] browsable assets)...
+[2023.02.21-01.42.08:732][732]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Adventure/Hexes/StoneHexes/HillsHex.HillsHex]
+[2023.02.21-01.42.08:732][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/StoneHexes/HillsHex]
+[2023.02.21-01.42.08:866][732]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HillsHex_Auto1FFC7F5A1457C9F1E0F2F398FA1831DDF.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/StoneHexes/HillsHex_Auto1.uasset'
+[2023.02.21-01.42.08:869][732]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Adventure/Hexes/StoneHexes/MountainHex] ([1] browsable assets)...
+[2023.02.21-01.42.08:930][732]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Adventure/Hexes/StoneHexes/MountainHex.MountainHex]
+[2023.02.21-01.42.08:930][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/StoneHexes/MountainHex]
+[2023.02.21-01.42.09:049][732]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/MountainHex_Auto13AD878A746BB913348334E8F031EC17F.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/StoneHexes/MountainHex_Auto1.uasset'
+[2023.02.21-01.42.09:054][732]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Adventure/Hexes/WaterHex] ([1] browsable assets)...
+[2023.02.21-01.42.09:114][732]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Adventure/Hexes/WaterHex.WaterHex]
+[2023.02.21-01.42.09:114][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/WaterHex]
+[2023.02.21-01.42.09:225][732]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/WaterHex_Auto160C2B08F42B49EFFEB0067A00D5AAA44.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/WaterHex_Auto1.uasset'
+[2023.02.21-01.42.09:229][732]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Adventure/Hexes/WaterHexes/LakeHex] ([1] browsable assets)...
+[2023.02.21-01.42.09:288][732]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/LakeHex.LakeHex]
+[2023.02.21-01.42.09:288][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/WaterHexes/LakeHex]
+[2023.02.21-01.42.09:400][732]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/LakeHex_Auto1AE900FE44162A5ED4F9BF492407B7A5C.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/WaterHexes/LakeHex_Auto1.uasset'
+[2023.02.21-01.42.09:401][732]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Adventure/Hexes/WaterHexes/OceanHex] ([1] browsable assets)...
+[2023.02.21-01.42.09:465][732]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/OceanHex.OceanHex]
+[2023.02.21-01.42.09:465][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/WaterHexes/OceanHex]
+[2023.02.21-01.42.09:573][732]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/OceanHex_Auto1D0A8CA1E45C305ABB9ED11B917C345BF.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/WaterHexes/OceanHex_Auto1.uasset'
+[2023.02.21-01.42.09:576][732]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex] ([1] browsable assets)...
+[2023.02.21-01.42.09:631][732]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex]
+[2023.02.21-01.42.09:631][732]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex]
+[2023.02.21-01.42.09:726][732]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/RiverHex_Auto1E2D2D67F4BCB926BB1561791F6ED6C04.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex_Auto1.uasset'
+[2023.02.21-01.42.09:728][732]LogFileHelpers: Auto-saving content packages took 2.411
+[2023.02.21-01.43.37:838][273]BlueprintLog: New page: Compile Hex
+[2023.02.21-01.43.38:206][273]LogUObjectHash: Compacting FUObjectHashTables data took   7.36ms
+[2023.02.21-01.43.39:687][280]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Hex03B3A4964A86B2433C93B88FBC5D568B.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/Hex.uasset'
+[2023.02.21-01.43.39:713][280]AssetCheck: New page: Asset Save: Hex
+[2023.02.21-01.43.39:713][280]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/Hex.Hex
+[2023.02.21-01.47.31:560][341]BlueprintLog: New page: Compile Hex
+[2023.02.21-01.47.31:858][341]LogUObjectHash: Compacting FUObjectHashTables data took   6.45ms
+[2023.02.21-01.47.33:024][348]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexC6DF9A4844A521EF6CF744BF850ACB31.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/Hex.uasset'
+[2023.02.21-01.47.33:047][348]AssetCheck: New page: Asset Save: Hex
+[2023.02.21-01.47.33:048][348]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/Hex.Hex
+[2023.02.21-01.47.48:328][745]BlueprintLog: New page: Compile Hex
+[2023.02.21-01.47.48:568][745]LogUObjectHash: Compacting FUObjectHashTables data took   6.53ms
+[2023.02.21-01.47.49:666][753]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Hex01CD81EC448FD678530122ADEC65BF7F.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/Hex.uasset'
+[2023.02.21-01.47.49:692][753]AssetCheck: New page: Asset Save: Hex
+[2023.02.21-01.47.49:692][753]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/Hex.Hex
+[2023.02.21-01.51.03:834][688]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Adventure/Hexes/ArrayHexes.ArrayHexes
+[2023.02.21-01.51.09:397][859]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex
+[2023.02.21-01.51.13:059][929]LogWorld: UWorld::CleanupWorld for World_18, bSessionEnded=true, bCleanupResources=true
+[2023.02.21-01.51.13:059][929]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-01.51.13:194][929]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex
+[2023.02.21-01.52.38:133][162]LogUObjectHash: Compacting FUObjectHashTables data took   8.11ms
+[2023.02.21-01.52.38:137][162]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 0.097
+[2023.02.21-01.52.38:142][162]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/Hexes/GrassHex] ([1] browsable assets)...
+[2023.02.21-01.52.38:142][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/GrassHex]
+[2023.02.21-01.52.38:309][162]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/GrassHex_Auto26D70A75946D8834754E95C825FDECAAB.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/GrassHex_Auto2.uasset'
+[2023.02.21-01.52.38:313][162]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/Hexes/GrassHexes/FieldHex] ([1] browsable assets)...
+[2023.02.21-01.52.38:313][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/GrassHexes/FieldHex]
+[2023.02.21-01.52.38:468][162]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/FieldHex_Auto2314E3E6A49757FDDCDC9ABA83700D13C.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/GrassHexes/FieldHex_Auto2.uasset'
+[2023.02.21-01.52.38:472][162]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/Hexes/GrassHexes/ForestHex] ([1] browsable assets)...
+[2023.02.21-01.52.38:472][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/GrassHexes/ForestHex]
+[2023.02.21-01.52.38:614][162]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/ForestHex_Auto20C43F90E4424CBAA50DD72872BB3ADF7.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/GrassHexes/ForestHex_Auto2.uasset'
+[2023.02.21-01.52.38:617][162]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/Hexes/GrassHexes/MeadowHex] ([1] browsable assets)...
+[2023.02.21-01.52.38:618][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/GrassHexes/MeadowHex]
+[2023.02.21-01.52.38:756][162]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/MeadowHex_Auto29A48CB60432484A30814E1BF81F40AAF.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/GrassHexes/MeadowHex_Auto2.uasset'
+[2023.02.21-01.52.38:759][162]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/Hexes/StoneHex] ([1] browsable assets)...
+[2023.02.21-01.52.38:759][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/StoneHex]
+[2023.02.21-01.52.38:891][162]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/StoneHex_Auto2EB82E3FA4486B6C366975B9F1FEEC9DF.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/StoneHex_Auto2.uasset'
+[2023.02.21-01.52.38:894][162]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/Hexes/StoneHexes/CavesHex] ([1] browsable assets)...
+[2023.02.21-01.52.38:894][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/StoneHexes/CavesHex]
+[2023.02.21-01.52.39:044][162]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/CavesHex_Auto297A15A8E4A57D73A4AE76281760B8695.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/StoneHexes/CavesHex_Auto2.uasset'
+[2023.02.21-01.52.39:047][162]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/Hexes/StoneHexes/HillsHex] ([1] browsable assets)...
+[2023.02.21-01.52.39:047][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/StoneHexes/HillsHex]
+[2023.02.21-01.52.39:171][162]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HillsHex_Auto2E10282CF4F712CF6815865B4C2154877.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/StoneHexes/HillsHex_Auto2.uasset'
+[2023.02.21-01.52.39:174][162]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/Hexes/StoneHexes/MountainHex] ([1] browsable assets)...
+[2023.02.21-01.52.39:174][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/StoneHexes/MountainHex]
+[2023.02.21-01.52.39:293][162]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/MountainHex_Auto208A1E64A4CD6D1E103CA8C9794512FEA.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/StoneHexes/MountainHex_Auto2.uasset'
+[2023.02.21-01.52.39:296][162]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/Hexes/WaterHex] ([1] browsable assets)...
+[2023.02.21-01.52.39:296][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/WaterHex]
+[2023.02.21-01.52.39:410][162]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/WaterHex_Auto23CAB435642F99BE9413AA18E62E4AF6C.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/WaterHex_Auto2.uasset'
+[2023.02.21-01.52.39:412][162]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/Hexes/WaterHexes/LakeHex] ([1] browsable assets)...
+[2023.02.21-01.52.39:413][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/WaterHexes/LakeHex]
+[2023.02.21-01.52.39:524][162]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/LakeHex_Auto20721BB264C9B6E693917B6A9AC295E88.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/WaterHexes/LakeHex_Auto2.uasset'
+[2023.02.21-01.52.39:527][162]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/Hexes/WaterHexes/OceanHex] ([1] browsable assets)...
+[2023.02.21-01.52.39:527][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/WaterHexes/OceanHex]
+[2023.02.21-01.52.39:633][162]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/OceanHex_Auto23FC504E4452E03D6C8D3F3862205A949.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/WaterHexes/OceanHex_Auto2.uasset'
+[2023.02.21-01.52.39:636][162]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex] ([1] browsable assets)...
+[2023.02.21-01.52.39:697][162]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex]
+[2023.02.21-01.52.39:697][162]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex]
+[2023.02.21-01.52.39:815][162]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/RiverHex_Auto2D087F0084E80785A1AB14C82B521B599.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex_Auto2.uasset'
+[2023.02.21-01.52.39:817][162]LogFileHelpers: Auto-saving content packages took 1.678
+[2023.02.21-02.00.43:147][321]BlueprintLog: New page: Compile RiverHex
+[2023.02.21-02.00.43:382][321]LogUObjectHash: Compacting FUObjectHashTables data took   9.88ms
+[2023.02.21-02.00.46:087][332]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/RiverHexDC45169A462AEDBE9DD50CABA9A56BFB.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.uasset'
+[2023.02.21-02.00.46:136][332]AssetCheck: New page: Asset Save: RiverHex
+[2023.02.21-02.00.46:136][332]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex
+[2023.02.21-02.01.53:910][501]BlueprintLog: New page: Compile RiverHex
+[2023.02.21-02.01.54:098][501]LogUObjectHash: Compacting FUObjectHashTables data took   9.20ms
+[2023.02.21-02.01.55:851][514]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/RiverHex99E279A049B40029FC1259A474BDCE1E.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.uasset'
+[2023.02.21-02.01.55:879][514]AssetCheck: New page: Asset Save: RiverHex
+[2023.02.21-02.01.55:879][514]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex
+[2023.02.21-02.02.15:129][869]BlueprintLog: New page: Compile RiverHex
+[2023.02.21-02.02.15:290][869]LogUObjectHash: Compacting FUObjectHashTables data took   7.99ms
+[2023.02.21-02.02.28:580][159]BlueprintLog: New page: Compile RiverHex
+[2023.02.21-02.02.28:704][159]LogUObjectHash: Compacting FUObjectHashTables data took   5.62ms
+[2023.02.21-02.02.30:002][170]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/RiverHex97007DE34AE91F34AD9EC0A44D3C7F93.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.uasset'
+[2023.02.21-02.02.30:026][170]AssetCheck: New page: Asset Save: RiverHex
+[2023.02.21-02.02.30:026][170]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex
+[2023.02.21-02.03.16:293][994]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.21-02.03.21:167][ 71]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/AdventureHUD/AdventureHUD.AdventureHUD_C or BlueprintGeneratedClass /Game/Blueprints/Adventure/AdventureHUD.AdventureHUD_C
+[2023.02.21-02.03.21:167][ 71]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Blueprints/Adventure/AdventureHUD.SKEL_AdventureHUD_C or WidgetBlueprintGeneratedClass /Game/UI/AdventureHUD/AdventureHUD.SKEL_AdventureHUD_C
+[2023.02.21-02.03.25:980][141]LogUObjectHash: Warning: Ambiguous path search, could be WidgetBlueprintGeneratedClass /Game/UI/AdventureHUD/AdventureHUD.AdventureHUD_C or BlueprintGeneratedClass /Game/Blueprints/Adventure/AdventureHUD.AdventureHUD_C
+[2023.02.21-02.03.25:980][141]LogUObjectHash: Warning: Ambiguous path search, could be BlueprintGeneratedClass /Game/Blueprints/Adventure/AdventureHUD.SKEL_AdventureHUD_C or WidgetBlueprintGeneratedClass /Game/UI/AdventureHUD/AdventureHUD.SKEL_AdventureHUD_C
+[2023.02.21-02.07.49:969][190]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.21-02.07.50:376][190]LogUObjectHash: Compacting FUObjectHashTables data took  10.33ms
+[2023.02.21-02.07.52:460][203]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameMode65ADA4D44A433570F0E86CAE6417C887.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.21-02.07.52:488][203]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.21-02.07.52:488][203]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.21-02.07.55:174][250]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.21-02.07.55:522][250]LogUObjectHash: Compacting FUObjectHashTables data took   8.75ms
+[2023.02.21-02.07.57:905][270]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameMode7069497649DE3D1E257F85BBCE5EB8C8.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.21-02.07.57:935][270]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.21-02.07.57:935][270]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.21-02.08.33:812][846]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Hex2E8077BA4D43F87ED7BB4AA74B54D800.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/Hex.uasset'
+[2023.02.21-02.08.33:844][846]AssetCheck: New page: Asset Save: Hex
+[2023.02.21-02.08.33:844][846]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/Hex.Hex
+[2023.02.21-02.09.22:283][620]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.21-02.09.22:667][620]LogUObjectHash: Compacting FUObjectHashTables data took   9.30ms
+[2023.02.21-02.09.24:303][628]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameMode9998C0CF424B3166E9179C9DE69965C6.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.21-02.09.24:332][628]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.21-02.09.24:332][628]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.21-02.09.57:441][171]LogUObjectHash: Compacting FUObjectHashTables data took   5.77ms
+[2023.02.21-02.09.57:443][171]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 0.064
+[2023.02.21-02.09.57:444][171]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/AdventureGameMode] ([1] browsable assets)...
+[2023.02.21-02.09.57:445][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/AdventureGameMode]
+[2023.02.21-02.09.57:812][171]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameMode_Auto37DE896C747E97F095A56CC8D08A60FC6.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/AdventureGameMode_Auto3.uasset'
+[2023.02.21-02.09.57:816][171]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex] ([1] browsable assets)...
+[2023.02.21-02.09.57:878][171]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex]
+[2023.02.21-02.09.57:879][171]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex]
+[2023.02.21-02.09.58:026][171]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/RiverHex_Auto3AE80ED05490333D37DE00EB95D43776A.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex_Auto3.uasset'
+[2023.02.21-02.09.58:029][171]LogFileHelpers: Auto-saving content packages took 0.585
+[2023.02.21-02.12.22:140][760]BlueprintLog: New page: Compile AdventureGameState
+[2023.02.21-02.12.22:337][760]LogUObjectHash: Compacting FUObjectHashTables data took   9.22ms
+[2023.02.21-02.12.23:754][767]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameStateD4A79EAB4D751D3EEE6784B47BDC6505.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameState.uasset'
+[2023.02.21-02.12.23:788][767]AssetCheck: New page: Asset Save: AdventureGameState
+[2023.02.21-02.12.23:788][767]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameState.AdventureGameState
+[2023.02.21-02.19.58:949][ 92]LogUObjectHash: Compacting FUObjectHashTables data took  12.82ms
+[2023.02.21-02.19.58:956][ 92]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 0.139
+[2023.02.21-02.19.58:958][ 92]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/AdventureGameMode] ([1] browsable assets)...
+[2023.02.21-02.19.58:958][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/AdventureGameMode]
+[2023.02.21-02.19.59:758][ 92]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameMode_Auto4BCA4C9A64D2498AC10566088408CB0B0.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/AdventureGameMode_Auto4.uasset'
+[2023.02.21-02.19.59:767][ 92]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/AdventureGameState] ([1] browsable assets)...
+[2023.02.21-02.19.59:767][ 92]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/AdventureGameState]
+[2023.02.21-02.20.00:057][ 92]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameState_Auto4D7AAC2EE44371C9921E34F90C0CA6D59.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/AdventureGameState_Auto4.uasset'
+[2023.02.21-02.20.00:064][ 92]LogFileHelpers: Auto-saving content packages took 1.107
+[2023.02.21-02.37.55:128][130]BlueprintLog: New page: Compile AdventureGameState
+[2023.02.21-02.37.55:320][130]LogUObjectHash: Compacting FUObjectHashTables data took   7.23ms
+[2023.02.21-02.37.56:991][140]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameState8E2CE75D42835703128EEBBF092D4E27.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameState.uasset'
+[2023.02.21-02.37.57:025][140]AssetCheck: New page: Asset Save: AdventureGameState
+[2023.02.21-02.37.57:025][140]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameState.AdventureGameState
+[2023.02.21-02.38.18:235][509]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.21-02.38.18:589][509]LogUObjectHash: Compacting FUObjectHashTables data took   8.90ms
+[2023.02.21-02.38.20:146][515]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameMode9833C278438C7A21FB31DD8BD378C51D.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.21-02.38.20:173][515]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.21-02.38.20:173][515]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.21-02.40.16:142][873]BlueprintLog: New page: Compile AdventureGameState
+[2023.02.21-02.40.16:282][873]LogUObjectHash: Compacting FUObjectHashTables data took   5.72ms
+[2023.02.21-02.40.17:378][885]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameStateD3B5E9ED4B16F1A15F7FA3B2B6CB407C.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameState.uasset'
+[2023.02.21-02.40.17:401][885]AssetCheck: New page: Asset Save: AdventureGameState
+[2023.02.21-02.40.17:401][885]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameState.AdventureGameState
+[2023.02.21-02.43.17:512][ 42]BlueprintLog: New page: Compile AdventureGameState
+[2023.02.21-02.43.17:742][ 42]LogUObjectHash: Compacting FUObjectHashTables data took   8.73ms
+[2023.02.21-02.43.19:446][ 55]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameState4D133AF24E60B1436EA7BC8E99FAB53F.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameState.uasset'
+[2023.02.21-02.43.19:475][ 55]AssetCheck: New page: Asset Save: AdventureGameState
+[2023.02.21-02.43.19:475][ 55]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameState.AdventureGameState
+[2023.02.21-02.44.33:523][280]LogHttp: Warning: 0000028DDA2B7900: invalid HTTP response code received. URL: https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8644EE7B-4905-915C-8B7D-C987DCF22E05%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=67e793ba4c8bc52c165799874e27c219%7Cda084764ef17480880cac534e533a31a%7C882882b3-12a6-431b-9724-f210530ef73b&AppEnvironment=datacollector-source&UploadType=eteventstream, HTTP code: 0, content length: 0, actual payload size: 0
+[2023.02.21-02.44.33:523][280]LogHttp: Warning: 0000028DDA2B7900: request failed, libcurl error: 0 (No error)
+[2023.02.21-02.44.33:523][280]LogHttp: Warning: 0000028DDA2B7900: libcurl info message cache 0 (Found bundle for host datarouter.ol.epicgames.com: 0x28bfa1aff70 [can pipeline])
+[2023.02.21-02.44.33:523][280]LogHttp: Warning: 0000028DDA2B7900: libcurl info message cache 1 (Re-using existing connection! (#39) with host datarouter.ol.epicgames.com)
+[2023.02.21-02.44.33:523][280]LogHttp: Warning: 0000028DDA2B7900: libcurl info message cache 2 (Connected to datarouter.ol.epicgames.com (52.6.214.129) port 443 (#39))
+[2023.02.21-02.44.33:524][280]LogHttp: Warning: 0000028DDA2B7900: libcurl info message cache 3 (We are completely uploaded and fine)
+[2023.02.21-02.44.33:524][280]LogHttp: Warning: 0000028DDA2B7900: libcurl info message cache 4 (TLSv1.2 (IN), TLS alert, Client hello (1):)
+[2023.02.21-02.44.33:524][280]LogHttp: Warning: 0000028DDA2B7900: libcurl info message cache 5 (Connection died, retrying a fresh connect)
+[2023.02.21-02.44.33:524][280]LogHttp: Warning: 0000028DDA2B7900: libcurl info message cache 6 (necessary data rewind wasn't possible)
+[2023.02.21-02.44.33:524][280]LogHttp: Warning: 0000028DDA2B7900: libcurl info message cache 7 (Closing connection 39)
+[2023.02.21-02.44.33:524][280]LogHttp: Warning: 0000028DDA2B7900: libcurl info message cache 8 (TLSv1.2 (OUT), TLS alert, Client hello (1):)
+[2023.02.21-02.44.33:524][280]LogHttp: Warning: Retry exhausted on https://datarouter.ol.epicgames.com/datarouter/api/v1/public/data?SessionID=%7B8644EE7B-4905-915C-8B7D-C987DCF22E05%7D&AppID=UEEditor.Rocket.Release&AppVersion=4.25.4-14469661%2B%2B%2BUE4%2BRelease-4.25&UserID=67e793ba4c8bc52c165799874e27c219%7Cda084764ef17480880cac534e533a31a%7C882882b3-12a6-431b-9724-f210530ef73b&AppEnvironment=datacollector-source&UploadType=eteventstream
+[2023.02.21-02.45.13:118][961]BlueprintLog: New page: Compile AdventureGameState
+[2023.02.21-02.45.13:334][961]LogUObjectHash: Compacting FUObjectHashTables data took   8.92ms
+[2023.02.21-02.45.15:066][973]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameState81C77E414D72A2F38A1653A0F477639B.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameState.uasset'
+[2023.02.21-02.45.15:094][973]AssetCheck: New page: Asset Save: AdventureGameState
+[2023.02.21-02.45.15:095][973]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameState.AdventureGameState
+[2023.02.21-02.45.19:013][ 37]BlueprintLog: New page: Compile AdventureGameState
+[2023.02.21-02.45.19:232][ 37]LogUObjectHash: Compacting FUObjectHashTables data took  10.16ms
+[2023.02.21-02.45.20:759][ 44]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameState340CCBCF4E32FDA4D9DF768F1E7835F3.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameState.uasset'
+[2023.02.21-02.45.20:788][ 44]AssetCheck: New page: Asset Save: AdventureGameState
+[2023.02.21-02.45.20:789][ 44]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameState.AdventureGameState
+[2023.02.21-02.46.26:771][146]BlueprintLog: New page: Compile AdventureGameState
+[2023.02.21-02.46.27:011][146]LogUObjectHash: Compacting FUObjectHashTables data took   8.72ms
+[2023.02.21-02.46.28:281][151]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameStateEF28065F495510ADF09D17804DD5F879.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameState.uasset'
+[2023.02.21-02.46.28:317][151]AssetCheck: New page: Asset Save: AdventureGameState
+[2023.02.21-02.46.28:317][151]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameState.AdventureGameState
+[2023.02.21-02.47.37:115][330]BlueprintLog: New page: Compile AdventureGameState
+[2023.02.21-02.47.37:402][330]LogUObjectHash: Compacting FUObjectHashTables data took  10.09ms
+[2023.02.21-02.47.40:101][339]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameState90C0990B4BB4CA3889E2E1B224618E9B.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameState.uasset'
+[2023.02.21-02.47.40:142][339]AssetCheck: New page: Asset Save: AdventureGameState
+[2023.02.21-02.47.40:142][339]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameState.AdventureGameState
+[2023.02.21-02.48.04:588][673]BlueprintLog: New page: Compile AdventureGameState
+[2023.02.21-02.48.04:802][673]LogUObjectHash: Compacting FUObjectHashTables data took   8.78ms
+[2023.02.21-02.48.06:385][684]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameState2715F8AB477A46BA872352979F4F301C.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameState.uasset'
+[2023.02.21-02.48.06:412][684]AssetCheck: New page: Asset Save: AdventureGameState
+[2023.02.21-02.48.06:413][684]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameState.AdventureGameState
+[2023.02.21-02.48.52:281][606]LogEditorTransaction: Undo Move Node
+[2023.02.21-02.49.19:003][104]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.21-02.49.19:308][104]LogUObjectHash: Compacting FUObjectHashTables data took   8.52ms
+[2023.02.21-02.49.20:897][115]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameMode1407EDF24FC1C838A3184FB2C7C10123.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.21-02.49.20:921][115]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.21-02.49.20:921][115]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.21-02.49.38:756][531]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameModeE19D12C249DF8618969031887229D5A0.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.21-02.49.38:777][531]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.21-02.49.38:778][531]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.21-02.49.42:901][636]BlueprintLog: New page: Compile RiverHex
+[2023.02.21-02.49.43:029][636]LogUObjectHash: Compacting FUObjectHashTables data took   6.48ms
+[2023.02.21-02.49.44:523][656]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/RiverHexD00E66984B3097BBAC0AFA9E7E6C62AB.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.uasset'
+[2023.02.21-02.49.44:545][656]AssetCheck: New page: Asset Save: RiverHex
+[2023.02.21-02.49.44:545][656]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex
+[2023.02.21-02.50.27:495][743]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.21-02.50.27:744][743]LogUObjectHash: Compacting FUObjectHashTables data took   5.79ms
+[2023.02.21-02.50.29:162][757]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameMode224DFBF54D9F01F1EE42EEAC5D8FC0EA.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.21-02.50.29:182][757]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.21-02.50.29:182][757]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.21-02.50.56:805][236]BlueprintLog: New page: Compile RiverHex
+[2023.02.21-02.50.57:015][236]LogUObjectHash: Compacting FUObjectHashTables data took   9.43ms
+[2023.02.21-02.50.59:215][251]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/RiverHex8B8E990C40589026EB9B8EB3A60CC4BD.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.uasset'
+[2023.02.21-02.50.59:245][251]AssetCheck: New page: Asset Save: RiverHex
+[2023.02.21-02.50.59:245][251]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex
+[2023.02.21-03.37.56:509][788]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/RiverHex31AE24B0485FA6F0756B1988B48762D8.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.uasset'
+[2023.02.21-03.37.56:547][788]AssetCheck: New page: Asset Save: RiverHex
+[2023.02.21-03.37.56:548][788]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex
+[2023.02.21-03.39.22:816][250]LogEditorTransaction: Undo Create Pin Link
+[2023.02.21-03.39.23:365][253]LogEditorTransaction: Undo Create Pin Link
+[2023.02.21-03.39.23:894][259]LogEditorTransaction: Undo Paste clipboard contents
+[2023.02.21-03.39.24:396][265]LogEditorTransaction: Undo Resize Node
+[2023.02.21-03.39.24:897][271]LogEditorTransaction: Undo Create Pin Link
+[2023.02.21-03.39.26:006][289]LogEditorTransaction: Undo Create Pin Link
+[2023.02.21-03.39.32:719][396]LogEditorTransaction: Redo Create Pin Link
+[2023.02.21-03.39.34:600][418]LogEditorTransaction: Redo Create Pin Link
+[2023.02.21-03.39.37:456][459]LogEditorTransaction: Redo Resize Node
+[2023.02.21-03.40.30:910][370]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.21-03.40.31:289][370]LogUObjectHash: Compacting FUObjectHashTables data took   8.55ms
+[2023.02.21-03.40.33:164][381]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameMode82D6DC71430831A3B114A3BF92D8DD01.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.21-03.40.33:192][381]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.21-03.40.33:192][381]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.21-03.40.38:614][483]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.21-03.40.38:681][483]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.21-03.40.38:683][483]LogPlayLevel: [PlayLevel] Compiling RiverHex before play...
+[2023.02.21-03.40.38:790][483]LogPlayLevel: [PlayLevel] Compiling PROTO_BP_AnimBlueprint_0 before play...
+[2023.02.21-03.40.38:884][483]LogUObjectHash: Compacting FUObjectHashTables data took   8.34ms
+[2023.02.21-03.40.38:886][483]LogPlayLevel: PlayLevel: Blueprint regeneration took 205 ms (2 blueprints)
+[2023.02.21-03.40.38:887][483]PIE: New page: PIE session: MainMap (20 Feb 2023, 11:40:38)
+[2023.02.21-03.40.38:887][483]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2023.02.21-03.40.38:893][483]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005831s)
+[2023.02.21-03.40.38:896][483]LogAIModule: Creating AISystem for world MainMap
+[2023.02.21-03.40.38:896][483]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028E234B5400), frame # 198483
+[2023.02.21-03.40.38:897][483]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028E1C3AE340), frame # 198483
+[2023.02.21-03.40.38:897][483]LogPlayLevel: PIE: World Init took: (0.003659s)
+[2023.02.21-03.40.38:897][483]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.010003s)
+[2023.02.21-03.40.38:968][483]LogUObjectHash: Compacting FUObjectHashTables data took   5.52ms
+[2023.02.21-03.40.38:969][483]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.21-03.40.38:970][483]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.21-03.40.38:970][483]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2023.02.21-03.40.38:970][483]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2023.02.21-03.40.38:970][483]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2023.02.21-03.40.38:970][483]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.21-03.40.38:970][483]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.21-03.40.38:970][483]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.21-03.40.38:971][483]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.21-03.40.38:971][483]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.21-03.40.38:983][483]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.21-03.40.38:983][483]LogAudioMixer: Display: 1: FrontRight
+[2023.02.21-03.40.39:088][483]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2023.02.21-03.40.39:089][483]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.21-03.40.39:089][483]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.21-03.40.39:089][483]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.21-03.40.39:090][483]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.21-03.40.39:136][483]LogInit: FAudioDevice initialized.
+[2023.02.21-03.40.39:160][483]LogLoad: Game class is 'AdventureGameMode_C'
+[2023.02.21-03.40.39:163][483]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2023.02.20-19.40.39
+[2023.02.21-03.40.39:164][483]LogWorld: Bringing up level for play took: 0.001371
+[2023.02.21-03.40.39:165][483]LogOnline: OSS: Creating online subsystem instance for: :Context_24
+[2023.02.21-03.40.39:295][483]PIE: Server logged in
+[2023.02.21-03.40.39:296][483]PIE: Play in editor total start time 0.628 seconds.
+[2023.02.21-03.41.15:332][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-03.41.15:332][144]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2023.02.21-03.41.15:333][144]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.21-03.41.15:336][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-03.41.15:373][144]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.21-03.41.15:379][144]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-03.41.15:490][144]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-03.41.15:502][144]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028E1C3AE340), frame # 199144
+[2023.02.21-03.41.15:502][144]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028E234B5400), frame # 199144
+[2023.02.21-03.41.15:507][144]LogUObjectHash: Compacting FUObjectHashTables data took   4.61ms
+[2023.02.21-03.41.15:567][145]LogPlayLevel: Display: Destroying online subsystem :Context_24
+[2023.02.21-03.41.40:691][921]LogUObjectHash: Compacting FUObjectHashTables data took   4.60ms
+[2023.02.21-03.41.40:694][921]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 0.066
+[2023.02.21-03.41.40:695][921]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex] ([1] browsable assets)...
+[2023.02.21-03.41.40:786][921]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex]
+[2023.02.21-03.41.40:786][921]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex]
+[2023.02.21-03.41.40:977][921]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/RiverHex_Auto50DA21F514C02B64378BD6DADA87364D6.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex_Auto5.uasset'
+[2023.02.21-03.41.40:980][921]LogFileHelpers: Auto-saving content packages took 0.286
+[2023.02.21-03.42.41:963][777]LogSlate: Warning: Slate: Had to block on waiting for a draw buffer
+[2023.02.21-03.42.45:512][777]LogSlate: Window 'Pick Parent Class' being destroyed
+[2023.02.21-03.42.50:021][892]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Adventure/Hexes/HexObjects/HexRiver.HexRiver
+[2023.02.21-03.43.47:972][ 20]BlueprintLog: New page: Compile HexRiver
+[2023.02.21-03.43.48:077][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   8.00ms
+[2023.02.21-03.43.49:711][ 34]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexRiverD8E52D1443E2F22D7782C0A85C0FAEC8.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/HexObjects/HexRiver.uasset'
+[2023.02.21-03.43.50:738][ 34]AssetCheck: New page: Asset Save: HexRiver
+[2023.02.21-03.43.50:738][ 34]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/HexObjects/HexRiver.HexRiver
+[2023.02.21-03.44.50:513][230]BlueprintLog: New page: Compile HexRiver
+[2023.02.21-03.44.50:612][230]LogUObjectHash: Compacting FUObjectHashTables data took  10.88ms
+[2023.02.21-03.44.52:104][239]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexRiverF4455B36448865740787E2B66B3F9635.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/HexObjects/HexRiver.uasset'
+[2023.02.21-03.44.52:136][239]AssetCheck: New page: Asset Save: HexRiver
+[2023.02.21-03.44.52:136][239]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/HexObjects/HexRiver.HexRiver
+[2023.02.21-03.45.17:596][680]BlueprintLog: New page: Compile HexRiver
+[2023.02.21-03.45.17:699][680]LogUObjectHash: Compacting FUObjectHashTables data took   7.54ms
+[2023.02.21-03.45.19:306][693]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexRiver0E952CD64534F319C70AE696590FC141.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/HexObjects/HexRiver.uasset'
+[2023.02.21-03.45.19:336][693]AssetCheck: New page: Asset Save: HexRiver
+[2023.02.21-03.45.19:336][693]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/HexObjects/HexRiver.HexRiver
+[2023.02.21-03.45.23:375][743]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/RiverHex76D7B3614B94D2ADF7C51D960A4D9938.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.uasset'
+[2023.02.21-03.45.23:409][743]AssetCheck: New page: Asset Save: RiverHex
+[2023.02.21-03.45.23:410][743]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex
+[2023.02.21-03.45.46:100][290]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/Adventure/Hexes/HexObjects/HexObjectDetails.HexObjectDetails
+[2023.02.21-03.46.12:717][730]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexObjectDetailsFC1AF10F467F94F5AB1BAD902C65FA06.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/HexObjects/HexObjectDetails.uasset'
+[2023.02.21-03.46.13:693][730]AssetCheck: New page: Asset Save: HexObjectDetails
+[2023.02.21-03.46.13:693][730]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/Adventure/Hexes/HexObjects/HexObjectDetails.HexObjectDetails
+[2023.02.21-03.46.33:045][911]LogSlate: Window 'Pick Row Structure' being destroyed
+[2023.02.21-03.46.41:619][137]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/Adventure/Hexes/HexObjects/HexObjects.HexObjects
+[2023.02.21-03.46.52:644][317]LogSlate: Prevented a slow task dialog from being summoned while a context menu was open
+[2023.02.21-03.46.58:217][405]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexObjects07D44AA947D0772DE0A29C8E94028C7E.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/HexObjects/HexObjects.uasset'
+[2023.02.21-03.46.59:188][405]AssetCheck: New page: Asset Save: HexObjects
+[2023.02.21-03.46.59:188][405]LogContentValidation: Display: Validating DataTable /Game/Blueprints/Adventure/Hexes/HexObjects/HexObjects.HexObjects
+[2023.02.21-03.49.11:169][678]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.21-03.49.11:814][678]LogUObjectHash: Compacting FUObjectHashTables data took  13.67ms
+[2023.02.21-03.49.13:499][687]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameMode17C3A6424A0ECC681D0557989F54BEAF.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.21-03.49.13:528][687]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.21-03.49.13:529][687]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.21-03.49.29:533][882]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.21-03.50.20:729][599]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.21-03.50.21:149][599]LogUObjectHash: Compacting FUObjectHashTables data took  12.32ms
+[2023.02.21-03.50.22:645][605]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameMode9E892ACD46F0C6589A39AAB3D3ED386A.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.21-03.50.22:673][605]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.21-03.50.22:673][605]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.21-03.50.39:531][890]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameMode7881C5304855A02801928D8148481CAA.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.21-03.50.39:563][890]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.21-03.50.39:563][890]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.21-03.53.23:057][645]BlueprintLog: New page: Compile Hex
+[2023.02.21-03.53.23:490][645]LogUObjectHash: Compacting FUObjectHashTables data took  11.86ms
+[2023.02.21-03.53.25:001][651]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Hex2A51EBD14EF3D7B36D2E098C9F63FA0F.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/Hex.uasset'
+[2023.02.21-03.53.25:029][651]AssetCheck: New page: Asset Save: Hex
+[2023.02.21-03.53.25:029][651]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/Hex.Hex
+[2023.02.21-03.56.47:834][717]BlueprintLog: New page: Compile Hex
+[2023.02.21-03.56.48:302][717]LogUObjectHash: Compacting FUObjectHashTables data took  12.24ms
+[2023.02.21-03.56.50:000][725]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexDADAA8A4421C7E57CC0F1485BA5118F5.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/Hex.uasset'
+[2023.02.21-03.56.50:027][725]AssetCheck: New page: Asset Save: Hex
+[2023.02.21-03.56.50:027][725]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/Hex.Hex
+[2023.02.21-03.56.53:893][796]BlueprintLog: New page: Compile Hex
+[2023.02.21-03.56.54:373][796]LogUObjectHash: Compacting FUObjectHashTables data took  13.16ms
+[2023.02.21-03.56.56:218][808]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexAEE308324677579E93A0B49C19602DFF.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/Hex.uasset'
+[2023.02.21-03.56.56:247][808]AssetCheck: New page: Asset Save: Hex
+[2023.02.21-03.56.56:247][808]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/Hex.Hex
+[2023.02.21-03.57.16:616][164]BlueprintLog: New page: Compile RiverHex
+[2023.02.21-03.57.16:834][164]LogUObjectHash: Compacting FUObjectHashTables data took  12.63ms
+[2023.02.21-03.57.18:427][173]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/RiverHex7EB43DA441E3D9EBB06EA7B4BB4A2762.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.uasset'
+[2023.02.21-03.57.18:457][173]AssetCheck: New page: Asset Save: RiverHex
+[2023.02.21-03.57.18:457][173]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex
+[2023.02.21-03.58.29:546][395]BlueprintLog: New page: Compile RiverHex
+[2023.02.21-03.58.29:785][395]LogUObjectHash: Compacting FUObjectHashTables data took  13.07ms
+[2023.02.21-03.58.31:741][402]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/RiverHex395548814CA39C0AB9060593CE07E9B9.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.uasset'
+[2023.02.21-03.58.31:783][402]AssetCheck: New page: Asset Save: RiverHex
+[2023.02.21-03.58.31:783][402]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex
+[2023.02.21-04.00.08:748][991]BlueprintLog: New page: Compile RiverHex
+[2023.02.21-04.00.09:001][991]LogUObjectHash: Compacting FUObjectHashTables data took  13.41ms
+[2023.02.21-04.00.10:826][  0]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/RiverHex6D92A0B14E3394FB8D6CB2A8BDAEEEDD.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.uasset'
+[2023.02.21-04.00.10:858][  0]AssetCheck: New page: Asset Save: RiverHex
+[2023.02.21-04.00.10:858][  0]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex
+[2023.02.21-04.02.41:908][512]LogUObjectHash: Compacting FUObjectHashTables data took  12.67ms
+[2023.02.21-04.02.41:913][512]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 0.117
+[2023.02.21-04.02.41:914][512]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/Hexes/GrassHex] ([1] browsable assets)...
+[2023.02.21-04.02.41:914][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/GrassHex]
+[2023.02.21-04.02.42:110][512]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/GrassHex_Auto6189EEA934471777AEE4266A31BAD5F70.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/GrassHex_Auto6.uasset'
+[2023.02.21-04.02.42:114][512]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/Hexes/GrassHexes/FieldHex] ([1] browsable assets)...
+[2023.02.21-04.02.42:114][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/GrassHexes/FieldHex]
+[2023.02.21-04.02.42:290][512]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/FieldHex_Auto622E935954EABE344C9FD0CB7509B3B5E.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/GrassHexes/FieldHex_Auto6.uasset'
+[2023.02.21-04.02.42:294][512]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/Hexes/GrassHexes/ForestHex] ([1] browsable assets)...
+[2023.02.21-04.02.42:294][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/GrassHexes/ForestHex]
+[2023.02.21-04.02.42:456][512]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/ForestHex_Auto617AC2F8E47A0269C362600B8139370DE.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/GrassHexes/ForestHex_Auto6.uasset'
+[2023.02.21-04.02.42:459][512]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/Hexes/GrassHexes/MeadowHex] ([1] browsable assets)...
+[2023.02.21-04.02.42:459][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/GrassHexes/MeadowHex]
+[2023.02.21-04.02.42:612][512]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/MeadowHex_Auto6874789A4466222BF90A2D0ABA0EB7EAA.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/GrassHexes/MeadowHex_Auto6.uasset'
+[2023.02.21-04.02.42:615][512]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/Hexes/StoneHex] ([1] browsable assets)...
+[2023.02.21-04.02.42:615][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/StoneHex]
+[2023.02.21-04.02.42:755][512]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/StoneHex_Auto6C611BD8B4F9C140159B9FAB94624727B.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/StoneHex_Auto6.uasset'
+[2023.02.21-04.02.42:758][512]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/Hexes/StoneHexes/CavesHex] ([1] browsable assets)...
+[2023.02.21-04.02.42:758][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/StoneHexes/CavesHex]
+[2023.02.21-04.02.42:909][512]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/CavesHex_Auto699EC6DAA44E7FB264C4533B72199B4E8.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/StoneHexes/CavesHex_Auto6.uasset'
+[2023.02.21-04.02.42:912][512]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/Hexes/StoneHexes/HillsHex] ([1] browsable assets)...
+[2023.02.21-04.02.42:912][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/StoneHexes/HillsHex]
+[2023.02.21-04.02.43:041][512]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HillsHex_Auto65B99B5D54CF2AC650C768199BD3508DD.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/StoneHexes/HillsHex_Auto6.uasset'
+[2023.02.21-04.02.43:044][512]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/Hexes/StoneHexes/MountainHex] ([1] browsable assets)...
+[2023.02.21-04.02.43:044][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/StoneHexes/MountainHex]
+[2023.02.21-04.02.43:180][512]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/MountainHex_Auto63E777DAB409EEE525B96FB801A28863C.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/StoneHexes/MountainHex_Auto6.uasset'
+[2023.02.21-04.02.43:182][512]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/Hexes/WaterHex] ([1] browsable assets)...
+[2023.02.21-04.02.43:182][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/WaterHex]
+[2023.02.21-04.02.43:306][512]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/WaterHex_Auto659BC64D24638F77BBBCC4FA253DB8F90.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/WaterHex_Auto6.uasset'
+[2023.02.21-04.02.43:308][512]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/Hexes/WaterHexes/LakeHex] ([1] browsable assets)...
+[2023.02.21-04.02.43:308][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/WaterHexes/LakeHex]
+[2023.02.21-04.02.43:431][512]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/LakeHex_Auto636DCD93E4298F10A05BB4294A8805CC8.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/WaterHexes/LakeHex_Auto6.uasset'
+[2023.02.21-04.02.43:434][512]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/Hexes/WaterHexes/OceanHex] ([1] browsable assets)...
+[2023.02.21-04.02.43:434][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/WaterHexes/OceanHex]
+[2023.02.21-04.02.43:552][512]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/OceanHex_Auto63F84DB1C473142C871EF2B8D70F39130.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/WaterHexes/OceanHex_Auto6.uasset'
+[2023.02.21-04.02.43:555][512]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex] ([1] browsable assets)...
+[2023.02.21-04.02.43:616][512]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex]
+[2023.02.21-04.02.43:616][512]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex]
+[2023.02.21-04.02.43:761][512]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/RiverHex_Auto6521792A640FC2F8B78E9AA9A984AF262.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex_Auto6.uasset'
+[2023.02.21-04.02.43:763][512]LogFileHelpers: Auto-saving content packages took 1.850
+[2023.02.21-04.05.51:049][419]BlueprintLog: New page: Compile RiverHex
+[2023.02.21-04.05.51:302][419]LogUObjectHash: Compacting FUObjectHashTables data took  16.41ms
+[2023.02.21-04.05.53:091][431]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/RiverHex3536988A44AC2E38EED15399AB31CCA4.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.uasset'
+[2023.02.21-04.05.53:121][431]AssetCheck: New page: Asset Save: RiverHex
+[2023.02.21-04.05.53:121][431]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex
+[2023.02.21-04.07.09:783][746]BlueprintLog: New page: Compile HexRiver
+[2023.02.21-04.07.09:938][746]LogUObjectHash: Compacting FUObjectHashTables data took  12.66ms
+[2023.02.21-04.07.11:502][757]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexRiverD3A907F744676C2ECDD331BACAB09883.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/HexObjects/HexRiver.uasset'
+[2023.02.21-04.07.11:533][757]AssetCheck: New page: Asset Save: HexRiver
+[2023.02.21-04.07.11:533][757]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/HexObjects/HexRiver.HexRiver
+[2023.02.21-04.07.40:510][257]BlueprintLog: New page: Compile HexRiver
+[2023.02.21-04.07.40:643][257]LogUObjectHash: Compacting FUObjectHashTables data took  16.01ms
+[2023.02.21-04.07.41:944][263]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexRiverB2A0FFBC4ECDDE805CAA2E99A799A3DD.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/HexObjects/HexRiver.uasset'
+[2023.02.21-04.07.41:975][263]AssetCheck: New page: Asset Save: HexRiver
+[2023.02.21-04.07.41:975][263]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/HexObjects/HexRiver.HexRiver
+[2023.02.21-04.09.05:692][696]BlueprintLog: New page: Compile RiverHex
+[2023.02.21-04.09.05:938][696]LogUObjectHash: Compacting FUObjectHashTables data took  12.57ms
+[2023.02.21-04.09.07:570][705]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/RiverHex7F14A9C747525E9195DE488ADBBF594A.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.uasset'
+[2023.02.21-04.09.07:603][705]AssetCheck: New page: Asset Save: RiverHex
+[2023.02.21-04.09.07:603][705]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex
+[2023.02.21-04.10.02:604][639]BlueprintLog: New page: Compile RiverHex
+[2023.02.21-04.10.02:843][639]LogUObjectHash: Compacting FUObjectHashTables data took  12.03ms
+[2023.02.21-04.10.04:545][648]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/RiverHexC7FE423847CE4A1302AE858152D47BA7.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.uasset'
+[2023.02.21-04.10.04:576][648]AssetCheck: New page: Asset Save: RiverHex
+[2023.02.21-04.10.04:576][648]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex
+[2023.02.21-04.10.21:818][942]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.21-04.10.21:901][942]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.21-04.10.21:901][942]PIE: New page: PIE session: MainMap (20 Feb 2023, 12:10:21)
+[2023.02.21-04.10.21:902][942]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2023.02.21-04.10.21:909][942]LogPlayLevel: PIE: StaticDuplicateObject took: (0.007054s)
+[2023.02.21-04.10.21:912][942]LogAIModule: Creating AISystem for world MainMap
+[2023.02.21-04.10.21:913][942]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028ED61AD000), frame # 228942
+[2023.02.21-04.10.21:913][942]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028EC559A5C0), frame # 228942
+[2023.02.21-04.10.21:914][942]LogPlayLevel: PIE: World Init took: (0.004595s)
+[2023.02.21-04.10.21:914][942]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.012112s)
+[2023.02.21-04.10.22:041][942]LogUObjectHash: Compacting FUObjectHashTables data took  12.95ms
+[2023.02.21-04.10.22:044][942]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.21-04.10.22:044][942]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.21-04.10.22:045][942]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2023.02.21-04.10.22:045][942]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2023.02.21-04.10.22:045][942]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2023.02.21-04.10.22:045][942]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.21-04.10.22:045][942]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.21-04.10.22:045][942]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.21-04.10.22:046][942]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.21-04.10.22:046][942]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.21-04.10.22:059][942]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.21-04.10.22:059][942]LogAudioMixer: Display: 1: FrontRight
+[2023.02.21-04.10.22:172][942]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2023.02.21-04.10.22:172][942]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.21-04.10.22:173][942]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.21-04.10.22:173][942]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.21-04.10.22:174][942]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.21-04.10.22:229][942]LogInit: FAudioDevice initialized.
+[2023.02.21-04.10.22:248][942]LogLoad: Game class is 'AdventureGameMode_C'
+[2023.02.21-04.10.22:252][942]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2023.02.20-20.10.22
+[2023.02.21-04.10.22:253][942]LogWorld: Bringing up level for play took: 0.001716
+[2023.02.21-04.10.22:253][942]LogOnline: OSS: Creating online subsystem instance for: :Context_26
+[2023.02.21-04.10.22:422][942]PIE: Server logged in
+[2023.02.21-04.10.22:424][942]PIE: Play in editor total start time 0.536 seconds.
+[2023.02.21-04.11.44:291][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-04.11.44:291][477]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2023.02.21-04.11.44:292][477]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.21-04.11.44:297][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-04.11.44:329][477]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.21-04.11.44:337][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-04.11.44:489][477]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-04.11.44:509][477]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028EC559A5C0), frame # 230477
+[2023.02.21-04.11.44:509][477]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028ED61AD000), frame # 230477
+[2023.02.21-04.11.44:519][477]LogUObjectHash: Compacting FUObjectHashTables data took   9.25ms
+[2023.02.21-04.11.44:631][478]LogPlayLevel: Display: Destroying online subsystem :Context_26
+[2023.02.21-04.12.15:207][954]BlueprintLog: New page: Compile Hex
+[2023.02.21-04.12.15:685][954]LogUObjectHash: Compacting FUObjectHashTables data took   9.78ms
+[2023.02.21-04.12.17:179][960]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexC3491A9C4F46728AFF3207B0FAA1406C.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/Hex.uasset'
+[2023.02.21-04.12.17:209][960]AssetCheck: New page: Asset Save: Hex
+[2023.02.21-04.12.17:209][960]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/Hex.Hex
+[2023.02.21-04.13.53:456][634]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexE566895C4FB8E498A3C2C78B9A97EE39.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/Hex.uasset'
+[2023.02.21-04.13.53:495][634]AssetCheck: New page: Asset Save: Hex
+[2023.02.21-04.13.53:495][634]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/Hex.Hex
+[2023.02.21-04.13.55:955][675]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.21-04.13.56:028][675]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.21-04.13.56:031][675]LogPlayLevel: [PlayLevel] Compiling RiverHex before play...
+[2023.02.21-04.13.56:294][675]LogUObjectHash: Compacting FUObjectHashTables data took  12.76ms
+[2023.02.21-04.13.56:299][675]LogPlayLevel: PlayLevel: Blueprint regeneration took 269 ms (1 blueprints)
+[2023.02.21-04.13.56:299][675]PIE: New page: PIE session: MainMap (20 Feb 2023, 12:13:56)
+[2023.02.21-04.13.56:299][675]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2023.02.21-04.13.56:305][675]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005422s)
+[2023.02.21-04.13.56:308][675]LogAIModule: Creating AISystem for world MainMap
+[2023.02.21-04.13.56:308][675]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028D0E213000), frame # 232675
+[2023.02.21-04.13.56:308][675]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028E7A135300), frame # 232675
+[2023.02.21-04.13.56:308][675]LogPlayLevel: PIE: World Init took: (0.003175s)
+[2023.02.21-04.13.56:309][675]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.009066s)
+[2023.02.21-04.13.56:396][675]LogUObjectHash: Compacting FUObjectHashTables data took   8.00ms
+[2023.02.21-04.13.56:398][675]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.21-04.13.56:398][675]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.21-04.13.56:398][675]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2023.02.21-04.13.56:398][675]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2023.02.21-04.13.56:398][675]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2023.02.21-04.13.56:398][675]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.21-04.13.56:398][675]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.21-04.13.56:399][675]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.21-04.13.56:399][675]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.21-04.13.56:400][675]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.21-04.13.56:406][675]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.21-04.13.56:406][675]LogAudioMixer: Display: 1: FrontRight
+[2023.02.21-04.13.56:490][675]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2023.02.21-04.13.56:491][675]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.21-04.13.56:491][675]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.21-04.13.56:492][675]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.21-04.13.56:493][675]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.21-04.13.56:534][675]LogInit: FAudioDevice initialized.
+[2023.02.21-04.13.56:552][675]LogLoad: Game class is 'AdventureGameMode_C'
+[2023.02.21-04.13.56:555][675]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2023.02.20-20.13.56
+[2023.02.21-04.13.56:555][675]LogWorld: Bringing up level for play took: 0.001043
+[2023.02.21-04.13.56:555][675]LogOnline: OSS: Creating online subsystem instance for: :Context_27
+[2023.02.21-04.13.56:680][675]PIE: Server logged in
+[2023.02.21-04.13.56:682][675]PIE: Play in editor total start time 0.667 seconds.
+[2023.02.21-04.14.09:052][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-04.14.09:052][936]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2023.02.21-04.14.09:052][936]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.21-04.14.09:054][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-04.14.09:080][936]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.21-04.14.09:088][936]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-04.14.09:178][936]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-04.14.09:235][936]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028E7A135300), frame # 232936
+[2023.02.21-04.14.09:235][936]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028D0E213000), frame # 232936
+[2023.02.21-04.14.09:243][936]LogUObjectHash: Compacting FUObjectHashTables data took   7.28ms
+[2023.02.21-04.14.09:313][937]LogPlayLevel: Display: Destroying online subsystem :Context_27
+[2023.02.21-04.14.22:366][156]LogUObjectHash: Compacting FUObjectHashTables data took   7.94ms
+[2023.02.21-04.14.24:773][156]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/GrassHex7D3F6A5949695E3354C2DFB9FA05E8D6.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/GrassHex.uasset'
+[2023.02.21-04.14.24:958][156]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/FieldHexBBA9939E49476906885E6E989E4CA337.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/GrassHexes/FieldHex.uasset'
+[2023.02.21-04.14.25:127][156]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/ForestHex6763B56944CF91C412DDF9A35A7A7DBC.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/GrassHexes/ForestHex.uasset'
+[2023.02.21-04.14.25:284][156]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/MeadowHex1829B31940167C28564393AA57100B45.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/GrassHexes/MeadowHex.uasset'
+[2023.02.21-04.14.25:437][156]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/StoneHexCAD469F34BC2FC1FB315608B49F2EBC2.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/StoneHex.uasset'
+[2023.02.21-04.14.25:575][156]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/CavesHex8C39051147F479CC9BCC3191A7B77EC5.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/StoneHexes/CavesHex.uasset'
+[2023.02.21-04.14.25:717][156]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HillsHex7F92A2CA44EF70B740469688175C4757.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/StoneHexes/HillsHex.uasset'
+[2023.02.21-04.14.25:852][156]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/MountainHexA2115770439AA2C64449879B08510364.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/StoneHexes/MountainHex.uasset'
+[2023.02.21-04.14.25:985][156]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/WaterHex6CE3D7E448EAFC0D073115B9CAA1E579.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/WaterHex.uasset'
+[2023.02.21-04.14.26:111][156]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/LakeHexCB3F8048400BED91DAFA5AB65131EE4E.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/WaterHexes/LakeHex.uasset'
+[2023.02.21-04.14.26:234][156]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/OceanHexE714180B4F9ECA994F0DF990B885F846.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/WaterHexes/OceanHex.uasset'
+[2023.02.21-04.14.26:492][156]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/RiverHexA29EAE55495CC7D956767EB7045134DD.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.uasset'
+[2023.02.21-04.14.26:592][156]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.21-04.14.26:592][156]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/GrassHex.GrassHex
+[2023.02.21-04.14.26:592][156]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/GrassHexes/FieldHex.FieldHex
+[2023.02.21-04.14.26:592][156]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/GrassHexes/ForestHex.ForestHex
+[2023.02.21-04.14.26:592][156]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/GrassHexes/MeadowHex.MeadowHex
+[2023.02.21-04.14.26:592][156]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/StoneHex.StoneHex
+[2023.02.21-04.14.26:592][156]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/StoneHexes/CavesHex.CavesHex
+[2023.02.21-04.14.26:592][156]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/StoneHexes/HillsHex.HillsHex
+[2023.02.21-04.14.26:592][156]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/StoneHexes/MountainHex.MountainHex
+[2023.02.21-04.14.26:592][156]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/WaterHex.WaterHex
+[2023.02.21-04.14.26:592][156]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/LakeHex.LakeHex
+[2023.02.21-04.14.26:592][156]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/OceanHex.OceanHex
+[2023.02.21-04.14.26:592][156]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex
+[2023.02.21-04.15.11:513][912]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.21-04.15.11:922][912]LogUObjectHash: Compacting FUObjectHashTables data took   9.75ms
+[2023.02.21-04.15.13:453][916]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameMode08A5751E4857FCDBFC15FF8CB725F0DD.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.21-04.15.13:481][916]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.21-04.15.13:481][916]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.21-04.15.16:182][972]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.21-04.15.16:245][972]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.21-04.15.16:245][972]PIE: New page: PIE session: MainMap (20 Feb 2023, 12:15:16)
+[2023.02.21-04.15.16:246][972]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2023.02.21-04.15.16:251][972]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005546s)
+[2023.02.21-04.15.16:254][972]LogAIModule: Creating AISystem for world MainMap
+[2023.02.21-04.15.16:254][972]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028ED91E1C00), frame # 233972
+[2023.02.21-04.15.16:255][972]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028CD9655580), frame # 233972
+[2023.02.21-04.15.16:255][972]LogPlayLevel: PIE: World Init took: (0.003448s)
+[2023.02.21-04.15.16:255][972]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.009375s)
+[2023.02.21-04.15.16:363][972]LogUObjectHash: Compacting FUObjectHashTables data took  12.49ms
+[2023.02.21-04.15.16:366][972]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.21-04.15.16:366][972]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.21-04.15.16:366][972]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2023.02.21-04.15.16:366][972]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2023.02.21-04.15.16:366][972]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2023.02.21-04.15.16:366][972]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.21-04.15.16:366][972]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.21-04.15.16:366][972]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.21-04.15.16:367][972]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.21-04.15.16:367][972]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.21-04.15.16:374][972]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.21-04.15.16:374][972]LogAudioMixer: Display: 1: FrontRight
+[2023.02.21-04.15.16:452][972]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2023.02.21-04.15.16:452][972]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.21-04.15.16:452][972]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.21-04.15.16:453][972]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.21-04.15.16:453][972]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.21-04.15.16:497][972]LogInit: FAudioDevice initialized.
+[2023.02.21-04.15.16:513][972]LogLoad: Game class is 'AdventureGameMode_C'
+[2023.02.21-04.15.16:516][972]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2023.02.20-20.15.16
+[2023.02.21-04.15.16:516][972]LogWorld: Bringing up level for play took: 0.001109
+[2023.02.21-04.15.16:517][972]LogOnline: OSS: Creating online subsystem instance for: :Context_28
+[2023.02.21-04.15.16:525][972]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.15.16:545][972]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.15.16:552][972]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.15.16:553][972]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.15.16:571][972]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.15.16:573][972]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.15.16:604][972]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.15.16:617][972]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.15.16:627][972]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.15.16:628][972]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.15.16:633][972]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.15.16:640][972]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.15.16:653][972]PIE: Server logged in
+[2023.02.21-04.15.16:655][972]PIE: Play in editor total start time 0.421 seconds.
+[2023.02.21-04.15.26:383][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-04.15.26:383][175]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2023.02.21-04.15.26:384][175]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.21-04.15.26:386][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-04.15.26:403][175]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.21-04.15.26:414][175]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-04.15.26:569][175]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-04.15.26:571][175]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028CD9655580), frame # 234175
+[2023.02.21-04.15.26:571][175]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028ED91E1C00), frame # 234175
+[2023.02.21-04.15.26:581][175]LogUObjectHash: Compacting FUObjectHashTables data took   8.81ms
+[2023.02.21-04.15.26:656][176]LogPlayLevel: Display: Destroying online subsystem :Context_28
+[2023.02.21-04.15.30:814][290]LogAssetEditorSubsystem: Opening Asset editor for DataTable /Game/Blueprints/Adventure/Hexes/HexObjects/HexObjects.HexObjects
+[2023.02.21-04.15.41:793][475]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexObjectsEE5CCE934D00636080D517B4B6F06293.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/HexObjects/HexObjects.uasset'
+[2023.02.21-04.15.41:823][475]AssetCheck: New page: Asset Save: HexObjects
+[2023.02.21-04.15.41:824][475]LogContentValidation: Display: Validating DataTable /Game/Blueprints/Adventure/Hexes/HexObjects/HexObjects.HexObjects
+[2023.02.21-04.15.55:503][705]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexObjectsB39E23D0489447575A417D97DE0B6FC7.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/HexObjects/HexObjects.uasset'
+[2023.02.21-04.15.55:536][705]AssetCheck: New page: Asset Save: HexObjects
+[2023.02.21-04.15.55:536][705]LogContentValidation: Display: Validating DataTable /Game/Blueprints/Adventure/Hexes/HexObjects/HexObjects.HexObjects
+[2023.02.21-04.15.59:948][766]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/HexObjectsD1D2D3CE44885BF317E56DB98915B0EE.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/Hexes/HexObjects/HexObjects.uasset'
+[2023.02.21-04.15.59:982][766]AssetCheck: New page: Asset Save: HexObjects
+[2023.02.21-04.15.59:982][766]LogContentValidation: Display: Validating DataTable /Game/Blueprints/Adventure/Hexes/HexObjects/HexObjects.HexObjects
+[2023.02.21-04.16.06:053][878]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.21-04.16.06:118][878]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.21-04.16.06:118][878]PIE: New page: PIE session: MainMap (20 Feb 2023, 12:16:06)
+[2023.02.21-04.16.06:118][878]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2023.02.21-04.16.06:124][878]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005821s)
+[2023.02.21-04.16.06:127][878]LogAIModule: Creating AISystem for world MainMap
+[2023.02.21-04.16.06:127][878]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028ED6667E00), frame # 234878
+[2023.02.21-04.16.06:127][878]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028E86C5DE40), frame # 234878
+[2023.02.21-04.16.06:127][878]LogPlayLevel: PIE: World Init took: (0.003264s)
+[2023.02.21-04.16.06:128][878]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.009470s)
+[2023.02.21-04.16.06:230][878]LogUObjectHash: Compacting FUObjectHashTables data took   9.00ms
+[2023.02.21-04.16.06:235][878]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.21-04.16.06:235][878]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.21-04.16.06:235][878]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2023.02.21-04.16.06:235][878]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2023.02.21-04.16.06:235][878]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2023.02.21-04.16.06:235][878]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.21-04.16.06:235][878]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.21-04.16.06:235][878]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.21-04.16.06:236][878]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.21-04.16.06:236][878]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.21-04.16.06:243][878]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.21-04.16.06:243][878]LogAudioMixer: Display: 1: FrontRight
+[2023.02.21-04.16.06:314][878]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2023.02.21-04.16.06:314][878]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.21-04.16.06:315][878]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.21-04.16.06:315][878]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.21-04.16.06:315][878]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.21-04.16.06:360][878]LogInit: FAudioDevice initialized.
+[2023.02.21-04.16.06:376][878]LogLoad: Game class is 'AdventureGameMode_C'
+[2023.02.21-04.16.06:379][878]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2023.02.20-20.16.06
+[2023.02.21-04.16.06:380][878]LogWorld: Bringing up level for play took: 0.001105
+[2023.02.21-04.16.06:380][878]LogOnline: OSS: Creating online subsystem instance for: :Context_29
+[2023.02.21-04.16.06:389][878]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.16.06:409][878]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.16.06:417][878]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.16.06:424][878]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.16.06:430][878]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.16.06:446][878]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.16.06:448][878]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.16.06:462][878]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.16.06:464][878]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.16.06:466][878]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.16.06:474][878]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.16.06:491][878]LogBlueprintUserMessages: [AdventureGameMode_C_0] Could not find Hex Object of type 'River' in HexObjects Data Table.
+[2023.02.21-04.16.06:508][878]PIE: Server logged in
+[2023.02.21-04.16.06:509][878]PIE: Play in editor total start time 0.404 seconds.
+[2023.02.21-04.16.12:225][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-04.16.12:225][974]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2023.02.21-04.16.12:226][974]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.21-04.16.12:227][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-04.16.12:252][974]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.21-04.16.12:263][974]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-04.16.12:436][974]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-04.16.12:439][974]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028E86C5DE40), frame # 234974
+[2023.02.21-04.16.12:439][974]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028ED6667E00), frame # 234974
+[2023.02.21-04.16.12:450][974]LogUObjectHash: Compacting FUObjectHashTables data took  10.43ms
+[2023.02.21-04.16.12:544][975]LogPlayLevel: Display: Destroying online subsystem :Context_29
+[2023.02.21-04.17.06:030][934]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.21-04.17.06:442][934]LogUObjectHash: Compacting FUObjectHashTables data took   9.91ms
+[2023.02.21-04.17.08:209][942]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameModeD3A8164B43E7FCE01E08EC8C270C3C9E.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.21-04.17.08:245][942]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.21-04.17.08:245][942]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.21-04.17.10:427][984]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.21-04.17.10:490][984]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.21-04.17.10:490][984]PIE: New page: PIE session: MainMap (20 Feb 2023, 12:17:10)
+[2023.02.21-04.17.10:491][984]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2023.02.21-04.17.10:496][984]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005379s)
+[2023.02.21-04.17.10:499][984]LogAIModule: Creating AISystem for world MainMap
+[2023.02.21-04.17.10:499][984]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028EEECD9E00), frame # 235984
+[2023.02.21-04.17.10:499][984]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028EDB765080), frame # 235984
+[2023.02.21-04.17.10:500][984]LogPlayLevel: PIE: World Init took: (0.003462s)
+[2023.02.21-04.17.10:500][984]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.009253s)
+[2023.02.21-04.17.10:605][984]LogUObjectHash: Compacting FUObjectHashTables data took  12.25ms
+[2023.02.21-04.17.10:607][984]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.21-04.17.10:607][984]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.21-04.17.10:607][984]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2023.02.21-04.17.10:607][984]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2023.02.21-04.17.10:607][984]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2023.02.21-04.17.10:607][984]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.21-04.17.10:607][984]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.21-04.17.10:608][984]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.21-04.17.10:609][984]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.21-04.17.10:609][984]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.21-04.17.10:616][984]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.21-04.17.10:616][984]LogAudioMixer: Display: 1: FrontRight
+[2023.02.21-04.17.10:695][984]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2023.02.21-04.17.10:696][984]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.21-04.17.10:696][984]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.21-04.17.10:696][984]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.21-04.17.10:697][984]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.21-04.17.10:740][984]LogInit: FAudioDevice initialized.
+[2023.02.21-04.17.10:753][984]LogLoad: Game class is 'AdventureGameMode_C'
+[2023.02.21-04.17.10:755][984]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2023.02.20-20.17.10
+[2023.02.21-04.17.10:756][984]LogWorld: Bringing up level for play took: 0.001104
+[2023.02.21-04.17.10:756][984]LogOnline: OSS: Creating online subsystem instance for: :Context_30
+[2023.02.21-04.17.10:892][984]PIE: Server logged in
+[2023.02.21-04.17.10:893][984]PIE: Play in editor total start time 0.414 seconds.
+[2023.02.21-04.17.34:847][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-04.17.34:847][448]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2023.02.21-04.17.34:848][448]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.21-04.17.34:852][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-04.17.34:883][448]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.21-04.17.34:894][448]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-04.17.35:046][448]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-04.17.35:050][448]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028EDB765080), frame # 236448
+[2023.02.21-04.17.35:050][448]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028EEECD9E00), frame # 236448
+[2023.02.21-04.17.35:059][448]LogUObjectHash: Compacting FUObjectHashTables data took   7.95ms
+[2023.02.21-04.17.35:136][449]LogPlayLevel: Display: Destroying online subsystem :Context_30
+[2023.02.21-04.18.10:655][881]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.21-04.18.11:113][881]LogUObjectHash: Compacting FUObjectHashTables data took  11.92ms
+[2023.02.21-04.18.13:327][886]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameMode8684F119405F0BA81B21038F716C0E2E.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.21-04.18.13:362][886]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.21-04.18.13:363][886]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.21-04.18.14:736][905]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.21-04.18.14:813][905]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.21-04.18.14:813][905]PIE: New page: PIE session: MainMap (20 Feb 2023, 12:18:14)
+[2023.02.21-04.18.14:813][905]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2023.02.21-04.18.14:819][905]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006156s)
+[2023.02.21-04.18.14:823][905]LogAIModule: Creating AISystem for world MainMap
+[2023.02.21-04.18.14:823][905]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028ED92AB000), frame # 236905
+[2023.02.21-04.18.14:823][905]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028C0AC18B80), frame # 236905
+[2023.02.21-04.18.14:824][905]LogPlayLevel: PIE: World Init took: (0.004688s)
+[2023.02.21-04.18.14:824][905]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.011649s)
+[2023.02.21-04.18.14:946][905]LogUObjectHash: Compacting FUObjectHashTables data took  14.01ms
+[2023.02.21-04.18.14:948][905]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.21-04.18.14:948][905]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.21-04.18.14:948][905]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2023.02.21-04.18.14:948][905]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2023.02.21-04.18.14:948][905]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2023.02.21-04.18.14:948][905]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.21-04.18.14:948][905]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.21-04.18.14:949][905]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.21-04.18.14:950][905]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.21-04.18.14:950][905]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.21-04.18.14:958][905]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.21-04.18.14:958][905]LogAudioMixer: Display: 1: FrontRight
+[2023.02.21-04.18.15:056][905]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2023.02.21-04.18.15:057][905]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.21-04.18.15:057][905]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.21-04.18.15:057][905]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.21-04.18.15:058][905]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.21-04.18.15:112][905]LogInit: FAudioDevice initialized.
+[2023.02.21-04.18.15:133][905]LogLoad: Game class is 'AdventureGameMode_C'
+[2023.02.21-04.18.15:137][905]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2023.02.20-20.18.15
+[2023.02.21-04.18.15:137][905]LogWorld: Bringing up level for play took: 0.001469
+[2023.02.21-04.18.15:138][905]LogOnline: OSS: Creating online subsystem instance for: :Context_31
+[2023.02.21-04.18.15:152][905]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_Array_Add', from offset 411
+[2023.02.21-04.18.15:152][905]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:ReceiveBeginPlay
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:ExecuteUbergraph_AdventureGameMode
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:SpawnMap
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:SpawnNewStartingMap
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:SpawnNewHex
+	Function /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex_C:SetHexObjectConnection
+
+[2023.02.21-04.19.11:189][905]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Engine/EditorBlueprintResources/StandardMacros.StandardMacros
+[2023.02.21-04.19.53:519][905]PIE: Server logged in
+[2023.02.21-04.19.53:548][905]PIE: Play in editor total start time 98.749 seconds.
+[2023.02.21-04.19.53:589][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-04.19.53:590][905]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2023.02.21-04.19.53:591][905]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.21-04.19.53:595][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-04.19.53:804][905]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.21-04.19.53:819][905]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-04.19.54:040][905]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-04.19.54:044][905]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028C0AC18B80), frame # 236905
+[2023.02.21-04.19.54:045][905]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028ED92AB000), frame # 236905
+[2023.02.21-04.19.54:063][905]LogUObjectHash: Compacting FUObjectHashTables data took  15.79ms
+[2023.02.21-04.19.54:201][906]LogPlayLevel: Display: Destroying online subsystem :Context_31
+[2023.02.21-04.19.58:026][935]LogUObjectHash: Compacting FUObjectHashTables data took  14.54ms
+[2023.02.21-04.19.58:028][935]LogFileHelpers: Editor autosave (incl. sublevels) for '/Game/Maps/MainMap' took 0.130
+[2023.02.21-04.19.58:035][935]OBJ SavePackage: Generating thumbnails for [1] asset(s) in package [/Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex] ([1] browsable assets)...
+[2023.02.21-04.19.58:137][935]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex]
+[2023.02.21-04.19.58:137][935]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex]
+[2023.02.21-04.19.58:513][935]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/RiverHex_Auto76A6279014341D13C86A0739E521AAD02.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/Autosaves/Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex_Auto7.uasset'
+[2023.02.21-04.19.58:517][935]LogFileHelpers: Auto-saving content packages took 0.484
+[2023.02.21-04.20.18:510][249]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.21-04.20.18:575][249]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.21-04.20.18:576][249]PIE: New page: PIE session: MainMap (20 Feb 2023, 12:20:18)
+[2023.02.21-04.20.18:576][249]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2023.02.21-04.20.18:583][249]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006510s)
+[2023.02.21-04.20.18:585][249]LogAIModule: Creating AISystem for world MainMap
+[2023.02.21-04.20.18:586][249]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028F0F8F9C00), frame # 237249
+[2023.02.21-04.20.18:586][249]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028CC54DC680), frame # 237249
+[2023.02.21-04.20.18:586][249]LogPlayLevel: PIE: World Init took: (0.003244s)
+[2023.02.21-04.20.18:586][249]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.010175s)
+[2023.02.21-04.20.18:694][249]LogUObjectHash: Compacting FUObjectHashTables data took   9.17ms
+[2023.02.21-04.20.18:696][249]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.21-04.20.18:697][249]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.21-04.20.18:697][249]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2023.02.21-04.20.18:697][249]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2023.02.21-04.20.18:697][249]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2023.02.21-04.20.18:697][249]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.21-04.20.18:697][249]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.21-04.20.18:697][249]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.21-04.20.18:698][249]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.21-04.20.18:698][249]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.21-04.20.18:706][249]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.21-04.20.18:706][249]LogAudioMixer: Display: 1: FrontRight
+[2023.02.21-04.20.18:788][249]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2023.02.21-04.20.18:789][249]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.21-04.20.18:789][249]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.21-04.20.18:789][249]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.21-04.20.18:790][249]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.21-04.20.18:792][249]LogInit: FAudioDevice initialized.
+[2023.02.21-04.20.18:849][249]LogLoad: Game class is 'AdventureGameMode_C'
+[2023.02.21-04.20.18:852][249]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2023.02.20-20.20.18
+[2023.02.21-04.20.18:853][249]LogWorld: Bringing up level for play took: 0.001122
+[2023.02.21-04.20.18:853][249]LogOnline: OSS: Creating online subsystem instance for: :Context_33
+[2023.02.21-04.20.18:873][249]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_VariableSet', from offset 363
+[2023.02.21-04.20.18:873][249]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:ReceiveBeginPlay
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:ExecuteUbergraph_AdventureGameMode
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:SpawnMap
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:SpawnNewStartingMap
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:SpawnNewHex
+	Function /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex_C:SetHexObjectConnection
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:CreateNewHexObject
+
+[2023.02.21-04.20.26:137][249]PIE: Server logged in
+[2023.02.21-04.20.26:162][249]PIE: Play in editor total start time 7.598 seconds.
+[2023.02.21-04.20.26:232][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-04.20.26:232][249]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2023.02.21-04.20.26:233][249]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.21-04.20.26:235][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-04.20.26:296][249]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.21-04.20.26:305][249]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-04.20.26:454][249]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-04.20.26:457][249]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028CC54DC680), frame # 237249
+[2023.02.21-04.20.26:457][249]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028F0F8F9C00), frame # 237249
+[2023.02.21-04.20.26:465][249]LogUObjectHash: Compacting FUObjectHashTables data took   7.63ms
+[2023.02.21-04.20.26:553][250]LogPlayLevel: Display: Destroying online subsystem :Context_33
+[2023.02.21-04.20.55:240][766]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.21-04.20.55:305][766]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.21-04.20.55:305][766]PIE: New page: PIE session: MainMap (20 Feb 2023, 12:20:55)
+[2023.02.21-04.20.55:306][766]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2023.02.21-04.20.55:311][766]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005398s)
+[2023.02.21-04.20.55:314][766]LogAIModule: Creating AISystem for world MainMap
+[2023.02.21-04.20.55:315][766]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028F14731200), frame # 237766
+[2023.02.21-04.20.55:315][766]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028E740D2340), frame # 237766
+[2023.02.21-04.20.55:315][766]LogPlayLevel: PIE: World Init took: (0.004027s)
+[2023.02.21-04.20.55:315][766]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.009792s)
+[2023.02.21-04.20.55:425][766]LogUObjectHash: Compacting FUObjectHashTables data took   9.33ms
+[2023.02.21-04.20.55:427][766]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.21-04.20.55:428][766]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.21-04.20.55:428][766]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2023.02.21-04.20.55:428][766]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2023.02.21-04.20.55:428][766]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2023.02.21-04.20.55:428][766]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.21-04.20.55:428][766]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.21-04.20.55:428][766]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.21-04.20.55:429][766]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.21-04.20.55:429][766]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.21-04.20.55:436][766]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.21-04.20.55:436][766]LogAudioMixer: Display: 1: FrontRight
+[2023.02.21-04.20.55:514][766]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2023.02.21-04.20.55:514][766]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.21-04.20.55:515][766]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.21-04.20.55:515][766]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.21-04.20.55:516][766]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.21-04.20.55:558][766]LogInit: FAudioDevice initialized.
+[2023.02.21-04.20.55:575][766]LogLoad: Game class is 'AdventureGameMode_C'
+[2023.02.21-04.20.55:578][766]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2023.02.20-20.20.55
+[2023.02.21-04.20.55:579][766]LogWorld: Bringing up level for play took: 0.001214
+[2023.02.21-04.20.55:579][766]LogOnline: OSS: Creating online subsystem instance for: :Context_34
+[2023.02.21-04.20.55:596][766]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_VariableSet', from offset 363
+[2023.02.21-04.20.55:596][766]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:ReceiveBeginPlay
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:ExecuteUbergraph_AdventureGameMode
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:SpawnMap
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:SpawnNewStartingMap
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:SpawnNewHex
+	Function /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex_C:SetHexObjectConnection
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:CreateNewHexObject
+
+[2023.02.21-04.21.00:384][766]PIE: Server logged in
+[2023.02.21-04.21.00:408][766]PIE: Play in editor total start time 5.114 seconds.
+[2023.02.21-04.21.00:470][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-04.21.00:470][766]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2023.02.21-04.21.00:471][766]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.21-04.21.00:472][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-04.21.00:535][766]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.21-04.21.00:545][766]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-04.21.00:688][766]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-04.21.00:690][766]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028E740D2340), frame # 237766
+[2023.02.21-04.21.00:691][766]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028F14731200), frame # 237766
+[2023.02.21-04.21.00:699][766]LogUObjectHash: Compacting FUObjectHashTables data took   8.14ms
+[2023.02.21-04.21.00:783][767]LogPlayLevel: Display: Destroying online subsystem :Context_34
+[2023.02.21-04.21.24:862][157]BlueprintLog: New page: Compile AdventureGameState
+[2023.02.21-04.21.25:109][157]LogUObjectHash: Compacting FUObjectHashTables data took  11.51ms
+[2023.02.21-04.21.26:780][168]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameState6788E4D447104D7DF1A9EB87BDBCCDED.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameState.uasset'
+[2023.02.21-04.21.26:810][168]AssetCheck: New page: Asset Save: AdventureGameState
+[2023.02.21-04.21.26:810][168]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameState.AdventureGameState
+[2023.02.21-04.21.35:511][313]BlueprintLog: New page: Compile AdventureGameState
+[2023.02.21-04.21.35:776][313]LogUObjectHash: Compacting FUObjectHashTables data took  12.57ms
+[2023.02.21-04.21.37:431][322]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Saved/AdventureGameStateAD416D804974FECAA710068C34EAEC0B.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure/Content/Blueprints/Adventure/AdventureGameState.uasset'
+[2023.02.21-04.21.37:466][322]AssetCheck: New page: Asset Save: AdventureGameState
+[2023.02.21-04.21.37:466][322]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameState.AdventureGameState
+[2023.02.21-04.21.39:204][358]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.21-04.21.39:267][358]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.21-04.21.39:267][358]PIE: New page: PIE session: MainMap (20 Feb 2023, 12:21:39)
+[2023.02.21-04.21.39:268][358]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMap
+[2023.02.21-04.21.39:274][358]LogPlayLevel: PIE: StaticDuplicateObject took: (0.006574s)
+[2023.02.21-04.21.39:279][358]LogAIModule: Creating AISystem for world MainMap
+[2023.02.21-04.21.39:279][358]LogAISub: UAISubsystem::UAISubsystem EnvQueryManager (0000028F14FC0C00), frame # 238358
+[2023.02.21-04.21.39:279][358]LogAISub: UAISubsystem::UAISubsystem AIPerceptionSystem (0000028E9C987600), frame # 238358
+[2023.02.21-04.21.39:280][358]LogPlayLevel: PIE: World Init took: (0.005369s)
+[2023.02.21-04.21.39:280][358]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMap.MainMap to /Game/Maps/UEDPIE_0_MainMap.MainMap (0.012316s)
+[2023.02.21-04.21.39:391][358]LogUObjectHash: Compacting FUObjectHashTables data took  12.45ms
+[2023.02.21-04.21.39:393][358]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.21-04.21.39:394][358]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.21-04.21.39:394][358]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2023.02.21-04.21.39:394][358]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2023.02.21-04.21.39:394][358]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2023.02.21-04.21.39:394][358]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.21-04.21.39:394][358]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.21-04.21.39:394][358]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.21-04.21.39:395][358]LogAudio: Display: Using built-in audio occlusion.
+[2023.02.21-04.21.39:395][358]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.21-04.21.39:402][358]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.21-04.21.39:402][358]LogAudioMixer: Display: 1: FrontRight
+[2023.02.21-04.21.39:486][358]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2023.02.21-04.21.39:487][358]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.21-04.21.39:487][358]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.21-04.21.39:487][358]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.21-04.21.39:489][358]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.21-04.21.39:530][358]LogInit: FAudioDevice initialized.
+[2023.02.21-04.21.39:543][358]LogLoad: Game class is 'AdventureGameMode_C'
+[2023.02.21-04.21.39:546][358]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2023.02.20-20.21.39
+[2023.02.21-04.21.39:546][358]LogWorld: Bringing up level for play took: 0.001113
+[2023.02.21-04.21.39:547][358]LogOnline: OSS: Creating online subsystem instance for: :Context_35
+[2023.02.21-04.21.39:554][358]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_GetHexObjectByName', from offset 321
+[2023.02.21-04.21.39:555][358]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:ReceiveBeginPlay
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:ExecuteUbergraph_AdventureGameMode
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:SpawnMap
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:SpawnNewStartingMap
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:SpawnNewHex
+	Function /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex_C:SetHexObjectConnection
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:CreateNewHexObject
+	Function /Game/Blueprints/Adventure/AdventureGameState.AdventureGameState_C:GetNewHexObjectName
+
+[2023.02.21-04.21.46:691][358]LogBlueprintDebug: Warning: Hit breakpoint on node 'K2Node_VariableSet', from offset 363
+[2023.02.21-04.21.46:691][358]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:ReceiveBeginPlay
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:ExecuteUbergraph_AdventureGameMode
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:SpawnMap
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:SpawnNewStartingMap
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:SpawnNewHex
+	Function /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex_C:SetHexObjectConnection
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:CreateNewHexObject
+
+[2023.02.21-04.21.52:984][358]LogBlueprintDebug: Warning: Hit breakpoint on node 'CallFunc_Array_Add', from offset 411
+[2023.02.21-04.21.52:984][358]LogBlueprintDebug: 
+Script call stack:
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:ReceiveBeginPlay
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:ExecuteUbergraph_AdventureGameMode
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:SpawnMap
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:SpawnNewStartingMap
+	Function /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode_C:SpawnNewHex
+	Function /Game/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.RiverHex_C:SetHexObjectConnection
+
+[2023.02.21-04.22.04:098][358]PIE: Server logged in
+[2023.02.21-04.22.04:099][358]PIE: Play in editor total start time 24.843 seconds.
+[2023.02.21-04.25.19:259][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-04.25.19:259][  7]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2023.02.21-04.25.19:261][  7]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.21-04.25.19:267][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-04.25.19:346][  7]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.21-04.25.19:357][  7]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.21-04.25.19:497][  7]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.21-04.25.19:503][  7]LogAISub: UAISubsystem::~UAISubsystem AIPerceptionSystem (0000028E9C987600), frame # 241007
+[2023.02.21-04.25.19:504][  7]LogAISub: UAISubsystem::~UAISubsystem EnvQueryManager (0000028F14FC0C00), frame # 241007
+[2023.02.21-04.25.19:512][  7]LogUObjectHash: Compacting FUObjectHashTables data took   7.81ms
+[2023.02.21-04.25.19:579][  8]LogPlayLevel: Display: Destroying online subsystem :Context_35
