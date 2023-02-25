@@ -1,0 +1,1 @@
+../../../HexAdventure/HexAdventure.uproject  /Game/Maps/MainMap -Messaging -SessionId=2F3564C147CE60B71016F7BF088D4BB4 -SessionOwner="carlt" -SessionName="Launch On Device" -iterative
