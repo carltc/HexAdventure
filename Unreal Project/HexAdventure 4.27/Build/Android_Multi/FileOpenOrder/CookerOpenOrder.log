@@ -516,178 +516,176 @@
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchController.uexp" 515
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uasset" 516
 "../../../Engine/Plugins/Runtime/Oculus/OculusVR/Content/Meshes/RightTouchForQuestRiftSController.uexp" 517
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerState.uasset" 518
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerState.uexp" 519
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/PlayerSaveData.uasset" 520
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/PlayerSaveData.uexp" 521
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/GameSaveData.uasset" 522
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/GameSaveData.uexp" 523
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/HexSaveData.uasset" 524
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/HexSaveData.uexp" 525
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/MapSaveData.uasset" 526
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/MapSaveData.uexp" 527
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/AdventureSaveGame.uasset" 528
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/AdventureSaveGame.uexp" 529
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/HexAdventureGameInstance.uasset" 530
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/HexAdventureGameInstance.uexp" 531
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 532
-"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 533
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/SaveGamesList.uasset" 534
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/SaveGamesList.uexp" 535
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/MainMenu/MainMenuGameMode.uasset" 536
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/MainMenu/MainMenuGameMode.uexp" 537
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/NewGame.uasset" 538
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/NewGame.uexp" 539
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/LoadableGamePanel.uasset" 540
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/LoadableGamePanel.uexp" 541
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/LoadGame.uasset" 542
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/LoadGame.uexp" 543
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/MainMenu.uasset" 544
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/MainMenu.uexp" 545
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Maps/MainMenu.uexp" 546
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Maps/MainMenu.umap" 547
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 548
-"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 549
-"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 550
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 551
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 552
-"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 553
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 554
-"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 555
-"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 556
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 557
-"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 558
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Maps/MainMap_BuiltData.uasset" 559
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Maps/MainMap_BuiltData.uexp" 560
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/JourneyPath.uasset" 561
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/JourneyPath.uexp" 562
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/JourneyPath/SplineMesh.uasset" 563
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/JourneyPath/SplineMesh.uexp" 564
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/PlayerJourneyPath.uasset" 565
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/PlayerJourneyPath.uexp" 566
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexObjectTypes.uasset" 567
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexObjectTypes.uexp" 568
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexBlend.uasset" 569
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexBlend.uexp" 570
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/Hexes/Hex_Pieces_Minimum/Neighbour.uasset" 571
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/Hexes/Hex_Pieces_Minimum/Neighbour.uexp" 572
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/Hexes/Hex_Pieces_Minimum/Centre.uasset" 573
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/Hexes/Hex_Pieces_Minimum/Centre.uexp" 574
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/Hexes/Hex_Pieces_Minimum/Between.uasset" 575
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/Hexes/Hex_Pieces_Minimum/Between.uexp" 576
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexBase.uasset" 577
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexBase.uexp" 578
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexGrey.uasset" 579
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexGrey.uexp" 580
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/Hex.uasset" 581
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/Hex.uexp" 582
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexBlendMaterials/HexBlendParameterNames.uasset" 583
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexBlendMaterials/HexBlendParameterNames.uexp" 584
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition.uasset" 585
-"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition.uexp" 586
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexBlend_Smooth.uasset" 587
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexBlend_Smooth.uexp" 588
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexBlend_SmoothInstance.uasset" 589
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexBlend_SmoothInstance.uexp" 590
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SharedMacros.uasset" 591
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SharedMacros.uexp" 592
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexTypes.uasset" 593
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexTypes.uexp" 594
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/Hex.uasset" 595
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/Hex.uexp" 596
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexObject.uasset" 597
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexObject.uexp" 598
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureGameState.uasset" 599
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureGameState.uexp" 600
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/IntVectorPriorityQueue.uasset" 601
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/IntVectorPriorityQueue.uexp" 602
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SharedFunctions.uasset" 603
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SharedFunctions.uexp" 604
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/MODEL_Player.uasset" 605
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/MODEL_Player.uexp" 606
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/PlayerMaterial.uasset" 607
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/PlayerMaterial.uexp" 608
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/PlayerMaterials/PlayerMainMaterial.uasset" 609
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/PlayerMaterials/PlayerMainMaterial.uexp" 610
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/ArrayHexes.uasset" 611
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/ArrayHexes.uexp" 612
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerPawn.uasset" 613
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerPawn.uexp" 614
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/AdventureHUD/AdventureHUD.uasset" 615
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/AdventureHUD/AdventureHUD.uexp" 616
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexLightBlue.uasset" 617
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexLightBlue.uexp" 618
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexRiver.uasset" 619
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexRiver.uexp" 620
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/Hexes/River/RiverCentreWater.uasset" 621
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/Hexes/River/RiverCentreWater.uexp" 622
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/Invisible.uasset" 623
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/Invisible.uexp" 624
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexDecorationMaterials/WaterBlue.uasset" 625
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexDecorationMaterials/WaterBlue.uexp" 626
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexBlue.uasset" 627
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexBlue.uexp" 628
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/WaterHex.uasset" 629
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/WaterHex.uexp" 630
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexTypeDetails.uasset" 631
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexTypeDetails.uexp" 632
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.uasset" 633
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.uexp" 634
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexDarkBlue.uasset" 635
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexDarkBlue.uexp" 636
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexOcean.uasset" 637
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexOcean.uexp" 638
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/WaterHexes/OceanHex.uasset" 639
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/WaterHexes/OceanHex.uexp" 640
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/WaterHexes/LakeHex.uasset" 641
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/WaterHexes/LakeHex.uexp" 642
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/StoneHex.uasset" 643
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/StoneHex.uexp" 644
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/StoneHexes/MountainHex.uasset" 645
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/StoneHexes/MountainHex.uexp" 646
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexLightGrey.uasset" 647
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexLightGrey.uexp" 648
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/StoneHexes/HillsHex.uasset" 649
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/StoneHexes/HillsHex.uexp" 650
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/StoneHexes/CavesHex.uasset" 651
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/StoneHexes/CavesHex.uexp" 652
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexGreen.uasset" 653
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexGreen.uexp" 654
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/GrassHex.uasset" 655
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/GrassHex.uexp" 656
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexLightGreen.uasset" 657
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexLightGreen.uexp" 658
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/GrassHexes/MeadowHex.uasset" 659
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/GrassHexes/MeadowHex.uexp" 660
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexDarkGreen.uasset" 661
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexDarkGreen.uexp" 662
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/GrassHexes/ForestHex.uasset" 663
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/GrassHexes/ForestHex.uexp" 664
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/GrassHexes/FieldHex.uasset" 665
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/GrassHexes/FieldHex.uexp" 666
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexTypesData.uasset" 667
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexTypesData.uexp" 668
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexObjectDetails.uasset" 669
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexObjectDetails.uexp" 670
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexObjects.uasset" 671
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexObjects.uexp" 672
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureHUD.uasset" 673
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureHUD.uexp" 674
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureGameMode.uasset" 675
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureGameMode.uexp" 676
-"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 677
-"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 678
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 679
-"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 680
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 681
-"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 682
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 683
-"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 684
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 685
-"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 686
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Maps/MainMap.uexp" 687
-"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Maps/MainMap.umap" 688
-"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 689
-"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 690
-"../../../Engine/Content/Maps/Entry.uexp" 691
-"../../../Engine/Content/Maps/Entry.umap" 692
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uasset" 518
+"../../../Engine/Content/EngineSky/T_Sky_Stars.uexp" 519
+"../../../Engine/Content/EngineSky/T_Sky_Stars.ubulk" 520
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uasset" 521
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.uexp" 522
+"../../../Engine/Content/EngineSky/T_Sky_Clouds_M.ubulk" 523
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uasset" 524
+"../../../Engine/Content/EngineSky/T_Sky_Blue.uexp" 525
+"../../../Engine/Content/EngineSky/T_Sky_Blue.ubulk" 526
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uasset" 527
+"../../../Engine/Content/EngineSky/M_Sky_Panning_Clouds2.uexp" 528
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Maps/MainMap_BuiltData.uasset" 529
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Maps/MainMap_BuiltData.uexp" 530
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerState.uasset" 531
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerState.uexp" 532
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexObjectTypes.uasset" 533
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexObjectTypes.uexp" 534
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexBlend.uasset" 535
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexBlend.uexp" 536
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/Hexes/Hex_Pieces_Minimum/Neighbour.uasset" 537
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/Hexes/Hex_Pieces_Minimum/Neighbour.uexp" 538
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/Hexes/Hex_Pieces_Minimum/Centre.uasset" 539
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/Hexes/Hex_Pieces_Minimum/Centre.uexp" 540
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/Hexes/Hex_Pieces_Minimum/Between.uasset" 541
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/Hexes/Hex_Pieces_Minimum/Between.uexp" 542
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexBase.uasset" 543
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexBase.uexp" 544
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexGrey.uasset" 545
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexGrey.uexp" 546
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/Hex.uasset" 547
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/Hex.uexp" 548
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexBlendMaterials/HexBlendParameterNames.uasset" 549
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexBlendMaterials/HexBlendParameterNames.uexp" 550
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition.uasset" 551
+"../../../Engine/Content/Functions/Engine_MaterialFunctions02/WorldPositionOffset/LocalPosition.uexp" 552
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexBlend_Smooth.uasset" 553
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexBlend_Smooth.uexp" 554
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexBlend_SmoothInstance.uasset" 555
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexBlend_SmoothInstance.uexp" 556
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexTypes.uasset" 557
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexTypes.uexp" 558
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uasset" 559
+"../../../Engine/Content/EditorBlueprintResources/StandardMacros.uexp" 560
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SharedMacros.uasset" 561
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SharedMacros.uexp" 562
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/Hex.uasset" 563
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/Hex.uexp" 564
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexObject.uasset" 565
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexObject.uexp" 566
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureGameState.uasset" 567
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureGameState.uexp" 568
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/MODEL_Player.uasset" 569
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/MODEL_Player.uexp" 570
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/PlayerMaterial.uasset" 571
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/PlayerMaterial.uexp" 572
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/PlayerMaterials/PlayerMainMaterial.uasset" 573
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/PlayerMaterials/PlayerMainMaterial.uexp" 574
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/JourneyPath.uasset" 575
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/JourneyPath.uexp" 576
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/JourneyPath/SplineMesh.uasset" 577
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/JourneyPath/SplineMesh.uexp" 578
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/PlayerJourneyPath.uasset" 579
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/PlayerJourneyPath.uexp" 580
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/IntVectorPriorityQueue.uasset" 581
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/IntVectorPriorityQueue.uexp" 582
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SharedFunctions.uasset" 583
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SharedFunctions.uexp" 584
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerPawn.uasset" 585
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerPawn.uexp" 586
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/AdventureHUD/AdventureHUD.uasset" 587
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/AdventureHUD/AdventureHUD.uexp" 588
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/HexSaveData.uasset" 589
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/HexSaveData.uexp" 590
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/GameSaveData.uasset" 591
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/GameSaveData.uexp" 592
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/MapSaveData.uasset" 593
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/MapSaveData.uexp" 594
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/PlayerSaveData.uasset" 595
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/PlayerSaveData.uexp" 596
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/AdventureSaveGame.uasset" 597
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/AdventureSaveGame.uexp" 598
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexOcean.uasset" 599
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexOcean.uexp" 600
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexRiver.uasset" 601
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexRiver.uexp" 602
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexObjectDetails.uasset" 603
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexObjectDetails.uexp" 604
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexObjects.uasset" 605
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexObjects/HexObjects.uexp" 606
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexLightBlue.uasset" 607
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexLightBlue.uexp" 608
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/Hexes/River/RiverCentreWater.uasset" 609
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Models/Hexes/River/RiverCentreWater.uexp" 610
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexBlue.uasset" 611
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexBlue.uexp" 612
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/Invisible.uasset" 613
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/Invisible.uexp" 614
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexDecorationMaterials/WaterBlue.uasset" 615
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexDecorationMaterials/WaterBlue.uexp" 616
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/WaterHex.uasset" 617
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/WaterHex.uexp" 618
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexDarkBlue.uasset" 619
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexDarkBlue.uexp" 620
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexTypeDetails.uasset" 621
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexTypeDetails.uexp" 622
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/WaterHexes/OceanHex.uasset" 623
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/WaterHexes/OceanHex.uexp" 624
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/WaterHexes/LakeHex.uasset" 625
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/WaterHexes/LakeHex.uexp" 626
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/StoneHex.uasset" 627
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/StoneHex.uexp" 628
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/StoneHexes/MountainHex.uasset" 629
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/StoneHexes/MountainHex.uexp" 630
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexLightGrey.uasset" 631
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexLightGrey.uexp" 632
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/StoneHexes/HillsHex.uasset" 633
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/StoneHexes/HillsHex.uexp" 634
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/StoneHexes/CavesHex.uasset" 635
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/StoneHexes/CavesHex.uexp" 636
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexLightGreen.uasset" 637
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexLightGreen.uexp" 638
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexGreen.uasset" 639
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexGreen.uexp" 640
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/GrassHex.uasset" 641
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/GrassHex.uexp" 642
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/GrassHexes/MeadowHex.uasset" 643
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/GrassHexes/MeadowHex.uexp" 644
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexDarkGreen.uasset" 645
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Materials/HexMaterials/HexDarkGreen.uexp" 646
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/GrassHexes/ForestHex.uasset" 647
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/GrassHexes/ForestHex.uexp" 648
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/GrassHexes/FieldHex.uasset" 649
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/GrassHexes/FieldHex.uexp" 650
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexTypesData.uasset" 651
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/HexTypesData.uexp" 652
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.uasset" 653
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/Hexes/WaterHexes/RiverHex.uexp" 654
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/HexAdventureGameInstance.uasset" 655
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/HexAdventureGameInstance.uexp" 656
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureHUD.uasset" 657
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureHUD.uexp" 658
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureGameMode.uasset" 659
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureGameMode.uexp" 660
+"../../../Engine/Content/EngineSky/SM_SkySphere.uasset" 661
+"../../../Engine/Content/EngineSky/SM_SkySphere.uexp" 662
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uasset" 663
+"../../../Engine/Content/EngineSky/C_Sky_Zenith_Color.uexp" 664
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uasset" 665
+"../../../Engine/Content/EngineSky/C_Sky_Horizon_Color.uexp" 666
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uasset" 667
+"../../../Engine/Content/EngineSky/C_Sky_Cloud_Color.uexp" 668
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uasset" 669
+"../../../Engine/Content/EngineSky/BP_Sky_Sphere.uexp" 670
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Maps/MainMap.uexp" 671
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Maps/MainMap.umap" 672
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/SaveGamesList.uasset" 673
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/SaveGamesList.uexp" 674
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/MainMenu/MainMenuGameMode.uasset" 675
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/MainMenu/MainMenuGameMode.uexp" 676
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/NewGame.uasset" 677
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/NewGame.uexp" 678
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/LoadableGamePanel.uasset" 679
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/LoadableGamePanel.uexp" 680
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/LoadGame.uasset" 681
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/LoadGame.uexp" 682
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/MainMenu.uasset" 683
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/MainMenu.uexp" 684
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Maps/MainMenu.uexp" 685
+"C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Maps/MainMenu.umap" 686
+"../../../Engine/Content/Maps/Entry_BuiltData.uasset" 687
+"../../../Engine/Content/Maps/Entry_BuiltData.uexp" 688
+"../../../Engine/Content/Maps/Entry.uexp" 689
+"../../../Engine/Content/Maps/Entry.umap" 690

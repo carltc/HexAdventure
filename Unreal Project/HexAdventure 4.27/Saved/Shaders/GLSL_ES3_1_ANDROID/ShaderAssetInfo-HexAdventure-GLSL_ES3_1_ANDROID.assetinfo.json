@@ -271,9 +271,15 @@
 			]
 		},
 		{
-			"ShaderMapHash": "7727B3BDB4BA7EB1753B49A631F5A1CDD172FC04",
+			"ShaderMapHash": "9C6BCFF6065E48C82DD78CA53E11039CB8BAC5E2",
 			"Assets": [
-				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+				"/Game/Materials/HexBlend"
+			]
+		},
+		{
+			"ShaderMapHash": "7B551F8F17395BE57D4ED76E9EA553FF97DA5AD9",
+			"Assets": [
+				"/Game/Materials/HexBlend_Smooth"
 			]
 		},
 		{
@@ -289,15 +295,9 @@
 			]
 		},
 		{
-			"ShaderMapHash": "9C6BCFF6065E48C82DD78CA53E11039CB8BAC5E2",
+			"ShaderMapHash": "7727B3BDB4BA7EB1753B49A631F5A1CDD172FC04",
 			"Assets": [
-				"/Game/Materials/HexBlend"
-			]
-		},
-		{
-			"ShaderMapHash": "7B551F8F17395BE57D4ED76E9EA553FF97DA5AD9",
-			"Assets": [
-				"/Game/Materials/HexBlend_Smooth"
+				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
 			]
 		}
 	]
