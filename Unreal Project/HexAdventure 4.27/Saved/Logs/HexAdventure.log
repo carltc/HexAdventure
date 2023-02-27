@@ -9613,3 +9613,1199 @@ Script call stack:
 [2023.02.27-19.18.05:261][475]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
 [2023.02.27-19.18.05:261][475]LogWorld: UWorld::CleanupWorld for World_29, bSessionEnded=true, bCleanupResources=true
 [2023.02.27-19.18.05:261][475]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-19.18.51:202][103]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.27-19.20.31:900][124]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/SaveGames/GameSaveData.GameSaveData
+[2023.02.27-19.20.48:560][872]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/GameSaveData1F5ACE39477327728FD625AA93BD0DE1.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/GameSaveData.uasset'
+[2023.02.27-19.20.48:596][872]AssetCheck: New page: Asset Save: GameSaveData
+[2023.02.27-19.20.48:596][872]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/SaveGames/GameSaveData.GameSaveData
+[2023.02.27-19.21.03:019][569]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.27-19.21.03:342][569]LogUObjectHash: Compacting FUObjectHashTables data took  10.71ms
+[2023.02.27-19.21.05:177][604]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureGameMode024CEA304156909534B0CE91284CB164.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.27-19.21.05:199][604]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.27-19.21.05:199][604]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.27-19.21.23:570][575]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Adventure/AdventureGameState.AdventureGameState
+[2023.02.27-19.21.36:305][159]BlueprintLog: New page: Compile AdventureGameState
+[2023.02.27-19.21.36:464][159]LogUObjectHash: Compacting FUObjectHashTables data took   7.79ms
+[2023.02.27-19.21.37:919][209]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureGameStateDF91B1B346918920638842BDA5BE3EF1.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureGameState.uasset'
+[2023.02.27-19.21.37:935][209]AssetCheck: New page: Asset Save: AdventureGameState
+[2023.02.27-19.21.37:935][209]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameState.AdventureGameState
+[2023.02.27-19.22.03:206][667]LogUObjectHash: Compacting FUObjectHashTables data took   4.99ms
+[2023.02.27-19.22.03:207][667]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMenu' took 0.045
+[2023.02.27-19.22.03:208][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HexAdventureGameInstance] ([2] browsable assets)...
+[2023.02.27-19.22.03:208][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HexAdventureGameInstance]
+[2023.02.27-19.22.03:214][667]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/HexAdventureGameInstance_Auto4AD156B9540DA937DAA056A89A6A0CA1C.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/Autosaves/Game/Blueprints/HexAdventureGameInstance_Auto4.uasset'
+[2023.02.27-19.22.03:216][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/SaveGames/AdventureSaveGame] ([2] browsable assets)...
+[2023.02.27-19.22.03:216][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SaveGames/AdventureSaveGame]
+[2023.02.27-19.22.03:221][667]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureSaveGame_Auto47EED35734044306EE3F88C8CC78C0530.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/Autosaves/Game/Blueprints/SaveGames/AdventureSaveGame_Auto4.uasset'
+[2023.02.27-19.22.03:223][667]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MainMenu/MainMenuGameMode] ([2] browsable assets)...
+[2023.02.27-19.22.03:223][667]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MainMenu/MainMenuGameMode]
+[2023.02.27-19.22.03:286][667]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/MainMenuGameMode_Auto4754AC18B4890D0A6ABB4C089F5241008.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/Autosaves/Game/Blueprints/MainMenu/MainMenuGameMode_Auto4.uasset'
+[2023.02.27-19.22.03:288][667]LogFileHelpers: Auto-saving content packages took 0.081
+[2023.02.27-19.22.23:537][691]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.27-19.22.23:663][691]LogUObjectHash: Compacting FUObjectHashTables data took   3.36ms
+[2023.02.27-19.22.25:201][743]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureGameModeC1208B3F495F3C220409D0886859F1F9.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.27-19.22.25:217][743]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.27-19.22.25:217][743]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.27-19.22.47:581][594]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.27-19.22.47:796][594]LogUObjectHash: Compacting FUObjectHashTables data took   6.75ms
+[2023.02.27-19.22.49:766][635]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureGameMode394E122B4405A2D86533DC8CED6467DB.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.27-19.22.49:795][635]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.27-19.22.49:795][635]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.27-19.22.59:889][  2]LogWorld: UWorld::CleanupWorld for World_42, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-19.22.59:889][  2]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-19.23.31:402][733]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn
+[2023.02.27-19.24.29:893][203]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/SharedFunctions.SharedFunctions
+[2023.02.27-19.25.10:310][361]BlueprintLog: New page: Compile SharedFunctions
+[2023.02.27-19.25.10:461][361]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2023.02.27-19.25.12:090][421]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/SharedFunctions40BC7F024B2A27FDDA75648CEB1F230E.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SharedFunctions.uasset'
+[2023.02.27-19.25.12:106][421]AssetCheck: New page: Asset Save: SharedFunctions
+[2023.02.27-19.25.12:106][421]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/SharedFunctions.SharedFunctions
+[2023.02.27-19.26.17:311][420]BlueprintLog: New page: Compile SharedFunctions
+[2023.02.27-19.26.17:361][420]LogBlueprint: Error: [AssetLog] C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Content\Blueprints\SharedFunctions.uasset: [Compiler] The current value of the ' Route Costs ' pin is invalid: Map inputs (like 'Route Costs') must have an input wired into them (try connecting a MakeMap node).
+[2023.02.27-19.26.17:425][420]LogUObjectHash: Compacting FUObjectHashTables data took   5.01ms
+[2023.02.27-19.26.18:825][464]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/SharedFunctions1B757DC24FD71D8B40CA5B8C8B2DD0CF.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SharedFunctions.uasset'
+[2023.02.27-19.26.18:839][464]AssetCheck: New page: Asset Save: SharedFunctions
+[2023.02.27-19.26.18:839][464]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/SharedFunctions.SharedFunctions
+[2023.02.27-19.27.56:701][ 87]BlueprintLog: New page: Compile SharedFunctions
+[2023.02.27-19.27.56:722][ 87]LogBlueprint: Error: [AssetLog] C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Content\Blueprints\SharedFunctions.uasset: [Compiler] In use pin  Route Costs  no longer exists on node  Get Shortest Route from Complete Route . Please refresh node or break links to remove pin.
+[2023.02.27-19.27.56:773][ 87]LogUObjectHash: Compacting FUObjectHashTables data took   3.85ms
+[2023.02.27-19.27.58:095][141]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/SharedFunctionsC3BF2010493C59B6C5320489E5C2B43F.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SharedFunctions.uasset'
+[2023.02.27-19.27.58:106][141]AssetCheck: New page: Asset Save: SharedFunctions
+[2023.02.27-19.27.58:106][141]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/SharedFunctions.SharedFunctions
+[2023.02.27-19.28.12:277][969]BlueprintLog: New page: Compile SharedFunctions
+[2023.02.27-19.28.12:368][969]LogUObjectHash: Compacting FUObjectHashTables data took   3.28ms
+[2023.02.27-19.28.13:825][ 20]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/SharedFunctions9BCE72724EE1866E458485AB490AEC84.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SharedFunctions.uasset'
+[2023.02.27-19.28.13:838][ 20]AssetCheck: New page: Asset Save: SharedFunctions
+[2023.02.27-19.28.13:838][ 20]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/SharedFunctions.SharedFunctions
+[2023.02.27-19.28.54:653][401]BlueprintLog: New page: Compile SharedFunctions
+[2023.02.27-19.28.54:794][401]LogUObjectHash: Compacting FUObjectHashTables data took   3.20ms
+[2023.02.27-19.28.56:071][447]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/SharedFunctions4A3192A0422235FB5B0F0A9F9FA1C08E.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SharedFunctions.uasset'
+[2023.02.27-19.28.56:087][447]AssetCheck: New page: Asset Save: SharedFunctions
+[2023.02.27-19.28.56:087][447]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/SharedFunctions.SharedFunctions
+[2023.02.27-19.29.00:258][686]LogWorld: UWorld::CleanupWorld for World_44, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-19.29.00:259][686]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-19.30.18:671][976]BlueprintLog: New page: Compile AdventurePlayerPawn
+[2023.02.27-19.30.18:935][976]LogUObjectHash: Compacting FUObjectHashTables data took   7.09ms
+[2023.02.27-19.30.20:583][ 11]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventurePlayerPawn693E814140A4D8F2711A50995FF95843.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerPawn.uasset'
+[2023.02.27-19.30.20:602][ 11]AssetCheck: New page: Asset Save: AdventurePlayerPawn
+[2023.02.27-19.30.20:602][ 11]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn
+[2023.02.27-19.32.07:948][278]LogUObjectHash: Compacting FUObjectHashTables data took  12.30ms
+[2023.02.27-19.32.07:952][278]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMenu' took 0.100
+[2023.02.27-19.32.07:954][278]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/AdventureGameMode] ([2] browsable assets)...
+[2023.02.27-19.32.07:954][278]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/AdventureGameMode]
+[2023.02.27-19.32.08:809][278]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureGameMode_Auto54815A6E8456B7B5CAEA35991244FB0E3.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/Autosaves/Game/Blueprints/Adventure/AdventureGameMode_Auto5.uasset'
+[2023.02.27-19.32.08:814][278]LogFileHelpers: Auto-saving content packages took 0.862
+[2023.02.27-19.32.17:393][490]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.27-19.32.17:750][490]LogUObjectHash: Compacting FUObjectHashTables data took   8.82ms
+[2023.02.27-19.32.20:527][507]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureGameModeCC0DBBAD466B1282C56C598C442038A7.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.27-19.32.20:587][507]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.27-19.32.20:587][507]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.27-19.34.02:612][490]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.27-19.34.02:877][490]LogUObjectHash: Compacting FUObjectHashTables data took   8.30ms
+[2023.02.27-19.34.04:885][529]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureGameModeD8CEEEFE4626223E1E1B7C879AEB28BE.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.27-19.34.04:906][529]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.27-19.34.04:906][529]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.27-19.35.29:537][973]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Adventure/PlayerJourneyPath.PlayerJourneyPath
+[2023.02.27-19.35.33:901][101]LogWorld: UWorld::CleanupWorld for World_45, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-19.35.33:902][101]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-19.36.29:640][886]BlueprintLog: New page: Compile AdventurePlayerPawn
+[2023.02.27-19.36.30:078][886]LogUObjectHash: Compacting FUObjectHashTables data took  12.58ms
+[2023.02.27-19.36.32:807][900]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventurePlayerPawn36C90B3440CB99281514A68C357035D9.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerPawn.uasset'
+[2023.02.27-19.36.32:889][900]AssetCheck: New page: Asset Save: AdventurePlayerPawn
+[2023.02.27-19.36.32:889][900]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn
+[2023.02.27-19.37.41:789][838]BlueprintLog: New page: Compile AdventurePlayerPawn
+[2023.02.27-19.37.41:929][838]LogUObjectHash: Compacting FUObjectHashTables data took   5.08ms
+[2023.02.27-19.37.43:922][901]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventurePlayerPawn1D3F54344DE33844B49D33BD3476B769.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerPawn.uasset'
+[2023.02.27-19.37.43:938][901]AssetCheck: New page: Asset Save: AdventurePlayerPawn
+[2023.02.27-19.37.43:938][901]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn
+[2023.02.27-19.38.11:046][ 89]BlueprintLog: New page: Compile AdventurePlayerPawn
+[2023.02.27-19.38.11:294][ 89]LogUObjectHash: Compacting FUObjectHashTables data took   7.68ms
+[2023.02.27-19.38.13:182][123]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventurePlayerPawnC165566F42BCE197FF1023B4E0DA83D0.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerPawn.uasset'
+[2023.02.27-19.38.13:206][123]AssetCheck: New page: Asset Save: AdventurePlayerPawn
+[2023.02.27-19.38.13:207][123]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn
+[2023.02.27-19.38.29:478][738]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventurePlayerPawn323701B64FDADAC23D6BF486059F301F.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerPawn.uasset'
+[2023.02.27-19.38.29:517][738]AssetCheck: New page: Asset Save: AdventurePlayerPawn
+[2023.02.27-19.38.29:517][738]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn
+[2023.02.27-19.38.30:593][759]BlueprintLog: New page: Compile AdventurePlayerPawn
+[2023.02.27-19.38.30:983][759]LogUObjectHash: Compacting FUObjectHashTables data took  12.95ms
+[2023.02.27-19.38.33:665][775]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventurePlayerPawn4243A44F46DA4EFBF3AB45B0DA3EAAA1.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerPawn.uasset'
+[2023.02.27-19.38.33:703][775]AssetCheck: New page: Asset Save: AdventurePlayerPawn
+[2023.02.27-19.38.33:703][775]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn
+[2023.02.27-19.38.49:959][ 31]BlueprintLog: New page: Compile AdventurePlayerPawn
+[2023.02.27-19.38.50:328][ 31]LogUObjectHash: Compacting FUObjectHashTables data took  11.96ms
+[2023.02.27-19.38.54:014][ 50]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventurePlayerPawn752C8D534A847E596E7EB48E5EC354FC.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerPawn.uasset'
+[2023.02.27-19.38.54:094][ 50]AssetCheck: New page: Asset Save: AdventurePlayerPawn
+[2023.02.27-19.38.54:095][ 50]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn
+[2023.02.27-19.39.21:614][753]BlueprintLog: New page: Compile AdventurePlayerPawn
+[2023.02.27-19.39.21:862][753]LogUObjectHash: Compacting FUObjectHashTables data took   8.53ms
+[2023.02.27-19.39.23:488][790]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventurePlayerPawn2196602041630C966812408954BF649C.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerPawn.uasset'
+[2023.02.27-19.39.23:507][790]AssetCheck: New page: Asset Save: AdventurePlayerPawn
+[2023.02.27-19.39.23:508][790]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn
+[2023.02.27-19.39.58:221][454]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Adventure/AdventurePlayerState.AdventurePlayerState
+[2023.02.27-19.40.20:477][143]BlueprintLog: New page: Compile AdventurePlayerState
+[2023.02.27-19.40.20:604][143]LogUObjectHash: Compacting FUObjectHashTables data took   8.58ms
+[2023.02.27-19.40.21:843][182]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventurePlayerStateF7345F8941AA3A695D982D8FF641EB5F.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerState.uasset'
+[2023.02.27-19.40.21:865][182]AssetCheck: New page: Asset Save: AdventurePlayerState
+[2023.02.27-19.40.21:865][182]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventurePlayerState.AdventurePlayerState
+[2023.02.27-19.40.22:766][224]LogWorld: UWorld::CleanupWorld for World_46, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-19.40.22:766][224]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-19.40.44:565][134]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.27-19.40.44:859][134]LogUObjectHash: Compacting FUObjectHashTables data took   6.89ms
+[2023.02.27-19.40.46:314][156]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureGameModeD3C584C94156D3B9B30D53A83588D1A5.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.27-19.40.46:338][156]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.27-19.40.46:338][156]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.27-19.41.07:758][291]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.27-19.41.07:980][291]LogUObjectHash: Compacting FUObjectHashTables data took   6.16ms
+[2023.02.27-19.41.09:659][334]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureGameModeF4CA3C8C4CE2EA5F9E64438D39FCD167.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.27-19.41.09:679][334]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.27-19.41.09:679][334]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.27-19.41.37:586][983]LogAssetEditorSubsystem: Opening Asset editor for UserDefinedStruct /Game/Blueprints/SaveGames/PlayerSaveData.PlayerSaveData
+[2023.02.27-19.41.50:788][739]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/PlayerSaveDataBC1516E4444611C171D361960E7619BB.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/PlayerSaveData.uasset'
+[2023.02.27-19.41.50:803][739]AssetCheck: New page: Asset Save: PlayerSaveData
+[2023.02.27-19.41.50:803][739]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/SaveGames/PlayerSaveData.PlayerSaveData
+[2023.02.27-19.42.11:644][959]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/PlayerSaveDataB6659D0442B24DD09CEFAABE24FF2EFB.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/PlayerSaveData.uasset'
+[2023.02.27-19.42.11:667][959]AssetCheck: New page: Asset Save: PlayerSaveData
+[2023.02.27-19.42.11:668][959]LogContentValidation: Display: Validating UserDefinedStruct /Game/Blueprints/SaveGames/PlayerSaveData.PlayerSaveData
+[2023.02.27-19.42.48:115][  1]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Adventure/AdventurePlayerState.AdventurePlayerState
+[2023.02.27-19.42.59:252][488]BlueprintLog: New page: Compile AdventurePlayerState
+[2023.02.27-19.42.59:401][488]LogUObjectHash: Compacting FUObjectHashTables data took   8.41ms
+[2023.02.27-19.43.00:811][511]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventurePlayerState7BE429854C7780F42AF656B9F221641E.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerState.uasset'
+[2023.02.27-19.43.00:833][511]AssetCheck: New page: Asset Save: AdventurePlayerState
+[2023.02.27-19.43.00:833][511]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventurePlayerState.AdventurePlayerState
+[2023.02.27-19.43.01:909][541]LogWorld: UWorld::CleanupWorld for World_47, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-19.43.01:910][541]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-19.43.47:737][833]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.27-19.43.48:186][833]LogUObjectHash: Compacting FUObjectHashTables data took  14.15ms
+[2023.02.27-19.43.50:866][853]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureGameMode4B9ACDE84940F56B41C746A86E14F882.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.27-19.43.50:915][853]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.27-19.43.50:915][853]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.27-19.45.40:059][710]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.27-19.45.40:273][710]LogUObjectHash: Compacting FUObjectHashTables data took   6.41ms
+[2023.02.27-19.45.42:118][775]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureGameModeC96C5F0A4E3FABC4749BDA8F57175860.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.27-19.45.42:135][775]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.27-19.45.42:135][775]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.27-19.45.54:048][424]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.27-19.45.54:048][424]LogWorld: UWorld::CleanupWorld for World_43, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-19.45.54:048][424]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-19.45.55:028][477]LogSlate: Window 'AdventureGameMode' being destroyed
+[2023.02.27-19.45.55:056][477]LogActorComponent: UnregisterComponent: (/Engine/Transient.EditorFloorComp) Not registered. Aborting.
+[2023.02.27-19.45.55:057][477]LogWorld: UWorld::CleanupWorld for World_41, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-19.45.55:057][477]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-19.45.58:287][655]LogAssetEditorSubsystem: Opening Asset editor for WidgetBlueprint /Game/UI/AdventureHUD/AdventureHUD.AdventureHUD
+[2023.02.27-19.46.13:715][237]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/UMG': No such file or directory
+[2023.02.27-19.49.18:192][370]LogUObjectHash: Compacting FUObjectHashTables data took  11.88ms
+[2023.02.27-19.49.18:198][370]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMenu' took 0.081
+[2023.02.27-19.49.18:200][370]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/HexAdventureGameInstance] ([2] browsable assets)...
+[2023.02.27-19.49.18:200][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/HexAdventureGameInstance]
+[2023.02.27-19.49.18:212][370]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/HexAdventureGameInstance_Auto6352B73DD4DBB30AAA61A0EBDE65FC3B8.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/Autosaves/Game/Blueprints/HexAdventureGameInstance_Auto6.uasset'
+[2023.02.27-19.49.18:217][370]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/SaveGames/AdventureSaveGame] ([2] browsable assets)...
+[2023.02.27-19.49.18:217][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/SaveGames/AdventureSaveGame]
+[2023.02.27-19.49.18:225][370]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureSaveGame_Auto66AFF8EE9496182C74857868553BC233B.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/Autosaves/Game/Blueprints/SaveGames/AdventureSaveGame_Auto6.uasset'
+[2023.02.27-19.49.18:228][370]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/AdventureHUD/AdventureHUD] ([2] browsable assets)...
+[2023.02.27-19.49.18:228][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/AdventureHUD/AdventureHUD]
+[2023.02.27-19.49.18:261][370]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureHUD_Auto6C575273644979BE0691E6E8494E53926.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/Autosaves/Game/UI/AdventureHUD/AdventureHUD_Auto6.uasset'
+[2023.02.27-19.49.18:265][370]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MainMenu/MainMenuGameMode] ([2] browsable assets)...
+[2023.02.27-19.49.18:266][370]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MainMenu/MainMenuGameMode]
+[2023.02.27-19.49.18:389][370]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/MainMenuGameMode_Auto6E7D83AC74C15597840680DA59D018F89.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/Autosaves/Game/Blueprints/MainMenu/MainMenuGameMode_Auto6.uasset'
+[2023.02.27-19.49.18:393][370]LogFileHelpers: Auto-saving content packages took 0.194
+[2023.02.27-19.50.41:946][479]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.27-19.50.52:107][ 49]LogSlate: Window 'Color Picker' being destroyed
+[2023.02.27-19.53.22:437][825]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/UMG': No such file or directory
+[2023.02.27-19.58.02:300][215]BlueprintLog: New page: Compile AdventureHUD
+[2023.02.27-19.58.02:405][215]LogUObjectHash: Compacting FUObjectHashTables data took   9.34ms
+[2023.02.27-19.58.04:012][241]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureHUD80BE4AE2453713D9DA04569B39A4A761.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/AdventureHUD/AdventureHUD.uasset'
+[2023.02.27-19.58.04:036][241]AssetCheck: New page: Asset Save: AdventureHUD
+[2023.02.27-19.58.04:036][241]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AdventureHUD/AdventureHUD.AdventureHUD
+[2023.02.27-19.58.08:886][398]SourceControl: Error: fatal: Invalid path 'C:/Program Files/Epic Games/UE_4.27/Engine/Content/UMG': No such file or directory
+[2023.02.27-19.59.13:706][967]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.27-20.00.20:470][821]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.27-20.00.20:743][821]LogUObjectHash: Compacting FUObjectHashTables data took   8.02ms
+[2023.02.27-20.00.22:700][844]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureGameModeF46469F1476C0119607F6E97E15F611C.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.27-20.00.22:722][844]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.27-20.00.22:722][844]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.27-20.00.23:397][871]LogWorld: UWorld::CleanupWorld for World_51, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-20.00.23:397][871]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-20.00.51:322][581]BlueprintLog: New page: Compile AdventureHUD
+[2023.02.27-20.00.51:462][581]LogUObjectHash: Compacting FUObjectHashTables data took  15.58ms
+[2023.02.27-20.00.53:393][599]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureHUD09A6B22A41717C6D7144389C64CB8B74.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/AdventureHUD/AdventureHUD.uasset'
+[2023.02.27-20.00.53:428][599]AssetCheck: New page: Asset Save: AdventureHUD
+[2023.02.27-20.00.53:428][599]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AdventureHUD/AdventureHUD.AdventureHUD
+[2023.02.27-20.02.08:363][224]BlueprintLog: New page: Compile AdventureHUD
+[2023.02.27-20.02.08:565][224]LogUObjectHash: Compacting FUObjectHashTables data took  13.49ms
+[2023.02.27-20.02.10:893][250]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureHUDBBE29F8E46BEE284CA30009CEFA8E3E2.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/AdventureHUD/AdventureHUD.uasset'
+[2023.02.27-20.02.10:932][250]AssetCheck: New page: Asset Save: AdventureHUD
+[2023.02.27-20.02.10:933][250]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AdventureHUD/AdventureHUD.AdventureHUD
+[2023.02.27-20.02.52:827][241]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.27-20.03.52:937][119]LogUObjectHash: Compacting FUObjectHashTables data took  19.39ms
+[2023.02.27-20.03.52:946][119]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMenu' took 0.213
+[2023.02.27-20.03.52:952][119]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/Adventure/AdventureGameMode] ([2] browsable assets)...
+[2023.02.27-20.03.52:953][119]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/AdventureGameMode]
+[2023.02.27-20.03.54:500][119]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureGameMode_Auto7B4F20D9249D6D60054B2BA882362441C.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/Autosaves/Game/Blueprints/Adventure/AdventureGameMode_Auto7.uasset'
+[2023.02.27-20.03.54:505][119]LogFileHelpers: Auto-saving content packages took 1.557
+[2023.02.27-20.05.12:415][237]BlueprintLog: New page: Compile AdventureHUD
+[2023.02.27-20.05.12:479][237]LogUObjectHash: Compacting FUObjectHashTables data took   4.83ms
+[2023.02.27-20.05.13:667][285]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureHUDC154C1484AB2385B6ABE0593612042C8.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/AdventureHUD/AdventureHUD.uasset'
+[2023.02.27-20.05.13:681][285]AssetCheck: New page: Asset Save: AdventureHUD
+[2023.02.27-20.05.13:681][285]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AdventureHUD/AdventureHUD.AdventureHUD
+[2023.02.27-20.05.27:344][ 88]BlueprintLog: New page: Compile AdventureHUD
+[2023.02.27-20.05.27:401][ 88]LogUObjectHash: Compacting FUObjectHashTables data took   3.57ms
+[2023.02.27-20.05.28:581][141]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureHUDEB328C2C4BCF86D1A06677B8A750EE37.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/AdventureHUD/AdventureHUD.uasset'
+[2023.02.27-20.05.28:595][141]AssetCheck: New page: Asset Save: AdventureHUD
+[2023.02.27-20.05.28:595][141]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AdventureHUD/AdventureHUD.AdventureHUD
+[2023.02.27-20.08.17:206][938]BlueprintLog: New page: Compile AdventureHUD
+[2023.02.27-20.08.17:280][938]LogUObjectHash: Compacting FUObjectHashTables data took   4.72ms
+[2023.02.27-20.08.18:584][990]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureHUD84C266E04B9A727D88E7DF91B7541F37.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/AdventureHUD/AdventureHUD.uasset'
+[2023.02.27-20.08.18:602][990]AssetCheck: New page: Asset Save: AdventureHUD
+[2023.02.27-20.08.18:602][990]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AdventureHUD/AdventureHUD.AdventureHUD
+[2023.02.27-20.10.08:037][966]BlueprintLog: New page: Compile AdventureHUD
+[2023.02.27-20.10.08:188][966]LogUObjectHash: Compacting FUObjectHashTables data took   7.89ms
+[2023.02.27-20.10.09:694][990]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureHUD7ACC00774C7285335FAABA9C9D92C03D.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/AdventureHUD/AdventureHUD.uasset'
+[2023.02.27-20.10.09:717][990]AssetCheck: New page: Asset Save: AdventureHUD
+[2023.02.27-20.10.09:717][990]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AdventureHUD/AdventureHUD.AdventureHUD
+[2023.02.27-20.10.23:458][639]BlueprintLog: New page: Compile AdventureHUD
+[2023.02.27-20.10.23:568][639]LogUObjectHash: Compacting FUObjectHashTables data took   6.95ms
+[2023.02.27-20.10.25:040][692]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureHUD5B10B4B54F50B759E72054A779C6C6DC.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/AdventureHUD/AdventureHUD.uasset'
+[2023.02.27-20.10.25:063][692]AssetCheck: New page: Asset Save: AdventureHUD
+[2023.02.27-20.10.25:063][692]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AdventureHUD/AdventureHUD.AdventureHUD
+[2023.02.27-20.10.39:392][390]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.27-20.10.39:608][390]LogUObjectHash: Compacting FUObjectHashTables data took   6.73ms
+[2023.02.27-20.10.41:603][441]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureGameModeE4837EF64DE6726030D61582FF67B5CE.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.27-20.10.41:632][441]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.27-20.10.41:632][441]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.27-20.10.51:782][839]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.27-20.10.51:920][839]LogBlueprint: Error: [AssetLog] C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Content\UI\AdventureHUD\AdventureHUD.uasset: [Compiler] In use pin  Target  no longer exists on node  Get Player Age . Please refresh node or break links to remove pin.
+[2023.02.27-20.10.51:921][839]LogBlueprint: Error: [AssetLog] C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Content\UI\AdventureHUD\AdventureHUD.uasset: [Compiler] In use pin  Player Age  no longer exists on node  Get Player Age . Please refresh node or break links to remove pin.
+[2023.02.27-20.10.51:921][839]LogBlueprint: Error: [AssetLog] C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Content\UI\AdventureHUD\AdventureHUD.uasset: [Compiler] Could not find a function named "GetPlayerAge" in 'AdventureGameMode_C'.
+Make sure 'AdventureGameMode_C' has been compiled for  Get Player Age
+[2023.02.27-20.10.52:067][839]LogUObjectHash: Compacting FUObjectHashTables data took   6.98ms
+[2023.02.27-20.10.54:014][861]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureGameMode9488C08B41878B94AC6514907F406D4B.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.27-20.10.54:043][861]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.27-20.10.54:043][861]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.27-20.11.04:121][ 67]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.27-20.11.04:155][ 67]BlueprintLog: Warning: Blueprint failed to compile:  AdventureHUD
+[2023.02.27-20.11.04:155][ 67]BlueprintLog: New page: Pre-Play auto-recompile
+[2023.02.27-20.11.04:163][ 67]LogPlayLevel: [PlayLevel] Compiling HexAdventureGameInstance before play...
+[2023.02.27-20.11.04:241][ 67]LogPlayLevel: [PlayLevel] Compiling AdventureSaveGame before play...
+[2023.02.27-20.11.04:312][ 67]LogPlayLevel: [PlayLevel] Compiling MainMenuGameMode before play...
+[2023.02.27-20.11.04:456][ 67]LogUObjectHash: Compacting FUObjectHashTables data took  12.34ms
+[2023.02.27-20.11.04:457][ 67]LogPlayLevel: PlayLevel: Blueprint regeneration took 302 ms (3 blueprints)
+[2023.02.27-20.11.04:458][ 67]LogCustomDialog: Dialog displayed:
+[2023.02.27-20.11.09:488][ 67]LogSlate: Window 'Blueprint Compilation Errors' being destroyed
+[2023.02.27-20.11.14:861][226]BlueprintLog: New page: Compile AdventureHUD
+[2023.02.27-20.11.14:880][226]LogBlueprint: Error: [AssetLog] C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Content\UI\AdventureHUD\AdventureHUD.uasset: [Compiler] In use pin  Target  no longer exists on node  Get Player Age . Please refresh node or break links to remove pin.
+[2023.02.27-20.11.14:882][226]LogBlueprint: Error: [AssetLog] C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Content\UI\AdventureHUD\AdventureHUD.uasset: [Compiler] In use pin  Player Age  no longer exists on node  Get Player Age . Please refresh node or break links to remove pin.
+[2023.02.27-20.11.14:883][226]LogBlueprint: Error: [AssetLog] C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Content\UI\AdventureHUD\AdventureHUD.uasset: [Compiler] Could not find a function named "GetPlayerAge" in 'AdventureGameMode_C'.
+Make sure 'AdventureGameMode_C' has been compiled for  Get Player Age
+[2023.02.27-20.11.15:032][226]LogUObjectHash: Compacting FUObjectHashTables data took  10.14ms
+[2023.02.27-20.11.38:158][862]Cmd: TRANSACTION UNDO
+[2023.02.27-20.11.38:159][862]LogEditorTransaction: Undo Remove Graph
+[2023.02.27-20.11.40:153][894]BlueprintLog: New page: Compile AdventureGameMode
+[2023.02.27-20.11.40:597][894]LogUObjectHash: Compacting FUObjectHashTables data took  12.81ms
+[2023.02.27-20.11.42:683][911]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureGameMode8A9AD4B545495BD225584EA783617D37.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventureGameMode.uasset'
+[2023.02.27-20.11.42:707][911]AssetCheck: New page: Asset Save: AdventureGameMode
+[2023.02.27-20.11.42:707][911]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventureGameMode.AdventureGameMode
+[2023.02.27-20.11.44:943][983]BlueprintLog: New page: Compile AdventureHUD
+[2023.02.27-20.11.45:056][983]LogUObjectHash: Compacting FUObjectHashTables data took   8.87ms
+[2023.02.27-20.11.46:958][ 23]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureHUD5A8795414DC02C94AABE67A5226CF107.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/AdventureHUD/AdventureHUD.uasset'
+[2023.02.27-20.11.46:981][ 23]AssetCheck: New page: Asset Save: AdventureHUD
+[2023.02.27-20.11.46:981][ 23]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AdventureHUD/AdventureHUD.AdventureHUD
+[2023.02.27-20.11.49:792][150]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.27-20.11.49:834][150]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-20.11.49:834][150]PIE: New page: PIE session: MainMenu (27 Feb 2023, 04:11:49)
+[2023.02.27-20.11.49:835][150]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2023.02.27-20.11.49:840][150]LogPlayLevel: PIE: StaticDuplicateObject took: (0.005197s)
+[2023.02.27-20.11.49:843][150]LogAIModule: Creating AISystem for world MainMenu
+[2023.02.27-20.11.49:844][150]LogPlayLevel: PIE: World Init took: (0.003382s)
+[2023.02.27-20.11.49:844][150]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.009070s)
+[2023.02.27-20.11.49:915][150]LogUObjectHash: Compacting FUObjectHashTables data took   9.22ms
+[2023.02.27-20.11.49:916][150]LogAudio: Display: Creating Audio Device:                 Id: 39, Scope: Unique, Realtime: True
+[2023.02.27-20.11.49:916][150]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-20.11.49:916][150]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-20.11.49:916][150]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2023.02.27-20.11.49:916][150]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2023.02.27-20.11.49:916][150]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2023.02.27-20.11.49:917][150]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.27-20.11.49:917][150]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.27-20.11.49:917][150]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-20.11.49:918][150]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-20.11.49:918][150]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-20.11.49:918][150]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-20.11.49:918][150]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.27-20.11.49:928][150]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.27-20.11.49:928][150]LogAudioMixer: Display: 1: FrontRight
+[2023.02.27-20.11.50:013][150]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2023.02.27-20.11.50:014][150]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-20.11.50:014][150]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-20.11.50:014][150]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-20.11.50:016][150]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.27-20.11.50:016][150]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.27-20.11.50:016][150]LogAudioMixer: Display: Output buffers initialized: Frames=256, Channels=2, Samples=512
+[2023.02.27-20.11.50:019][150]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.27-20.11.50:019][150]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.27-20.11.50:019][150]LogInit: FAudioDevice initialized.
+[2023.02.27-20.11.50:019][150]LogAudio: Display: Audio Device (ID: 39) registered with world 'MainMenu'.
+[2023.02.27-20.11.50:046][150]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.02.27-20.11.50:049][150]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2023.02.27-12.11.50
+[2023.02.27-20.11.50:049][150]LogWorld: Bringing up level for play took: 0.000910
+[2023.02.27-20.11.50:050][150]LogOnline: OSS: Creating online subsystem instance for: :Context_88
+[2023.02.27-20.11.50:058][150]LogStreaming: Warning: Failed to read file '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/SaveGames/AdventureSaveGames.sav' error.
+[2023.02.27-20.11.50:058][150]LogBlueprintUserMessages: [MainMenuGameMode_C_0] Failed to cast object to SaveGamesList whilst loading list of save games.
+[2023.02.27-20.11.50:059][150]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.02.27-20.11.50:059][150]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.02.27-20.11.50:059][150]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.02.27-20.11.50:059][150]PIE: Server logged in
+[2023.02.27-20.11.50:061][150]PIE: Play in editor total start time 0.248 seconds.
+[2023.02.27-20.11.51:205][214]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.02.27-20.11.54:763][427]LogNet: Browse: /Game/Maps/MainMap
+[2023.02.27-20.11.54:764][427]LogLoad: LoadMap: /Game/Maps/MainMap
+[2023.02.27-20.11.54:764][427]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2023.02.27-20.11.54:765][427]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-20.11.54:765][427]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-20.11.54:819][427]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-20.11.54:827][427]LogUObjectHash: Compacting FUObjectHashTables data took   6.24ms
+[2023.02.27-20.11.54:869][427]LogAudio: Display: Audio Device (ID: 39) registered with world 'MainMap'.
+[2023.02.27-20.11.54:872][427]LogAIModule: Creating AISystem for world MainMap
+[2023.02.27-20.11.54:873][427]LogLoad: Game class is 'AdventureGameMode_C'
+[2023.02.27-20.11.54:877][427]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2023.02.27-12.11.54
+[2023.02.27-20.11.54:877][427]LogWorld: Bringing up level for play took: 0.002364
+[2023.02.27-20.11.55:267][427]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2023.02.27-20.11.55:277][427]LogLoad: Took 0.513358 seconds to LoadMap(/Game/Maps/MainMap)
+[2023.02.27-20.12.54:515][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-20.12.54:515][915]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2023.02.27-20.12.54:517][915]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-20.12.54:533][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-20.12.54:548][915]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-20.12.54:555][915]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-20.12.54:608][915]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-20.12.54:608][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-20.12.54:610][915]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-20.12.54:614][915]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-20.12.54:644][915]LogUObjectHash: Compacting FUObjectHashTables data took   3.02ms
+[2023.02.27-20.12.54:662][916]LogPlayLevel: Display: Destroying online subsystem :Context_88
+[2023.02.27-20.13.26:063][652]LogAssetEditorSubsystem: Opening Asset editor for Blueprint /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn
+[2023.02.27-20.15.10:483][569]BlueprintLog: New page: Compile AdventurePlayerPawn
+[2023.02.27-20.15.10:625][569]LogUObjectHash: Compacting FUObjectHashTables data took   4.49ms
+[2023.02.27-20.15.12:082][616]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventurePlayerPawn5553F78444DFC54CD8AA77B2192A69EA.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerPawn.uasset'
+[2023.02.27-20.15.12:096][616]AssetCheck: New page: Asset Save: AdventurePlayerPawn
+[2023.02.27-20.15.12:096][616]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn
+[2023.02.27-20.15.45:274][564]BlueprintLog: New page: Compile AdventurePlayerPawn
+[2023.02.27-20.15.45:417][564]LogUObjectHash: Compacting FUObjectHashTables data took   5.28ms
+[2023.02.27-20.15.46:660][604]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventurePlayerPawn01458F5D4987A581D961A88B9E18A40E.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerPawn.uasset'
+[2023.02.27-20.15.46:673][604]AssetCheck: New page: Asset Save: AdventurePlayerPawn
+[2023.02.27-20.15.46:673][604]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn
+[2023.02.27-20.16.13:866][208]BlueprintLog: New page: Compile AdventurePlayerPawn
+[2023.02.27-20.16.13:972][208]LogUObjectHash: Compacting FUObjectHashTables data took   3.72ms
+[2023.02.27-20.16.15:478][253]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventurePlayerPawnE7FD903E49E9A4F7B75E7A8C3567D2FA.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerPawn.uasset'
+[2023.02.27-20.16.15:496][253]AssetCheck: New page: Asset Save: AdventurePlayerPawn
+[2023.02.27-20.16.15:496][253]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn
+[2023.02.27-20.16.25:035][804]BlueprintLog: New page: Compile AdventurePlayerPawn
+[2023.02.27-20.16.25:140][804]LogUObjectHash: Compacting FUObjectHashTables data took   3.53ms
+[2023.02.27-20.16.26:652][852]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventurePlayerPawnEB84C1454AE8F3EA094CB1A28F4A0CF6.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerPawn.uasset'
+[2023.02.27-20.16.26:668][852]AssetCheck: New page: Asset Save: AdventurePlayerPawn
+[2023.02.27-20.16.26:668][852]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn
+[2023.02.27-20.16.47:763][ 36]BlueprintLog: New page: Compile AdventurePlayerPawn
+[2023.02.27-20.16.47:892][ 36]LogUObjectHash: Compacting FUObjectHashTables data took   4.18ms
+[2023.02.27-20.16.49:433][ 73]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventurePlayerPawn06F56716465D5DC502455BB5B3718BB8.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerPawn.uasset'
+[2023.02.27-20.16.49:448][ 73]AssetCheck: New page: Asset Save: AdventurePlayerPawn
+[2023.02.27-20.16.49:448][ 73]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn
+[2023.02.27-20.17.07:709][ 20]BlueprintLog: New page: Compile AdventurePlayerPawn
+[2023.02.27-20.17.07:885][ 20]LogUObjectHash: Compacting FUObjectHashTables data took   6.11ms
+[2023.02.27-20.17.09:090][ 57]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventurePlayerPawn8759E1EB459A4C799377A18C2A225049.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerPawn.uasset'
+[2023.02.27-20.17.09:104][ 57]AssetCheck: New page: Asset Save: AdventurePlayerPawn
+[2023.02.27-20.17.09:104][ 57]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn
+[2023.02.27-20.17.39:472][403]LogUObjectHash: Compacting FUObjectHashTables data took   8.82ms
+[2023.02.27-20.17.39:473][403]LogFileHelpers: Editor autosave (incl. external actors) for '/Game/Maps/MainMenu' took 0.068
+[2023.02.27-20.17.39:475][403]OBJ SavePackage: Generating thumbnails for [2] asset(s) in package [/Game/Blueprints/Adventure/AdventurePlayerPawn] ([2] browsable assets)...
+[2023.02.27-20.17.39:499][403]OBJ SavePackage:     Rendered thumbnail for [Blueprint /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn]
+[2023.02.27-20.17.39:499][403]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/Adventure/AdventurePlayerPawn]
+[2023.02.27-20.17.39:850][403]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventurePlayerPawn_Auto8E501A89B4E0FADDB7D9380B2F79832D0.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/Autosaves/Game/Blueprints/Adventure/AdventurePlayerPawn_Auto8.uasset'
+[2023.02.27-20.17.39:853][403]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/UI/AdventureHUD/AdventureHUD] ([2] browsable assets)...
+[2023.02.27-20.17.39:853][403]OBJ SavePackage: Finished generating thumbnails for package [/Game/UI/AdventureHUD/AdventureHUD]
+[2023.02.27-20.17.39:900][403]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureHUD_Auto88116D0004737BB104A7D2B894A8C5009.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/Autosaves/Game/UI/AdventureHUD/AdventureHUD_Auto8.uasset'
+[2023.02.27-20.17.39:903][403]OBJ SavePackage: Generating thumbnails for [0] asset(s) in package [/Game/Blueprints/MainMenu/MainMenuGameMode] ([2] browsable assets)...
+[2023.02.27-20.17.39:903][403]OBJ SavePackage: Finished generating thumbnails for package [/Game/Blueprints/MainMenu/MainMenuGameMode]
+[2023.02.27-20.17.39:991][403]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/MainMenuGameMode_Auto8E244BF6E4C9E4042190F2D82FDA7A5CA.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/Autosaves/Game/Blueprints/MainMenu/MainMenuGameMode_Auto8.uasset'
+[2023.02.27-20.17.39:993][403]LogFileHelpers: Auto-saving content packages took 0.520
+[2023.02.27-20.17.43:610][567]BlueprintLog: New page: Compile AdventurePlayerPawn
+[2023.02.27-20.17.43:835][567]LogUObjectHash: Compacting FUObjectHashTables data took   6.15ms
+[2023.02.27-20.17.45:827][590]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventurePlayerPawn28F5E1084A68A3A1488FF0B6EE4531DD.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerPawn.uasset'
+[2023.02.27-20.17.45:853][590]AssetCheck: New page: Asset Save: AdventurePlayerPawn
+[2023.02.27-20.17.45:853][590]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn
+[2023.02.27-20.17.53:957][906]BlueprintLog: New page: Compile AdventurePlayerPawn
+[2023.02.27-20.17.54:166][906]LogUObjectHash: Compacting FUObjectHashTables data took   7.35ms
+[2023.02.27-20.17.56:345][953]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventurePlayerPawnE57F69584DED1E2CDC1466A0A99B8E40.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerPawn.uasset'
+[2023.02.27-20.17.56:372][953]AssetCheck: New page: Asset Save: AdventurePlayerPawn
+[2023.02.27-20.17.56:372][953]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn
+[2023.02.27-20.18.18:852][511]LogEditorTransaction: Undo Move Node
+[2023.02.27-20.18.31:161][740]BlueprintLog: New page: Compile AdventurePlayerPawn
+[2023.02.27-20.18.31:567][740]LogUObjectHash: Compacting FUObjectHashTables data took  16.73ms
+[2023.02.27-20.18.34:320][758]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventurePlayerPawn4EC1B9E14B4307FE1DD4148065839B26.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/Adventure/AdventurePlayerPawn.uasset'
+[2023.02.27-20.18.34:353][758]AssetCheck: New page: Asset Save: AdventurePlayerPawn
+[2023.02.27-20.18.34:354][758]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/Adventure/AdventurePlayerPawn.AdventurePlayerPawn
+[2023.02.27-20.20.26:318][206]BlueprintLog: New page: Compile AdventureHUD
+[2023.02.27-20.20.26:344][206]LogBlueprint: Error: [AssetLog] C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Content\UI\AdventureHUD\AdventureHUD.uasset: [Compiler] Binding: Property ' /Script/UMG.Widget:bIsEnabledDelegate ' on Widget ' NextTurnButton ': Binding: 'AdventureGameMode.AdventurePlayerPawn.PlayerNotMoving' : 'PlayerNotMoving' was not found on 'Adventure Player Pawn'.
+[2023.02.27-20.20.26:443][206]LogUObjectHash: Compacting FUObjectHashTables data took   7.77ms
+[2023.02.27-20.20.28:284][269]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureHUD693618294BC8C949CB52C898DCFDF9B6.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/AdventureHUD/AdventureHUD.uasset'
+[2023.02.27-20.20.28:304][269]AssetCheck: New page: Asset Save: AdventureHUD
+[2023.02.27-20.20.28:304][269]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AdventureHUD/AdventureHUD.AdventureHUD
+[2023.02.27-20.20.29:675][349]LogBlueprint: Warning: Unknown type of hyperlinked object (NextTurnButton), cannot focus it
+[2023.02.27-20.21.00:444][864]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureHUD1423AE194FF186FDB63FC582E61E4E0F.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/AdventureHUD/AdventureHUD.uasset'
+[2023.02.27-20.21.00:464][864]AssetCheck: New page: Asset Save: AdventureHUD
+[2023.02.27-20.21.00:464][864]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AdventureHUD/AdventureHUD.AdventureHUD
+[2023.02.27-20.21.01:081][887]BlueprintLog: New page: Compile AdventureHUD
+[2023.02.27-20.21.01:097][887]LogBlueprint: Error: [AssetLog] C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Content\UI\AdventureHUD\AdventureHUD.uasset: [Compiler] Binding: Property ' /Script/UMG.Widget:bIsEnabledDelegate ' on Widget ' NextTurnButton ': Binding: 'AdventureGameMode.AdventurePlayerPawn.PlayerNotMoving' : 'PlayerNotMoving' was not found on 'Adventure Player Pawn'.
+[2023.02.27-20.21.01:217][887]LogUObjectHash: Compacting FUObjectHashTables data took   7.30ms
+[2023.02.27-20.21.51:779][ 75]BlueprintLog: New page: Compile AdventureHUD
+[2023.02.27-20.21.51:917][ 75]LogUObjectHash: Compacting FUObjectHashTables data took   9.08ms
+[2023.02.27-20.21.53:610][104]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureHUDF287F0684858A3FBF59C6FB1F6C13483.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/AdventureHUD/AdventureHUD.uasset'
+[2023.02.27-20.21.53:637][104]AssetCheck: New page: Asset Save: AdventureHUD
+[2023.02.27-20.21.53:637][104]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AdventureHUD/AdventureHUD.AdventureHUD
+[2023.02.27-20.21.59:492][307]BlueprintLog: New page: Compile AdventureHUD
+[2023.02.27-20.21.59:507][307]LogBlueprint: Error: [AssetLog] C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Content\UI\AdventureHUD\AdventureHUD.uasset: [Compiler] Binding: Property ' /Script/UMG.Widget:VisibilityDelegate ' on Widget ' HorizontalBox_262 ': Binding: 'None' : 'None' was not found on 'Adventure HUD'.
+[2023.02.27-20.21.59:618][307]LogUObjectHash: Compacting FUObjectHashTables data took   7.60ms
+[2023.02.27-20.22.01:241][367]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureHUD012EA82D435291C4409EDA9805F75465.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/AdventureHUD/AdventureHUD.uasset'
+[2023.02.27-20.22.01:267][367]AssetCheck: New page: Asset Save: AdventureHUD
+[2023.02.27-20.22.01:267][367]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AdventureHUD/AdventureHUD.AdventureHUD
+[2023.02.27-20.22.14:664][886]BlueprintLog: New page: Compile AdventureHUD
+[2023.02.27-20.22.14:797][886]LogUObjectHash: Compacting FUObjectHashTables data took   7.82ms
+[2023.02.27-20.22.16:768][932]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureHUD7D8725BC43DD54D4E816E1B38CE0EF03.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/AdventureHUD/AdventureHUD.uasset'
+[2023.02.27-20.22.16:792][932]AssetCheck: New page: Asset Save: AdventureHUD
+[2023.02.27-20.22.16:792][932]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AdventureHUD/AdventureHUD.AdventureHUD
+[2023.02.27-20.22.23:284][256]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.27-20.22.23:294][256]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-20.22.23:294][256]PIE: New page: PIE session: MainMenu (27 Feb 2023, 04:22:23)
+[2023.02.27-20.22.23:294][256]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2023.02.27-20.22.23:296][256]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001391s)
+[2023.02.27-20.22.23:296][256]LogAIModule: Creating AISystem for world MainMenu
+[2023.02.27-20.22.23:297][256]LogPlayLevel: PIE: World Init took: (0.001182s)
+[2023.02.27-20.22.23:297][256]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.002698s)
+[2023.02.27-20.22.23:330][256]LogUObjectHash: Compacting FUObjectHashTables data took   3.30ms
+[2023.02.27-20.22.23:330][256]LogAudio: Display: Creating Audio Device:                 Id: 40, Scope: Unique, Realtime: True
+[2023.02.27-20.22.23:330][256]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-20.22.23:330][256]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-20.22.23:330][256]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2023.02.27-20.22.23:330][256]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2023.02.27-20.22.23:330][256]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2023.02.27-20.22.23:330][256]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.27-20.22.23:330][256]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.27-20.22.23:330][256]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-20.22.23:331][256]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-20.22.23:331][256]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-20.22.23:331][256]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-20.22.23:331][256]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.27-20.22.23:334][256]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.27-20.22.23:334][256]LogAudioMixer: Display: 1: FrontRight
+[2023.02.27-20.22.23:367][256]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2023.02.27-20.22.23:368][256]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-20.22.23:368][256]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-20.22.23:368][256]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-20.22.23:368][256]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.27-20.22.23:368][256]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.27-20.22.23:368][256]LogAudioMixer: Display: Output buffers initialized: Frames=256, Channels=2, Samples=512
+[2023.02.27-20.22.23:370][256]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.27-20.22.23:370][256]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.27-20.22.23:370][256]LogInit: FAudioDevice initialized.
+[2023.02.27-20.22.23:370][256]LogAudio: Display: Audio Device (ID: 40) registered with world 'MainMenu'.
+[2023.02.27-20.22.23:379][256]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.02.27-20.22.23:381][256]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2023.02.27-12.22.23
+[2023.02.27-20.22.23:381][256]LogWorld: Bringing up level for play took: 0.000352
+[2023.02.27-20.22.23:381][256]LogOnline: OSS: Creating online subsystem instance for: :Context_90
+[2023.02.27-20.22.23:384][256]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.02.27-20.22.23:384][256]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.02.27-20.22.23:385][256]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.02.27-20.22.23:385][256]PIE: Server logged in
+[2023.02.27-20.22.23:385][256]PIE: Play in editor total start time 0.095 seconds.
+[2023.02.27-20.22.25:878][405]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.02.27-20.22.27:227][486]LogNet: Browse: /Game/Maps/MainMap
+[2023.02.27-20.22.27:227][486]LogLoad: LoadMap: /Game/Maps/MainMap
+[2023.02.27-20.22.27:227][486]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2023.02.27-20.22.27:228][486]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-20.22.27:228][486]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-20.22.27:282][486]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-20.22.27:289][486]LogUObjectHash: Compacting FUObjectHashTables data took   4.94ms
+[2023.02.27-20.22.27:299][486]LogAudio: Display: Audio Device (ID: 40) registered with world 'MainMap'.
+[2023.02.27-20.22.27:301][486]LogAIModule: Creating AISystem for world MainMap
+[2023.02.27-20.22.27:301][486]LogLoad: Game class is 'AdventureGameMode_C'
+[2023.02.27-20.22.27:305][486]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2023.02.27-12.22.27
+[2023.02.27-20.22.27:305][486]LogWorld: Bringing up level for play took: 0.002136
+[2023.02.27-20.22.28:336][486]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2023.02.27-20.22.28:348][486]LogLoad: Took 1.121047 seconds to LoadMap(/Game/Maps/MainMap)
+[2023.02.27-20.22.32:676][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-20.22.32:676][733]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2023.02.27-20.22.32:678][733]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-20.22.32:695][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-20.22.32:711][733]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-20.22.32:719][733]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-20.22.32:769][733]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-20.22.32:769][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-20.22.32:771][733]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-20.22.32:775][733]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-20.22.32:806][733]LogUObjectHash: Compacting FUObjectHashTables data took   3.37ms
+[2023.02.27-20.22.32:823][734]LogPlayLevel: Display: Destroying online subsystem :Context_90
+[2023.02.27-20.23.08:222][495]BlueprintLog: New page: Compile AdventureHUD
+[2023.02.27-20.23.08:292][495]LogUObjectHash: Compacting FUObjectHashTables data took   4.64ms
+[2023.02.27-20.23.09:803][553]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureHUD9466B13E4387EC7D80864882E68B3C47.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/UI/AdventureHUD/AdventureHUD.uasset'
+[2023.02.27-20.23.09:828][553]AssetCheck: New page: Asset Save: AdventureHUD
+[2023.02.27-20.23.09:828][553]LogContentValidation: Display: Validating WidgetBlueprint /Game/UI/AdventureHUD/AdventureHUD.AdventureHUD
+[2023.02.27-20.23.12:471][705]LogTemp: Repeating last play command: Selected Viewport
+[2023.02.27-20.23.12:485][705]LogPlayLevel: PlayLevel: No blueprints needed recompiling
+[2023.02.27-20.23.12:485][705]PIE: New page: PIE session: MainMenu (27 Feb 2023, 04:23:12)
+[2023.02.27-20.23.12:485][705]LogPlayLevel: Creating play world package: /Game/Maps/UEDPIE_0_MainMenu
+[2023.02.27-20.23.12:487][705]LogPlayLevel: PIE: StaticDuplicateObject took: (0.001685s)
+[2023.02.27-20.23.12:488][705]LogAIModule: Creating AISystem for world MainMenu
+[2023.02.27-20.23.12:488][705]LogPlayLevel: PIE: World Init took: (0.001339s)
+[2023.02.27-20.23.12:488][705]LogPlayLevel: PIE: Created PIE world by copying editor world from /Game/Maps/MainMenu.MainMenu to /Game/Maps/UEDPIE_0_MainMenu.MainMenu (0.003216s)
+[2023.02.27-20.23.12:527][705]LogUObjectHash: Compacting FUObjectHashTables data took   4.17ms
+[2023.02.27-20.23.12:527][705]LogAudio: Display: Creating Audio Device:                 Id: 41, Scope: Unique, Realtime: True
+[2023.02.27-20.23.12:527][705]LogAudioMixer: Display: Audio Mixer Platform Settings:
+[2023.02.27-20.23.12:528][705]LogAudioMixer: Display: 	Sample Rate:						  48000
+[2023.02.27-20.23.12:528][705]LogAudioMixer: Display: 	Callback Buffer Frame Size Requested: 256
+[2023.02.27-20.23.12:528][705]LogAudioMixer: Display: 	Callback Buffer Frame Size To Use:	  256
+[2023.02.27-20.23.12:528][705]LogAudioMixer: Display: 	Number of buffers to queue:			  7
+[2023.02.27-20.23.12:528][705]LogAudioMixer: Display: 	Max Channels (voices):				  32
+[2023.02.27-20.23.12:528][705]LogAudioMixer: Display: 	Number of Async Source Workers:		  0
+[2023.02.27-20.23.12:528][705]LogAudio: Display: AudioDevice MaxSources: 32
+[2023.02.27-20.23.12:528][705]LogAudio: Display: Audio Spatialization Plugin: None (built-in).
+[2023.02.27-20.23.12:528][705]LogAudio: Display: Audio Reverb Plugin: None (built-in).
+[2023.02.27-20.23.12:529][705]LogAudio: Display: Audio Occlusion Plugin: None (built-in).
+[2023.02.27-20.23.12:529][705]LogAudioMixer: Display: Initializing audio mixer.
+[2023.02.27-20.23.12:532][705]LogAudioMixer: Display: 0: FrontLeft
+[2023.02.27-20.23.12:532][705]LogAudioMixer: Display: 1: FrontRight
+[2023.02.27-20.23.12:565][705]LogAudioMixer: Display: Using Audio Device Speakers / Headphones (Realtek Audio)
+[2023.02.27-20.23.12:566][705]LogAudioMixer: Display: Initializing Sound Submixes...
+[2023.02.27-20.23.12:566][705]LogAudioMixer: Display: Creating Master Submix 'MasterSubmixDefault'
+[2023.02.27-20.23.12:566][705]LogAudioMixer: Display: Creating Master Submix 'MasterReverbSubmixDefault'
+[2023.02.27-20.23.12:566][705]LogAudioMixer: Display: Creating Master Submix 'MasterEQSubmixDefault'
+[2023.02.27-20.23.12:566][705]LogAudioMixer: FMixerPlatformXAudio2::StartAudioStream() called
+[2023.02.27-20.23.12:566][705]LogAudioMixer: Display: Output buffers initialized: Frames=256, Channels=2, Samples=512
+[2023.02.27-20.23.12:568][705]LogAudioMixer: Display: Starting AudioMixerPlatformInterface::RunInternal()
+[2023.02.27-20.23.12:568][705]LogAudioMixer: Display: FMixerPlatformXAudio2::SubmitBuffer() called for the first time
+[2023.02.27-20.23.12:568][705]LogInit: FAudioDevice initialized.
+[2023.02.27-20.23.12:568][705]LogAudio: Display: Audio Device (ID: 41) registered with world 'MainMenu'.
+[2023.02.27-20.23.12:581][705]LogLoad: Game class is 'MainMenuGameMode_C'
+[2023.02.27-20.23.12:582][705]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMenu.MainMenu up for play (max tick rate 60) at 2023.02.27-12.23.12
+[2023.02.27-20.23.12:584][705]LogWorld: Bringing up level for play took: 0.000414
+[2023.02.27-20.23.12:584][705]LogOnline: OSS: Creating online subsystem instance for: :Context_91
+[2023.02.27-20.23.12:586][705]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.02.27-20.23.12:586][705]LogViewport: Display: Viewport MouseLockMode Changed, LockOnCapture -> DoNotLock
+[2023.02.27-20.23.12:586][705]LogViewport: Display: Viewport MouseCaptureMode Changed, CapturePermanently_IncludingInitialMouseDown -> NoCapture
+[2023.02.27-20.23.12:587][705]PIE: Server logged in
+[2023.02.27-20.23.12:587][705]PIE: Play in editor total start time 0.109 seconds.
+[2023.02.27-20.23.13:896][783]LogPlayerController: Error: InputMode:UIOnly - Attempting to focus Non-Focusable widget SObjectWidget [Widget.cpp(799)]!
+[2023.02.27-20.23.14:962][847]LogNet: Browse: /Game/Maps/MainMap
+[2023.02.27-20.23.14:962][847]LogLoad: LoadMap: /Game/Maps/MainMap
+[2023.02.27-20.23.14:962][847]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMenu
+[2023.02.27-20.23.14:962][847]LogWorld: UWorld::CleanupWorld for MainMenu, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-20.23.14:962][847]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-20.23.14:992][847]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-20.23.14:995][847]LogUObjectHash: Compacting FUObjectHashTables data took   2.47ms
+[2023.02.27-20.23.15:000][847]LogAudio: Display: Audio Device (ID: 41) registered with world 'MainMap'.
+[2023.02.27-20.23.15:001][847]LogAIModule: Creating AISystem for world MainMap
+[2023.02.27-20.23.15:001][847]LogLoad: Game class is 'AdventureGameMode_C'
+[2023.02.27-20.23.15:004][847]LogWorld: Bringing World /Game/Maps/UEDPIE_0_MainMap.MainMap up for play (max tick rate 60) at 2023.02.27-12.23.15
+[2023.02.27-20.23.15:004][847]LogWorld: Bringing up level for play took: 0.001552
+[2023.02.27-20.23.15:466][847]LogViewport: Display: Viewport MouseCaptureMode Changed, NoCapture -> CaptureDuringMouseDown
+[2023.02.27-20.23.15:474][847]LogLoad: Took 0.513305 seconds to LoadMap(/Game/Maps/MainMap)
+[2023.02.27-20.25.28:124][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-20.25.28:124][726]LogWorld: BeginTearingDown for /Game/Maps/UEDPIE_0_MainMap
+[2023.02.27-20.25.28:128][726]LogWorld: UWorld::CleanupWorld for MainMap, bSessionEnded=true, bCleanupResources=true
+[2023.02.27-20.25.28:161][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-20.25.28:173][726]LogPlayLevel: Display: Shutting down PIE online subsystems
+[2023.02.27-20.25.28:182][726]LogSlate: InvalidateAllWidgets triggered.  All widgets were invalidated
+[2023.02.27-20.25.28:242][726]LogAudio: Display: Audio Device unregistered from world 'None'.
+[2023.02.27-20.25.28:242][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-20.25.28:244][726]LogAudioMixer: FMixerPlatformXAudio2::StopAudioStream() called
+[2023.02.27-20.25.28:249][726]LogSlate: Updating window title bar state: overlay mode, drag disabled, window buttons hidden, title bar hidden
+[2023.02.27-20.25.28:304][726]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.02.27-20.25.28:320][727]LogPlayLevel: Display: Destroying online subsystem :Context_91
+[2023.02.27-20.25.32:703][984]LogUObjectHash: Compacting FUObjectHashTables data took   2.65ms
+[2023.02.27-20.25.33:439][984]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/HexAdventureGameInstance7DBCF3154750DCBD46E41DBDA8814DF3.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/HexAdventureGameInstance.uasset'
+[2023.02.27-20.25.33:445][984]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/AdventureSaveGame8ACC332842416306424C37B2725F19D7.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/SaveGames/AdventureSaveGame.uasset'
+[2023.02.27-20.25.33:499][984]LogSavePackage: Moving '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/MainMenuGameMode077FB4BF480D462A26AB4BB8515F07D7.tmp' to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Content/Blueprints/MainMenu/MainMenuGameMode.uasset'
+[2023.02.27-20.25.33:517][984]AssetCheck: New page: Asset Save: multiple assets
+[2023.02.27-20.25.33:517][984]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/HexAdventureGameInstance.HexAdventureGameInstance
+[2023.02.27-20.25.33:517][984]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/SaveGames/AdventureSaveGame.AdventureSaveGame
+[2023.02.27-20.25.33:517][984]LogContentValidation: Display: Validating Blueprint /Game/Blueprints/MainMenu/MainMenuGameMode.MainMenuGameMode
+[2023.02.27-20.25.40:375][385]LogUObjectHash: Compacting FUObjectHashTables data took   2.64ms
+[2023.02.27-20.25.46:524][385]LogMainFrame: Project does not require temp target
+[2023.02.27-20.25.46:533][385]LogLauncherProfile: Found promoted target with matching version at ../../../Engine/Binaries/Android/UE4Game.target
+[2023.02.27-20.25.47:030][385]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Running AutomationTool...
+[2023.02.27-20.25.47:030][385]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Parsing command line: -ScriptsForProject="C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/HexAdventure.uproject" BuildCookRun -nocompileeditor -installed -nop4 -project="C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/HexAdventure.uproject" -cook -stage -archive -archivedirectory="C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Packaged/Android" -package -ue4exe="C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe" -compressed -ddc=InstalledDerivedDataBackendGraph -pak -prereqs -nodebuginfo -targetplatform=Android -cookflavor=Multi -clientconfig=Development -utf8output
+[2023.02.27-20.25.48:054][446]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Setting up ProjectParams for C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\HexAdventure.uproject
+[2023.02.27-20.25.48:471][471]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ********** COOK COMMAND STARTED **********
+[2023.02.27-20.25.48:488][472]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Running UE4Editor Cook for project C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\HexAdventure.uproject
+[2023.02.27-20.25.48:488][472]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Commandlet log file is C:\Program Files\Epic Games\UE_4.27\Engine\Programs\AutomationTool\Saved\Cook-2023.02.27-12.25.48.txt
+[2023.02.27-20.25.48:488][472]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Running: C:\Program Files\Epic Games\UE_4.27\Engine\Binaries\Win64\UE4Editor-Cmd.exe "C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\HexAdventure.uproject" -run=Cook  -TargetPlatform=Android_Multi -fileopenlog -ddc=InstalledDerivedDataBackendGraph -unversioned -abslog="C:\Program Files\Epic Games\UE_4.27\Engine\Programs\AutomationTool\Saved\Cook-2023.02.27-12.25.48.txt" -stdout -CrashForUAT -unattended -NoLogTimes  -UTF8Output
+[2023.02.27-20.25.49:705][545]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2023.02.27-20.25.49:705][545]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogConsoleResponse: Display: Failed to find resolution value strings in scalability ini. Falling back to default.
+[2023.02.27-20.25.49:705][545]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogInit: Display: Running engine for game: HexAdventure
+[2023.02.27-20.25.50:857][614]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogInit: Display: Loading text-based GConfig....
+[2023.02.27-20.25.51:890][676]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogHAL: Display: Platform has ~ 16 GB [17034686464 / 17179869184 / 16], which maps to Larger [LargestMinGB=32, LargerMinGB=12, DefaultMinGB=8, SmallerMinGB=6, SmallestMinGB=0)
+[2023.02.27-20.25.52:441][709]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AllDesktop'
+[2023.02.27-20.25.52:473][711]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android'
+[2023.02.27-20.25.52:473][711]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTC'
+[2023.02.27-20.25.52:473][711]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXT'
+[2023.02.27-20.25.52:473][711]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2'
+[2023.02.27-20.25.52:473][711]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'AndroidClient'
+[2023.02.27-20.25.52:473][711]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ASTCClient'
+[2023.02.27-20.25.52:473][711]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_DXTClient'
+[2023.02.27-20.25.52:489][712]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_ETC2Client'
+[2023.02.27-20.25.52:489][712]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_Multi'
+[2023.02.27-20.25.52:489][712]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Android_MultiClient'
+[2023.02.27-20.25.52:506][713]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOSClient'
+[2023.02.27-20.25.52:506][713]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'IOS'
+[2023.02.27-20.25.52:522][714]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Linux'
+[2023.02.27-20.25.52:540][715]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxNoEditor'
+[2023.02.27-20.25.52:540][715]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxClient'
+[2023.02.27-20.25.52:557][716]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxServer'
+[2023.02.27-20.25.52:573][717]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64NoEditor'
+[2023.02.27-20.25.52:589][718]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Client'
+[2023.02.27-20.25.52:589][718]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LinuxAArch64Server'
+[2023.02.27-20.25.52:640][721]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Lumin'
+[2023.02.27-20.25.52:640][721]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'LuminClient'
+[2023.02.27-20.25.52:657][722]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacNoEditor'
+[2023.02.27-20.25.52:657][722]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Mac'
+[2023.02.27-20.25.52:673][723]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacClient'
+[2023.02.27-20.25.52:674][723]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'MacServer'
+[2023.02.27-20.25.52:706][725]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOSClient'
+[2023.02.27-20.25.52:707][725]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'TVOS'
+[2023.02.27-20.25.52:723][726]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsNoEditor'
+[2023.02.27-20.25.52:723][726]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'Windows'
+[2023.02.27-20.25.52:741][727]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsClient'
+[2023.02.27-20.25.52:741][727]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Loaded TargetPlatform 'WindowsServer'
+[2023.02.27-20.25.52:741][727]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTargetPlatformManager: Display: Building Assets For Android_Multi
+[2023.02.27-20.25.52:757][728]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogAudioDebug: Display: Lib vorbis DLL was dynamically loaded.
+[2023.02.27-20.25.52:823][732]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTextureFormatOodle: Display: Oodle Texture 2.9.0 init RDO Off
+[2023.02.27-20.25.53:626][780]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderCompilers: Display: Using Local Shader Compiler.
+[2023.02.27-20.25.54:560][836]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogDerivedDataCache: Display: Max Cache Size: 512 MB
+[2023.02.27-20.25.54:689][844]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogDerivedDataCache: Display: Loaded Boot cache: C:/Users/carlt/AppData/Local/UnrealEngine/4.27/DerivedDataCache/Boot.ddc
+[2023.02.27-20.25.54:707][845]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.02.27-20.25.54:726][846]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogDerivedDataCache: Display: Performance to C:/Users/carlt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.05ms. RandomReadSpeed=524.33MBs, RandomWriteSpeed=86.78MBs. Assigned SpeedClass 'Local'
+[2023.02.27-20.25.57:759][ 28]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.27-20.25.57:759][ 28]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.02.27-20.25.57:759][ 28]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.27-20.25.57:759][ 28]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.02.27-20.25.57:759][ 28]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.27-20.25.57:759][ 28]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogWindows: Warning: URL: C:\Users\carlt\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.02.27-20.25.57:759][ 28]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.27-20.25.57:759][ 28]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.02.27-20.25.57:760][ 28]PackagingResults: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.27-20.25.57:760][ 28]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.27-20.25.57:760][ 28]PackagingResults: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.02.27-20.25.57:760][ 28]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.02.27-20.25.57:760][ 28]PackagingResults: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.27-20.25.57:760][ 28]PackagingResults: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.02.27-20.25.57:760][ 28]PackagingResults: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.27-20.25.57:760][ 28]PackagingResults: Warning: URL: C:\Users\carlt\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.02.27-20.25.57:760][ 28]PackagingResults: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.27-20.25.57:760][ 28]PackagingResults: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.02.27-20.25.57:760][ 28]PackagingResults: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.27-20.25.57:760][ 28]PackagingResults: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.02.27-20.26.00:342][183]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.27-20.26.00:342][183]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogAudioCaptureCore: Display: No Audio Capture implementations found. Audio input will be silent.
+[2023.02.27-20.26.01:258][238]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: CookSettings for Memory: MemoryMaxUsedVirtual 0MiB, MemoryMaxUsedPhysical 16384MiB, MemoryMinFreeVirtual 0MiB, MemoryMinFreePhysical 1024MiB
+[2023.02.27-20.26.01:258][238]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Mobile HDR setting 1
+[2023.02.27-20.26.01:258][238]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Creating asset registry
+[2023.02.27-20.26.01:674][263]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Discovering localized assets for cultures: en
+[2023.02.27-20.26.01:695][264]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Clearing all cooked content for platform Android_Multi
+[2023.02.27-20.26.01:714][265]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Sandbox cleanup took 0.038 seconds for platforms Android_Multi
+[2023.02.27-20.26.02:825][332]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display:
+[2023.02.27-20.26.02:825][332]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: Shader Library 'Global' (GLSL_ES3_1_ANDROID) Stats:
+[2023.02.27-20.26.02:825][332]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: =================
+[2023.02.27-20.26.02:825][332]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: Assets: 1, Unique Shadermaps: 71 (7100.00%)
+[2023.02.27-20.26.02:825][332]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: Total Shaders: 576, Unique Shaders: 564 (97.92%)
+[2023.02.27-20.26.02:825][332]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: Total Shader Size: 1.30mb, Unique Shaders Size: 1.29mb (99.50%)
+[2023.02.27-20.26.02:842][333]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: === Extended info:
+[2023.02.27-20.26.02:842][333]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: Minimum number of shaders in shadermap: 1
+[2023.02.27-20.26.02:842][333]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: Median number of shaders in shadermap: 2
+[2023.02.27-20.26.02:842][333]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: Maximum number of shaders in shadermap: 110
+[2023.02.27-20.26.02:842][333]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2023.02.27-20.26.02:842][333]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display:     3, 3, 2, 2, 2, 2, 2, 2, 2, 2
+[2023.02.27-20.26.02:842][333]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/Shaders/GLSL_ES3_1_ANDROID/ShaderDebug-Global-GLSL_ES3_1_ANDROID/Dump.txt'
+[2023.02.27-20.26.02:842][333]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: =================
+[2023.02.27-20.26.02:855][333]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Warning: Unable to find package for cooking /Game/Blueprints/AdventureGameMode
+[2023.02.27-20.26.02:855][333]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Cooked packages 0 Packages Remain 54 Total 54
+[2023.02.27-20.26.02:855][333]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=212, VirtualMemory=568MiB
+[2023.02.27-20.26.02:855][333]PackagingResults: Warning: Unable to find package for cooking /Game/Blueprints/AdventureGameMode
+[2023.02.27-20.26.03:297][360]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Excluding /MagicLeapPassableWorld/MagicLeapARPinInfoActor -> C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/Cooked/Android_Multi/Engine/Plugins/Lumin/MagicLeapPassableWorld/Content/MagicLeapARPinInfoActor.uasset
+[2023.02.27-20.26.04:512][433]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Cooked packages 209 Packages Remain 119 Total 328
+[2023.02.27-20.26.04:575][437]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogMaterial: Display: Missing cached shadermap for JourneyPath in OPENGL_ES3_1_ANDROID, Default, ES3_1 (DDC key hash: 6DBF384B5E4998983D8D0D58A0504A779669827A), compiling.
+[2023.02.27-20.26.04:592][438]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderCompilers: Display: Submitted 4 shader compile jobs with 'Low' priority
+[2023.02.27-20.26.04:628][440]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.02.27-20.26.04:628][440]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogMaterial: Display: Missing cached shadermap for HexBlend in OPENGL_ES3_1_ANDROID, Default, ES3_1 (DDC key hash: 9A8C34569DD69731B55C6F025E19CFA701FB1769), compiling.
+[2023.02.27-20.26.04:680][443]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderCompilers: Display: Submitted 15 shader compile jobs with 'Low' priority
+[2023.02.27-20.26.04:714][445]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderCompilers: Display: Started 8 'Local' shader compile jobs with 'Low' priority
+[2023.02.27-20.26.04:714][445]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogMaterial: Display: Missing cached shadermap for HexBlend_Smooth in OPENGL_ES3_1_ANDROID, Default, ES3_1 (DDC key hash: F93CE807CBC16618A6852BC16D3AEF5A1675F7F9), compiling.
+[2023.02.27-20.26.04:748][447]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderCompilers: Display: Submitted 15 shader compile jobs with 'Low' priority
+[2023.02.27-20.26.04:846][453]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogMaterial: Display: Missing cached shadermap for Invisible in OPENGL_ES3_1_ANDROID, Default, ES3_1 (DDC key hash: 295E3D933651951EB44929ABD50279C2F227C0C3), compiling.
+[2023.02.27-20.26.04:863][454]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderCompilers: Display: Submitted 10 shader compile jobs with 'Low' priority
+[2023.02.27-20.26.05:264][478]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTexture: Display: Building textures: HQ_Lightmap0_1 (ASTC_RGBAuto, 64X64)
+[2023.02.27-20.26.05:264][478]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoDXT, 64X64)
+[2023.02.27-20.26.05:264][478]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTexture: Display: Building textures: HQ_Lightmap0_1 (AutoETC2, 64X64)
+[2023.02.27-20.26.05:264][478]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTexture: Display: Building textures: LQ_Lightmap_0_1 (ASTC_RGB, 64X64)
+[2023.02.27-20.26.05:281][479]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTexture: Display: Building textures: LQ_Lightmap_0_1 (ETC2_RGB, 64X64)
+[2023.02.27-20.26.05:281][479]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogTexture: Display: Building textures: LQ_Lightmap_0_1 (DXT1, 64X64)
+[2023.02.27-20.26.05:862][508]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Cooked packages 326 Packages Remain 4 Total 330
+[2023.02.27-20.26.08:186][630]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderCompilers: Display: Started 9 'Local' shader compile jobs with 'Low' priority
+[2023.02.27-20.26.08:186][630]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderCompilers: Display: Started 6 'Local' shader compile jobs with 'Low' priority
+[2023.02.27-20.26.08:186][630]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Cooked packages 327 Packages Remain 3 Total 330
+[2023.02.27-20.26.13:836][968]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderCompilers: Display: Started 5 'Local' shader compile jobs with 'Low' priority
+[2023.02.27-20.26.13:836][968]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderCompilers: Display: Started 4 'Local' shader compile jobs with 'Low' priority
+[2023.02.27-20.26.13:837][968]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Cooked packages 327 Packages Remain 3 Total 330
+[2023.02.27-20.26.19:848][328]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Cooked packages 327 Packages Remain 3 Total 330
+[2023.02.27-20.26.22:965][514]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderCompilers: Display: Started 3 'Local' shader compile jobs with 'Low' priority
+[2023.02.27-20.26.22:965][514]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderCompilers: Display: Started 2 'Local' shader compile jobs with 'Low' priority
+[2023.02.27-20.26.22:966][514]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.27-20.26.22:966][514]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Cooked packages 328 Packages Remain 2 Total 330
+[2023.02.27-20.26.26:765][742]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.27-20.26.26:766][742]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderCompilers: Display: Started 1 'Local' shader compile jobs with 'Low' priority
+[2023.02.27-20.26.26:766][742]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Cooked packages 330 Packages Remain 0 Total 330
+[2023.02.27-20.26.26:766][742]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Cook Diagnostics: OpenFileHandles=334, VirtualMemory=717MiB
+[2023.02.27-20.26.26:766][742]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Finishing up...
+[2023.02.27-20.26.26:781][743]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Saving BulkData manifest(s)...
+[2023.02.27-20.26.26:781][743]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Done saving BulkData manifest(s)
+[2023.02.27-20.26.26:781][743]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogBlueprintCodeGen: Display: Nativization Summary - AnimBP:
+[2023.02.27-20.26.26:781][743]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogBlueprintCodeGen: Display: Name, Children, Non-empty Functions (Empty Functions), Variables, FunctionUsage, VariableUsage
+[2023.02.27-20.26.26:781][743]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogBlueprintCodeGen: Display: Nativization Summary - Shared Variables From Graph: 0
+[2023.02.27-20.26.26:815][745]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogAssetRegistryGenerator: Display: Saving asset registry v8.
+[2023.02.27-20.26.26:831][746]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogAssetRegistryGenerator: Display: Generated asset registry num assets 367, size is 128.44kb
+[2023.02.27-20.26.26:831][746]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogAssetRegistryGenerator: Display: Done saving asset registry.
+[2023.02.27-20.26.26:884][749]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display:
+[2023.02.27-20.26.26:884][749]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: Shader Library 'HexAdventure' (GLSL_ES3_1_ANDROID) Stats:
+[2023.02.27-20.26.26:884][749]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: =================
+[2023.02.27-20.26.26:897][750]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: Assets: 59, Unique Shadermaps: 48 (81.36%)
+[2023.02.27-20.26.26:897][750]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: Total Shaders: 1039, Unique Shaders: 875 (84.22%)
+[2023.02.27-20.26.26:897][750]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: Total Shader Size: 4.14mb, Unique Shaders Size: 3.64mb (87.84%)
+[2023.02.27-20.26.26:897][750]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: === Extended info:
+[2023.02.27-20.26.26:897][750]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: Minimum number of shaders in shadermap: 2
+[2023.02.27-20.26.26:897][750]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: Median number of shaders in shadermap: 8
+[2023.02.27-20.26.26:898][750]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: Maximum number of shaders in shadermap: 287
+[2023.02.27-20.26.26:898][750]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: Number of shadermaps referencing top 10 most shared shaders:
+[2023.02.27-20.26.26:898][750]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display:     20, 19, 4, 4, 4, 4, 4, 3, 3, 3
+[2023.02.27-20.26.26:898][750]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: Textual dump saved to '../../../../../../Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Saved/Shaders/GLSL_ES3_1_ANDROID/ShaderDebug-HexAdventure-GLSL_ES3_1_ANDROID/Dump.txt'
+[2023.02.27-20.26.26:898][750]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderLibrary: Display: =================
+[2023.02.27-20.26.26:898][750]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Cook by the book total time in tick 12.121305s total time 25.644688
+[2023.02.27-20.26.26:898][750]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Peak Used virtual 931 MiB Peak Used physical 947 MiB
+[2023.02.27-20.26.26:898][750]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Hierarchy Timer Information:
+[2023.02.27-20.26.26:898][750]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:   Root: 0.000s (0)
+[2023.02.27-20.26.26:899][750]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:     CleanSandbox: 0.038s (1)
+[2023.02.27-20.26.26:899][750]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:       ProcessingAccessedStrings: 0.002s (1)
+[2023.02.27-20.26.26:899][750]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:     CollectFilesToCook: 0.012s (1)
+[2023.02.27-20.26.26:899][750]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:       CookModificationDelegate: 0.000s (1)
+[2023.02.27-20.26.26:899][750]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:     GenerateLongPackageName: 0.000s (1)
+[2023.02.27-20.26.26:899][750]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:     TickCookOnTheSide: 12.094s (140310)
+[2023.02.27-20.26.26:899][750]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:       PostLoadPackageFixup: 0.018s (281034)
+[2023.02.27-20.26.26:914][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:       LoadPackageForCooking: 0.856s (330)
+[2023.02.27-20.26.26:914][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:       SavingPackages: 11.018s (140319)
+[2023.02.27-20.26.26:914][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:         BeginPackageCacheForCookedPlatformData: 0.029s (28)
+[2023.02.27-20.26.26:914][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:         PrecachePlatformDataForNextPackage: 0.472s (328)
+[2023.02.27-20.26.26:914][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:           BeginPackageCacheForCookedPlatformData: 0.472s (302)
+[2023.02.27-20.26.26:915][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:         SaveCookedPackage: 1.018s (330)
+[2023.02.27-20.26.26:915][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:           GEditorSavePackage: 0.999s (329)
+[2023.02.27-20.26.26:915][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:             ConvertingBlueprints: 0.007s (329)
+[2023.02.27-20.26.26:915][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:             VerifyCanCookPackage: 0.003s (328)
+[2023.02.27-20.26.26:915][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:         ClearAllCachedCookedPlatformData: 0.006s (330)
+[2023.02.27-20.26.26:915][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:     FinalizePackageStore: 0.002s (1)
+[2023.02.27-20.26.26:915][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:     GeneratingBlueprintAssets: 0.005s (1)
+[2023.02.27-20.26.26:915][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:     SavingCurrentIniSettings: 0.012s (1)
+[2023.02.27-20.26.26:915][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:       ProcessingAccessedStrings: 0.002s (1)
+[2023.02.27-20.26.26:915][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:     SavingAssetRegistry: 0.108s (1)
+[2023.02.27-20.26.26:915][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:       BuildChunkManifest: 0.015s (1)
+[2023.02.27-20.26.26:916][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:       SaveManifests: 0.003s (1)
+[2023.02.27-20.26.26:916][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:       SaveRealAssetRegistry: 0.022s (1)
+[2023.02.27-20.26.26:916][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display:       WriteCookerOpenOrder: 0.035s (1)
+[2023.02.27-20.26.26:916][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCook: Display: Done!
+[2023.02.27-20.26.26:916][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogSavePackage: Display: Took 0.000642s to verify the EDL loading graph.
+[2023.02.27-20.26.26:916][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: Misc Cook Stats
+[2023.02.27-20.26.26:916][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: ===============
+[2023.02.27-20.26.26:916][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: NiagaraShader.Misc
+[2023.02.27-20.26.26:916][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2023.02.27-20.26.26:916][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: ShaderCompiler
+[2023.02.27-20.26.26:916][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     BlockingTimeSec=0.000019
+[2023.02.27-20.26.26:916][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     AsyncCompileTimeSec=87.462212
+[2023.02.27-20.26.26:916][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderTimeSec=0.082718
+[2023.02.27-20.26.26:916][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     GlobalBeginCompileShaderCalls=44
+[2023.02.27-20.26.26:916][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     ProcessAsyncResultsTimeSec=0.337755
+[2023.02.27-20.26.26:916][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: GlobalShader.Misc
+[2023.02.27-20.26.26:916][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2023.02.27-20.26.26:916][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: MeshMaterial.Misc
+[2023.02.27-20.26.26:916][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     ShadersCompiled=44
+[2023.02.27-20.26.26:916][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: MaterialShader.Misc
+[2023.02.27-20.26.26:917][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     ShadersCompiled=0
+[2023.02.27-20.26.26:917][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: Package.Load
+[2023.02.27-20.26.26:917][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     NumPreloadedDependencies=87
+[2023.02.27-20.26.26:917][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     NumInlineLoads=47
+[2023.02.27-20.26.26:917][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     NumPackagesLoaded=209
+[2023.02.27-20.26.26:917][751]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     LoadPackageTimeSec=1.747022
+[2023.02.27-20.26.26:931][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: CookOnTheFlyServer
+[2023.02.27-20.26.26:932][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     PeakRequestQueueSize=37
+[2023.02.27-20.26.26:932][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     PeakLoadQueueSize=209
+[2023.02.27-20.26.26:932][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     PeakSaveQueueSize=201
+[2023.02.27-20.26.26:932][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: Package.Save
+[2023.02.27-20.26.26:932][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     NumPackagesSaved=329
+[2023.02.27-20.26.26:932][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     SavePackageTimeSec=0.973219
+[2023.02.27-20.26.26:932][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     TagPackageExportsPresaveTimeSec=0.148611
+[2023.02.27-20.26.26:932][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     TagPackageExportsTimeSec=0.046743
+[2023.02.27-20.26.26:932][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     FullyLoadLoadersTimeSec=0.000263
+[2023.02.27-20.26.26:932][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     ResetLoadersTimeSec=0.002448
+[2023.02.27-20.26.26:932][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithOuter=0.005408
+[2023.02.27-20.26.26:932][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     TagPackageExportsGetObjectsWithMarks=0.000332
+[2023.02.27-20.26.26:932][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     SerializeImportsTimeSec=0.000000
+[2023.02.27-20.26.26:932][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     SortExportsSeekfreeInnerTimeSec=0.226071
+[2023.02.27-20.26.26:932][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     SerializeExportsTimeSec=0.197524
+[2023.02.27-20.26.26:932][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     SerializeBulkDataTimeSec=0.096145
+[2023.02.27-20.26.26:932][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     AsyncWriteTimeSec=0.000000
+[2023.02.27-20.26.26:932][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     MBWritten=169.070372
+[2023.02.27-20.26.26:932][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: Package.DifferentPackagesSizeMBPerAsset
+[2023.02.27-20.26.26:932][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: Package.NumberOfDifferencesInPackagesPerAsset
+[2023.02.27-20.26.26:933][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: Package.PackageDifferencesSizeMBPerAsset
+[2023.02.27-20.26.26:933][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: Package.DiffTotal
+[2023.02.27-20.26.26:933][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     NumberOfDifferentPackages=0
+[2023.02.27-20.26.26:933][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     DifferentPackagesSizeMB=0.000000
+[2023.02.27-20.26.26:933][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     NumberOfDifferencesInPackages=0
+[2023.02.27-20.26.26:933][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     PackageDifferencesSizeMB=0.000000
+[2023.02.27-20.26.26:933][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: UnversionedProperties
+[2023.02.27-20.26.26:933][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     SavedStructs=0
+[2023.02.27-20.26.26:933][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     SavedMB=0
+[2023.02.27-20.26.26:933][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     EquivalentTaggedMB=0
+[2023.02.27-20.26.26:933][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     CompressionRatio=-nan(ind)
+[2023.02.27-20.26.26:933][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:     BitfieldWasteKB=0
+[2023.02.27-20.26.26:933][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:
+[2023.02.27-20.26.26:933][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: Cook Profile
+[2023.02.27-20.26.26:933][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: ============
+[2023.02.27-20.26.26:933][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:  0.CookWallTimeSec=37.639104
+[2023.02.27-20.26.26:934][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:  0. 0.StartupWallTimeSec=11.978026
+[2023.02.27-20.26.26:934][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:  0. 1.CookByTheBookTimeSec=25.658608
+[2023.02.27-20.26.26:934][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:  0. 1. 0.StartCookByTheBookTimeSec=1.596857
+[2023.02.27-20.26.26:934][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:  0. 1. 0. 0.GameCookModificationDelegateTimeSec=0.000053
+[2023.02.27-20.26.26:934][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:  0. 1. 1.TickCookOnTheSideTimeSec=12.298598
+[2023.02.27-20.26.26:934][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:  0. 1. 1. 0.TickCookOnTheSideLoadPackagesTimeSec=0.856405
+[2023.02.27-20.26.26:934][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:  0. 1. 1. 1.TickCookOnTheSideSaveCookedPackageTimeSec=1.018006
+[2023.02.27-20.26.26:934][752]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:  0. 1. 1. 1. 0.TickCookOnTheSideResolveRedirectorsTimeSec=0.000000
+[2023.02.27-20.26.26:948][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:  0. 1. 1. 2.TickCookOnTheSideBeginPackageCacheForCookedPlatformDataTimeSec=0.500815
+[2023.02.27-20.26.26:948][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:  0. 1. 1. 3.TickCookOnTheSideFinishPackageCacheForCookedPlatformDataTimeSec=0.000000
+[2023.02.27-20.26.26:948][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:  0. 1. 2.TickLoopGCTimeSec=0.000000
+[2023.02.27-20.26.26:948][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:  0. 1. 3.TickLoopRecompileShaderRequestsTimeSec=3.489696
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:  0. 1. 4.TickLoopShaderProcessAsyncResultsTimeSec=0.082298
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:  0. 1. 5.TickLoopProcessDeferredCommandsTimeSec=0.164596
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:  0. 1. 6.TickLoopTickCommandletStatsTimeSec=0.027082
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: DDC Summary Stats
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: =================
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: TotalGetHits    =       983
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: TotalGets       =       999
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: TotalGetHitPct  =  0.983984
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: LocalGetHitPct  =  0.827828
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: SharedGetHitPct =  0.000000
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: OtherGetHitPct  =  0.156156
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: GetMissPct      =  0.016016
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: TotalPutHits    =        16
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: TotalPuts       =        16
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: TotalPutHitPct  =  1.000000
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: PutMissPct      =  0.000000
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display:
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: DDC Resource Stats
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: =======================================================================================================
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: Asset Type                          Total Time (Sec)  GameThread Time (Sec)  Assets Built  MB Processed
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: ----------------------------------  ----------------  ---------------------  ------------  ------------
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: Texture (Streaming)                             0.48                   0.00             0        107.15
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: MaterialShader                                  0.26                   0.26             4          5.74
+[2023.02.27-20.26.26:949][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: PhysX (BodySetup)                               0.09                   0.09             6          8.67
+[2023.02.27-20.26.26:950][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: StaticMesh                                      0.04                   0.04             0         12.27
+[2023.02.27-20.26.26:950][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: GlobalShader                                    0.00                   0.00             0          1.64
+[2023.02.27-20.26.26:950][753]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: NavCollision                                    0.00                   0.00             0          0.05
+[2023.02.27-20.26.26:964][754]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogCookCommandlet: Display: Texture (Inline)                                0.00                   0.00             6         46.22
+[2023.02.27-20.26.26:964][754]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogInit: Display:
+[2023.02.27-20.26.26:964][754]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogInit: Display: Warning/Error Summary (Unique only)
+[2023.02.27-20.26.26:964][754]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogInit: Display: -----------------------------------
+[2023.02.27-20.26.26:964][754]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogInit: Display: LogWindows: Warning: CreateProc failed: The system cannot find the file specified. (0x00000002)
+[2023.02.27-20.26.26:964][754]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogInit: Display: LogWindows: Warning: URL: C:/Program Files/Git/bin/git.exe version
+[2023.02.27-20.26.26:965][754]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogInit: Display: LogWindows: Warning: URL: C:/Program Files (x86)/Git/bin/git.exe version
+[2023.02.27-20.26.26:965][754]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogInit: Display: LogWindows: Warning: URL: C:\Users\carlt\AppData\Local/Programs/Git/cmd/git.exe version
+[2023.02.27-20.26.26:965][754]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogInit: Display: LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/git/bin/git.exe version
+[2023.02.27-20.26.26:965][754]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogInit: Display: LogWindows: Warning: URL: C:/Program Files (x86)/SmartGit/bin/git.exe version
+[2023.02.27-20.26.26:965][754]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogInit: Display: LogCook: Warning: Unable to find package for cooking /Game/Blueprints/AdventureGameMode
+[2023.02.27-20.26.26:965][754]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogInit: Display:
+[2023.02.27-20.26.26:965][754]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogInit: Display: Success - 0 error(s), 11 warning(s)
+[2023.02.27-20.26.26:965][754]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogInit: Display:
+[2023.02.27-20.26.26:965][754]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   
+[2023.02.27-20.26.26:965][754]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   Execution of commandlet took:  25.71 seconds
+[2023.02.27-20.26.27:130][764]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderCompilers: Display: === FShaderJobCache stats ===
+[2023.02.27-20.26.27:130][764]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderCompilers: Display: Total job queries 44, among them cache hits 0 (0.00%)
+[2023.02.27-20.26.27:163][765]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderCompilers: Display: Tracking 44 distinct input hashes that result in 36 distinct outputs (81.82%)
+[2023.02.27-20.26.27:163][765]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderCompilers: Display: RAM used: 0.45 MB (0.00 GB) of 819.20 MB (0.80 GB) budget. Usage: 0.05%
+[2023.02.27-20.26.27:163][765]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogShaderCompilers: Display: ================================================
+[2023.02.27-20.26.27:685][797]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogHttp: Display: cleaning up 0 outstanding Http requests.
+[2023.02.27-20.26.28:102][822]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogContentStreaming: Display: There are 1 unreleased StreamingManagers
+[2023.02.27-20.26.33:855][167]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Took 45.3531777s to run UE4Editor-Cmd.exe, ExitCode=0
+[2023.02.27-20.26.33:855][167]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ********** COOK COMMAND COMPLETED **********
+[2023.02.27-20.26.33:855][167]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ********** STAGE COMMAND STARTED **********
+[2023.02.27-20.26.33:936][172]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Creating UE4CommandLine.txt
+[2023.02.27-20.26.33:973][174]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Creating Staging Manifest...
+[2023.02.27-20.26.34:003][176]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseEditor.ini
+[2023.02.27-20.26.34:003][176]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseEditorKeyBindings.ini
+[2023.02.27-20.26.34:003][176]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseEditorPerProjectUserSettings.ini
+[2023.02.27-20.26.34:003][176]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseEditorSettings.ini
+[2023.02.27-20.26.34:003][176]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BaseLightmass.ini
+[2023.02.27-20.26.34:003][176]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\BasePakFileRules.ini
+[2023.02.27-20.26.34:003][176]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\Category.ini
+[2023.02.27-20.26.34:003][176]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\Editor.ini
+[2023.02.27-20.26.34:003][176]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\EditorTutorials.ini
+[2023.02.27-20.26.34:003][176]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\Engine.ini
+[2023.02.27-20.26.34:003][176]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\Keywords.ini
+[2023.02.27-20.26.34:003][176]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\PortableObjectExport.ini
+[2023.02.27-20.26.34:003][176]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\PortableObjectImport.ini
+[2023.02.27-20.26.34:003][176]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\PropertyNames.ini
+[2023.02.27-20.26.34:004][176]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\RepairData.ini
+[2023.02.27-20.26.34:004][176]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\ToolTips.ini
+[2023.02.27-20.26.34:004][176]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Excluding config file C:\Program Files\Epic Games\UE_4.27\Engine\Config\Localization\WordCount.ini
+[2023.02.27-20.26.34:019][177]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Excluding config file C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Config\DefaultEditor.ini
+[2023.02.27-20.26.34:205][188]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Cleaning Stage Directory: C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Saved\StagedBuilds\Android_Multi
+[2023.02.27-20.26.34:254][191]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Creating pak using staging manifest.
+[2023.02.27-20.26.34:421][201]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Excluding C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Saved\Cooked\Android_Multi\Engine\Content\EngineMaterials\DefaultBloomKernel.uasset from pak files
+[2023.02.27-20.26.34:421][201]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Excluding C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Saved\Cooked\Android_Multi\Engine\Content\EngineMaterials\DefaultBloomKernel.uexp from pak files
+[2023.02.27-20.26.34:520][207]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Executing 1 UnrealPak command...
+[2023.02.27-20.26.39:932][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Waiting for child processes to complete (1/1)
+[2023.02.27-20.26.39:932][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Output from: "C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\HexAdventure.uproject" "C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Saved\StagedBuilds\Android_Multi\HexAdventure\Content\Paks\HexAdventure-Android_Multi.pak" -create="C:\Users\carlt\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\PakList_HexAdventure-Android_Multi.txt" -cryptokeys="C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Saved\Cooked\Android_Multi\HexAdventure\Metadata\Crypto.json" -secondaryOrder="C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Build\Android_Multi\FileOpenOrder\CookerOpenOrder.log" -platform=Android -compressionformats=Oodle -compressmethod=Kraken -compresslevel=3  -multiprocess -abslog="C:\Users\carlt\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\UnrealPak-HexAdventure-Android_Multi-2023.02.27-12.26.34.txt" -compressionblocksize=256KB
+[2023.02.27-20.26.39:932][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogInit: Display: Loading text-based GConfig....
+[2023.02.27-20.26.39:932][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   OodleDataCompression: Display: Oodle v2.9.0 initializing with method=Kraken, level=3=Fast
+[2023.02.27-20.26.39:932][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogPakFile: Display: Parsing crypto keys from a crypto key cache file
+[2023.02.27-20.26.39:932][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogPakFile: Display: Loading response file C:\Users\carlt\AppData\Roaming\Unreal Engine\AutomationTool\Logs\C+Program+Files+Epic+Games+UE_4.27\PakList_HexAdventure-Android_Multi.txt
+[2023.02.27-20.26.39:932][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogPakFile: Display: Added 1792 entries to add to pak file.
+[2023.02.27-20.26.39:932][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogPakFile: Display: Loading pak order file C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Build\Android_Multi\FileOpenOrder\CookerOpenOrder.log...
+[2023.02.27-20.26.39:932][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogPakFile: Display: Finished loading pak order file C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Build\Android_Multi\FileOpenOrder\CookerOpenOrder.log.
+[2023.02.27-20.26.39:932][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogPakFile: Display: Collecting files to add to pak file...
+[2023.02.27-20.26.39:932][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogPakFile: Display: Collected 1792 files in 0.02s.
+[2023.02.27-20.26.39:932][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogPakFile: Display: Creating pak C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Saved\StagedBuilds\Android_Multi\HexAdventure\Content\Paks\HexAdventure-Android_Multi.pak.
+[2023.02.27-20.26.39:932][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogPakFile: Display: CompressionFormats in priority order: Oodle, Zlib
+[2023.02.27-20.26.39:932][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogDerivedDataCache: Display: Pak cache opened for reading ../../../Engine/DerivedDataCache/Compressed.ddp.
+[2023.02.27-20.26.39:932][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogDerivedDataCache: Display: Performance to C:/Users/carlt/AppData/Local/UnrealEngine/Common/DerivedDataCache: Latency=0.00ms. RandomReadSpeed=999.00MBs, RandomWriteSpeed=999.00MBs. Assigned SpeedClass 'Local'
+[2023.02.27-20.26.39:933][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogPakFile: Display: CompressionFormat 0 [Oodle] : 575 files, 152873130 -> 36372089 bytes
+[2023.02.27-20.26.39:933][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogPakFile: Display: CompressionFormat 1 [Zlib] : 61 files, 3337426 -> 1129935 bytes
+[2023.02.27-20.26.39:933][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogPakFile: Display: CompressionFormat 2 [None] : 1156 files, 6115204 -> 6115204 bytes
+[2023.02.27-20.26.39:933][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogPakFile: Display: Added 1792 files, 43869591 bytes total, time 3.14s.
+[2023.02.27-20.26.39:933][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogPakFile: Display: PrimaryIndex size: 29034 bytes
+[2023.02.27-20.26.39:933][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogPakFile: Display: PathHashIndex size: 46781 bytes
+[2023.02.27-20.26.39:933][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogPakFile: Display: FullDirectoryIndex size: 60311 bytes
+[2023.02.27-20.26.39:933][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogPakFile: Display: Compression summary: 24.01% of original size. Compressed Size 37502024 bytes, Original Size 156210556 bytes.
+[2023.02.27-20.26.39:933][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogPakFile: Display: Encryption - DISABLED
+[2023.02.27-20.26.39:933][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)):   LogPakFile: Display: Unreal pak executed in 3.251283 seconds
+[2023.02.27-20.26.39:933][530]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): UnrealPak terminated with exit code 0
+[2023.02.27-20.26.39:946][531]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Copying NonUFSFiles to staging directory: C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Saved\StagedBuilds\Android_Multi
+[2023.02.27-20.26.39:979][533]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ********** STAGE COMMAND COMPLETED **********
+[2023.02.27-20.26.39:997][534]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ********** PACKAGE COMMAND STARTED **********
+[2023.02.27-20.26.40:445][561]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): BaseApkName = C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Binaries\Android\HexAdventure.apk
+[2023.02.27-20.26.40:461][562]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Creating C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Saved\StagedBuilds\Android_Multi.obb from C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Saved\StagedBuilds\Android_Multi
+[2023.02.27-20.26.40:478][563]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): [1/1] Adding HexAdventure/Content/Paks/HexAdventure-Android_Multi.pak to OBB
+[2023.02.27-20.26.40:947][591]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): AndroidPlugin: Plugins\Online\Android\OnlineSubsystemGooglePlay\Source\OnlineSubsystemGooglePlay_UPL.xml
+[2023.02.27-20.26.40:947][591]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): AndroidPlugin: Plugins\Runtime\AndroidPermission\Source\AndroidPermission\AndroidPermission_APL.xml
+[2023.02.27-20.26.40:947][591]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): AndroidPlugin: Plugins\Runtime\GoogleCloudMessaging\Source\GoogleCloudMessaging\GoogleCloudMessaging_UPL.xml
+[2023.02.27-20.26.40:947][591]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): AndroidPlugin: Plugins\Runtime\GooglePAD\Source\GooglePAD\GooglePAD_APL.xml
+[2023.02.27-20.26.40:947][591]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): AndroidPlugin: Plugins\Runtime\Oculus\OculusVR\Source\OculusHMD\OculusMobile_APL.xml
+[2023.02.27-20.26.40:947][591]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): AndroidPlugin: Source\Runtime\Online\Voice\AndroidVoiceImpl_UPL.xml
+[2023.02.27-20.26.40:947][591]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): AndroidPlugin: Source\Runtime\Advertising\Android\AndroidAdvertising\AndroidAdvertising_APL.xml
+[2023.02.27-20.26.40:948][591]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): AndroidPlugin: Source\ThirdParty\HWCPipe\HWCPipe_UPL.xml
+[2023.02.27-20.26.40:948][591]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): AndroidPlugin: Source\ThirdParty\heapprofd\heapprofd_UPL.xml
+[2023.02.27-20.26.40:948][591]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): AndroidPlugin: Source\ThirdParty\GoogleGameSDK\GoogleGameSDK_APL.xml
+[2023.02.27-20.26.40:965][592]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): UPL: Engine\Plugins/Online/Android/OnlineSubsystemGooglePlay/Source/OnlineSubsystemGooglePlay_UPL.xml
+[2023.02.27-20.26.40:965][592]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): UPL: Engine\Plugins/Runtime/AndroidPermission/Source/AndroidPermission/AndroidPermission_APL.xml
+[2023.02.27-20.26.40:965][592]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): UPL: Engine\Plugins/Runtime/GoogleCloudMessaging/Source/GoogleCloudMessaging/GoogleCloudMessaging_UPL.xml
+[2023.02.27-20.26.40:965][592]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): UPL: Engine\Plugins/Runtime/GooglePAD/Source/GooglePAD/GooglePAD_APL.xml
+[2023.02.27-20.26.40:965][592]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): UPL: Engine\Plugins/Runtime/Oculus/OculusVR/Source/OculusHMD/OculusMobile_APL.xml
+[2023.02.27-20.26.40:965][592]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): UPL: Engine\Source/Runtime/Online/Voice/AndroidVoiceImpl_UPL.xml
+[2023.02.27-20.26.40:965][592]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): UPL: Engine\Source/Runtime/Advertising/Android/AndroidAdvertising/AndroidAdvertising_APL.xml
+[2023.02.27-20.26.40:980][593]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): UPL: Engine\Source/ThirdParty/HWCPipe/HWCPipe_UPL.xml
+[2023.02.27-20.26.40:980][593]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): UPL: Engine\Source/ThirdParty/heapprofd/heapprofd_UPL.xml
+[2023.02.27-20.26.40:980][593]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): UPL: Engine\Source/ThirdParty/GoogleGameSDK/GoogleGameSDK_APL.xml
+[2023.02.27-20.26.40:981][593]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Target SDK Version 28
+[2023.02.27-20.26.41:216][607]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Using package name: 'com.TwoBricksGamingCompany.HexAdventure'
+[2023.02.27-20.26.41:216][607]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): GotStoreVersion found v1. (bUseChangeListAsStoreVersion=False IsBuildMachine=False EngineChangeList=0)
+[2023.02.27-20.26.41:231][608]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Writing packageInfo pkgName:com.TwoBricksGamingCompany.HexAdventure storeVersion:1 versionDisplayName:1.0 to C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Binaries\Android\packageInfo.txt
+[2023.02.27-20.26.41:298][612]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ====27/02/2023 12:26:41====PREPARING TO MAKE APK=================================================================
+[2023.02.27-20.26.41:298][612]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): bBuildForES31: true
+[2023.02.27-20.26.41:298][612]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): bSupportsVulkan: false
+[2023.02.27-20.26.41:298][612]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Building Java with SDK API level 'android-29'
+[2023.02.27-20.26.41:312][613]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Building with Build Tools version '29.0.2'
+[2023.02.27-20.26.41:312][613]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ==== Writing to shim file C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Build\Android\src\com\epicgames\ue4\DownloadShim.java ====
+[2023.02.27-20.26.41:312][613]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ==== Shim data file up to date so not writing. ====
+[2023.02.27-20.26.41:332][614]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ==== Writing to template target file C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Build\Android\src\com\TwoBricksGamingCompany\HexAdventure\AlarmReceiver.java ====
+[2023.02.27-20.26.41:332][614]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ==== Template target file up to date so not writing. ====
+[2023.02.27-20.26.41:332][614]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ==== Writing to template target file C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Build\Android\src\com\TwoBricksGamingCompany\HexAdventure\DownloaderActivity.java ====
+[2023.02.27-20.26.41:332][614]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ==== Template target file up to date so not writing. ====
+[2023.02.27-20.26.41:332][614]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ==== Writing to template target file C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Build\Android\src\com\TwoBricksGamingCompany\HexAdventure\OBBDownloaderService.java ====
+[2023.02.27-20.26.41:332][614]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ==== Template target file up to date so not writing. ====
+[2023.02.27-20.26.41:332][614]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Cleaning up files based on template dir C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Build\Android\src\com\TwoBricksGamingCompany\HexAdventure
+[2023.02.27-20.26.41:600][630]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): UPL Init: armeabi-v7a
+[2023.02.27-20.26.41:696][636]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Subsystem Google Play SDK Android init
+[2023.02.27-20.26.41:731][638]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Android Permission Plugin Init
+[2023.02.27-20.26.41:731][638]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Google Cloud Messaging init
+[2023.02.27-20.26.41:731][638]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): GCMClientSenderID set: false
+[2023.02.27-20.26.41:731][638]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): GooglePAD Plugin Init
+[2023.02.27-20.26.41:731][638]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): GooglePAD enabled: false
+[2023.02.27-20.26.41:731][638]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Oculus mobile init
+[2023.02.27-20.26.41:731][638]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Oculus Signature Files (osig) will be removed from APK
+[2023.02.27-20.26.41:731][638]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Android Voice init
+[2023.02.27-20.26.41:731][638]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): AndroidAdvertising init
+[2023.02.27-20.26.41:732][638]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Including AdMob support. Disable in Android project settings if you do not need to use it.
+[2023.02.27-20.26.41:732][638]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): HWCPipe init
+[2023.02.27-20.26.41:732][638]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): heapprofd init
+[2023.02.27-20.26.41:732][638]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Unsupported architecture: armeabi-v7a
+[2023.02.27-20.26.41:732][638]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): GoogleGameSDK Android init
+[2023.02.27-20.26.41:732][638]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): On build machine.
+[2023.02.27-20.26.41:764][640]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Fixing minSdkVersion; NDK level above 19 requires minSdkVersion of 21 (arch=armv7)
+[2023.02.27-20.26.41:778][641]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Fixing minSdkVersion; NDK level above 19 requires minSdkVersion of 21 (arch=armv7)
+[2023.02.27-20.26.41:778][641]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ====27/02/2023 12:26:41====PREPARING NATIVE CODE=====-armv7============================================================
+[2023.02.27-20.26.41:779][641]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): bPackageDataInsideApk = False
+[2023.02.27-20.26.41:779][641]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): UE4CommandLine.txt exists...
+[2023.02.27-20.26.41:779][641]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Copying C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Saved\StagedBuilds\Android_Multi\UE4CommandLine.txt to C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Intermediate\Android\armv7\assets\UE4CommandLine.txt
+[2023.02.27-20.26.42:212][667]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Added repository: C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Android\extras\google\m2repository
+[2023.02.27-20.26.42:212][667]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Added repository: C:\Program Files\Epic Games\UE_4.27\Engine\Source\ThirdParty\Android\extras\android\m2repository
+[2023.02.27-20.26.42:212][667]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): AARImports: com.google.android.gms, play-services-auth, 11.8.0
+[2023.02.27-20.26.42:212][667]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): AARImports: com.google.android.gms, play-services-games, 11.8.0
+[2023.02.27-20.26.42:212][667]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): AARImports: com.google.android.gms, play-services-nearby, 11.8.0
+[2023.02.27-20.26.42:212][667]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): AARImports: com.google.android.gms, play-services-plus, 11.8.0
+[2023.02.27-20.26.42:233][668]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Copying Google Play BillingApiV2 java files
+[2023.02.27-20.26.42:246][669]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Directory Engine/Plugins/Online/Android/OnlineSubsystemGooglePlay/Source/Java/BillingApiV2 copied to C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Intermediate/Android/armv7/src
+[2023.02.27-20.26.42:246][669]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Copying permission_library directory to staging before build
+[2023.02.27-20.26.42:261][670]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Directory C:/Program Files/Epic Games/UE_4.27/Engine/Source/ThirdParty/AndroidPermission/permission_library copied to C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Intermediate/Android/armv7/JavaLibs/permission_library
+[2023.02.27-20.26.42:261][670]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ==== Writing to OBB data file C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Intermediate\Android\armv7\src\com\TwoBricksGamingCompany\HexAdventure\OBBData.java ====
+[2023.02.27-20.26.42:332][674]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Copying libplaycore.so and proguard files
+[2023.02.27-20.26.42:332][674]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): File C:/Program Files/Epic Games/UE_4.27/Engine/Plugins/Runtime/GooglePAD/Source/GooglePAD/../ThirdParty/play-core-native-sdk/libs/armeabi-v7a/ndk21.4.7075529/c++_shared/libplaycore.so copied to C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Intermediate/Android/armv7/libs/armeabi-v7a/libplaycore.so
+[2023.02.27-20.26.42:332][674]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Copying libvrapi.so
+[2023.02.27-20.26.42:332][674]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): File C:/Program Files/Epic Games/UE_4.27/Engine/Source/ThirdParty/Oculus/OVRPlugin/OVRPlugin/ExtLibs/armeabi-v7a/libvrapi.so copied to C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Intermediate/Android/armv7/libs/armeabi-v7a/libvrapi.so
+[2023.02.27-20.26.42:332][674]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Copying libOVRPlugin.so
+[2023.02.27-20.26.42:348][675]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): File C:/Program Files/Epic Games/UE_4.27/Engine/Source/ThirdParty/Oculus/OVRPlugin/OVRPlugin/Lib/armeabi-v7a/libOVRPlugin.so copied to C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Intermediate/Android/armv7/libs/armeabi-v7a/libOVRPlugin.so
+[2023.02.27-20.26.42:348][675]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): File C:/Program Files/Epic Games/UE_4.27/Engine/Source/ThirdParty/Oculus/OVRPlugin/OVRPlugin/ExtLibs/VrApi.jar copied to C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Intermediate/Android/armv7/libs/VrApi.jar
+[2023.02.27-20.26.42:348][675]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): File C:/Program Files/Epic Games/UE_4.27/Engine/Source/ThirdParty/Oculus/OVRPlugin/OVRPlugin/ExtLibs/SystemUtils.jar copied to C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Intermediate/Android/armv7/libs/SystemUtils.jar
+[2023.02.27-20.26.42:364][676]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): File C:/Program Files/Epic Games/UE_4.27/Engine/Source/ThirdParty/HWCPipe/lib/armeabi-v7a/libhwcpipe.so copied to C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Intermediate/Android/armv7/libs/armeabi-v7a/libhwcpipe.so
+[2023.02.27-20.26.42:364][676]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Copying libhwcpipe.so
+[2023.02.27-20.26.42:365][676]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ====27/02/2023 12:26:42====PERFORMING FINAL APK PACKAGE OPERATION=====-armv7===========================================
+[2023.02.27-20.26.42:365][676]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Copying C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Intermediate\Android\armv7\AndroidManifest.xml to C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Intermediate\Android\armv7\gradle\app\src\main\AndroidManifest.xml
+[2023.02.27-20.26.42:378][677]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Copied file C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Intermediate\Android\armv7\gradle\app\src\main\assets\UE4CommandLine.txt.
+[2023.02.27-20.26.42:433][680]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Copied file C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Intermediate\Android\armv7\gradle\app\src\main\java\com\TwoBricksGamingCompany\HexAdventure\OBBData.java.
+[2023.02.27-20.26.42:479][683]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Fixing minSdkVersion; NDK level above 19 requires minSdkVersion of 21 (arch=armv7)
+[2023.02.27-20.26.42:562][688]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Creating rungradle.bat to work around commandline length limit (using unused drive letter Z:)
+[2023.02.27-20.26.42:562][688]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Making .apk with Gradle...
+[2023.02.27-20.26.44:912][829]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): To honour the JVM settings for this build a new JVM will be forked. Please consider using the daemon: https://docs.gradle.org/6.1.1/userguide/gradle_daemon.html.
+[2023.02.27-20.26.49:514][105]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Daemon will be stopped at the end of the build stopping after processing
+[2023.02.27-20.27.08:523][242]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:preBuild UP-TO-DATE
+[2023.02.27-20.27.08:524][242]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:preDebugBuild UP-TO-DATE
+[2023.02.27-20.27.08:524][242]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:preBuild UP-TO-DATE
+[2023.02.27-20.27.08:524][242]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:preDebugBuild UP-TO-DATE
+[2023.02.27-20.27.08:615][247]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:compileDebugAidl NO-SOURCE
+[2023.02.27-20.27.08:615][247]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:preBuild UP-TO-DATE
+[2023.02.27-20.27.08:615][247]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:preDebugBuild UP-TO-DATE
+[2023.02.27-20.27.08:616][247]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:compileDebugAidl NO-SOURCE
+[2023.02.27-20.27.08:832][260]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:compileDebugAidl UP-TO-DATE
+[2023.02.27-20.27.08:916][265]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:packageDebugRenderscript NO-SOURCE
+[2023.02.27-20.27.08:916][265]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:packageDebugRenderscript NO-SOURCE
+[2023.02.27-20.27.08:916][265]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:compileDebugRenderscript NO-SOURCE
+[2023.02.27-20.27.08:916][265]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:generateDebugBuildConfig UP-TO-DATE
+[2023.02.27-20.27.08:934][266]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:javaPreCompileDebug UP-TO-DATE
+[2023.02.27-20.27.09:519][300]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:generateDebugResValues UP-TO-DATE
+[2023.02.27-20.27.09:519][300]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:generateDebugResources UP-TO-DATE
+[2023.02.27-20.27.09:519][300]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:compileDebugRenderscript NO-SOURCE
+[2023.02.27-20.27.09:519][300]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:generateDebugResValues UP-TO-DATE
+[2023.02.27-20.27.09:519][300]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:generateDebugResources UP-TO-DATE
+[2023.02.27-20.27.09:519][300]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:packageDebugResources UP-TO-DATE
+[2023.02.27-20.27.09:519][300]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:generateDebugResValues UP-TO-DATE
+[2023.02.27-20.27.09:519][300]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:compileDebugRenderscript NO-SOURCE
+[2023.02.27-20.27.09:519][300]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:generateDebugResources UP-TO-DATE
+[2023.02.27-20.27.09:620][306]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:packageDebugResources UP-TO-DATE
+[2023.02.27-20.27.09:739][313]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:mergeDebugResources UP-TO-DATE
+[2023.02.27-20.27.09:822][318]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:createDebugCompatibleScreenManifests UP-TO-DATE
+[2023.02.27-20.27.09:839][319]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:extractDeepLinksDebug UP-TO-DATE
+[2023.02.27-20.27.09:839][319]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:extractDeepLinksDebug UP-TO-DATE
+[2023.02.27-20.27.09:839][319]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:processDebugManifest UP-TO-DATE
+[2023.02.27-20.27.09:839][319]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:extractDeepLinksDebug UP-TO-DATE
+[2023.02.27-20.27.09:839][319]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:processDebugManifest UP-TO-DATE
+[2023.02.27-20.27.10:825][378]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:processDebugManifest
+[2023.02.27-20.27.10:825][378]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:compileDebugLibraryResources UP-TO-DATE
+[2023.02.27-20.27.10:825][378]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:parseDebugLocalResources UP-TO-DATE
+[2023.02.27-20.27.10:825][378]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:generateDebugRFile UP-TO-DATE
+[2023.02.27-20.27.10:923][384]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:compileDebugLibraryResources UP-TO-DATE
+[2023.02.27-20.27.10:924][384]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:parseDebugLocalResources UP-TO-DATE
+[2023.02.27-20.27.10:924][384]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:generateDebugRFile UP-TO-DATE
+[2023.02.27-20.27.14:110][575]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:processDebugResources
+[2023.02.27-20.27.14:110][575]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:generateDebugBuildConfig UP-TO-DATE
+[2023.02.27-20.27.14:110][575]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:javaPreCompileDebug UP-TO-DATE
+[2023.02.27-20.27.14:228][582]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:compileDebugJavaWithJavac UP-TO-DATE
+[2023.02.27-20.27.14:228][582]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:bundleLibCompileToJarDebug UP-TO-DATE
+[2023.02.27-20.27.14:228][582]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:generateDebugBuildConfig UP-TO-DATE
+[2023.02.27-20.27.14:228][582]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:javaPreCompileDebug UP-TO-DATE
+[2023.02.27-20.27.14:228][582]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:compileDebugJavaWithJavac UP-TO-DATE
+[2023.02.27-20.27.14:228][582]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:bundleLibCompileToJarDebug UP-TO-DATE
+[2023.02.27-20.27.16:325][707]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:compileDebugJavaWithJavac
+[2023.02.27-20.27.16:325][707]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): The following annotation processors are not incremental: lifecycle-compiler-2.0.0.jar (androidx.lifecycle:lifecycle-compiler:2.0.0).
+[2023.02.27-20.27.16:326][707]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Make sure all annotation processors are incremental to improve your build speed.
+[2023.02.27-20.27.26:626][324]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Note: Some input files use or override a deprecated API.
+[2023.02.27-20.27.26:626][324]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Note: Recompile with -Xlint:deprecation for details.
+[2023.02.27-20.27.26:728][330]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:compileDebugSources
+[2023.02.27-20.27.26:830][336]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:mergeDebugShaders UP-TO-DATE
+[2023.02.27-20.27.26:830][336]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:compileDebugShaders NO-SOURCE
+[2023.02.27-20.27.26:830][336]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:generateDebugAssets UP-TO-DATE
+[2023.02.27-20.27.26:830][336]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:mergeDebugShaders UP-TO-DATE
+[2023.02.27-20.27.26:830][336]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:compileDebugShaders NO-SOURCE
+[2023.02.27-20.27.26:830][336]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:generateDebugAssets UP-TO-DATE
+[2023.02.27-20.27.26:830][336]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:packageDebugAssets UP-TO-DATE
+[2023.02.27-20.27.26:928][342]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:mergeDebugShaders UP-TO-DATE
+[2023.02.27-20.27.26:928][342]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:compileDebugShaders NO-SOURCE
+[2023.02.27-20.27.26:928][342]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:generateDebugAssets UP-TO-DATE
+[2023.02.27-20.27.26:928][342]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:packageDebugAssets UP-TO-DATE
+[2023.02.27-20.27.27:027][348]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:mergeDebugAssets
+[2023.02.27-20.27.27:027][348]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:processDebugJavaRes NO-SOURCE
+[2023.02.27-20.27.27:028][348]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:processDebugJavaRes NO-SOURCE
+[2023.02.27-20.27.27:028][348]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:bundleLibResDebug NO-SOURCE
+[2023.02.27-20.27.27:028][348]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:processDebugJavaRes NO-SOURCE
+[2023.02.27-20.27.27:028][348]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:bundleLibResDebug NO-SOURCE
+[2023.02.27-20.27.27:128][354]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:mergeDebugJavaResource UP-TO-DATE
+[2023.02.27-20.27.27:325][366]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:checkDebugDuplicateClasses UP-TO-DATE
+[2023.02.27-20.27.27:325][366]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:mergeExtDexDebug UP-TO-DATE
+[2023.02.27-20.27.27:326][366]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:bundleLibRuntimeToJarDebug UP-TO-DATE
+[2023.02.27-20.27.27:326][366]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:bundleLibRuntimeToJarDebug UP-TO-DATE
+[2023.02.27-20.27.28:415][431]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:dexBuilderDebug
+[2023.02.27-20.27.28:415][431]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:mergeLibDexDebug UP-TO-DATE
+[2023.02.27-20.27.28:615][443]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:mergeDebugJniLibFolders UP-TO-DATE
+[2023.02.27-20.27.28:615][443]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:mergeDebugJniLibFolders UP-TO-DATE
+[2023.02.27-20.27.28:615][443]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:mergeDebugNativeLibs UP-TO-DATE
+[2023.02.27-20.27.28:615][443]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:stripDebugDebugSymbols NO-SOURCE
+[2023.02.27-20.27.28:615][443]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :downloader_library:copyDebugJniLibsProjectOnly UP-TO-DATE
+[2023.02.27-20.27.28:615][443]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:mergeDebugJniLibFolders UP-TO-DATE
+[2023.02.27-20.27.28:615][443]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:mergeDebugNativeLibs UP-TO-DATE
+[2023.02.27-20.27.28:615][443]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:stripDebugDebugSymbols NO-SOURCE
+[2023.02.27-20.27.28:632][444]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :permission_library:copyDebugJniLibsProjectOnly UP-TO-DATE
+[2023.02.27-20.27.28:730][450]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:mergeDebugNativeLibs UP-TO-DATE
+[2023.02.27-20.27.28:814][455]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:stripDebugDebugSymbols UP-TO-DATE
+[2023.02.27-20.27.28:814][455]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:ueDeleteOldPackageDebug
+[2023.02.27-20.27.28:814][455]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:validateSigningDebug UP-TO-DATE
+[2023.02.27-20.27.29:818][515]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:mergeProjectDexDebug
+[2023.02.27-20.27.39:619][103]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:packageDebug
+[2023.02.27-20.27.39:620][103]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:assembleDebug
+[2023.02.27-20.27.41:418][211]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): > Task :app:ue4CompleteDebug
+[2023.02.27-20.27.41:718][229]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): BUILD SUCCESSFUL in 58s
+[2023.02.27-20.27.41:718][229]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): 59 actionable tasks: 9 executed, 50 up-to-date
+[2023.02.27-20.27.42:491][275]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Writing symbols to C:\Users\carlt\source\repos\HexAdventure\Unreal Project\HexAdventure 4.27\Binaries/Android\HexAdventure_Symbols_v1/HexAdventure-armv7\libUE4.so
+[2023.02.27-20.27.43:040][308]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ====27/02/2023 12:27:43====COMPLETED MAKE APK=======================================================================
+[2023.02.27-20.27.43:052][309]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Using this aapt: C:\Users\carlt\AppData\Local\Android\Sdk\build-tools\29.0.2\aapt.exe
+[2023.02.27-20.27.43:136][314]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): GetPackageInfo ReturnValue: com.TwoBricksGamingCompany.HexAdventure
+[2023.02.27-20.27.43:221][319]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): GetPackageInfo ReturnValue: 1
+[2023.02.27-20.27.43:303][324]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): GetPackageInfo ReturnValue: com.TwoBricksGamingCompany.HexAdventure
+[2023.02.27-20.27.43:387][329]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): GetPackageInfo ReturnValue: com.TwoBricksGamingCompany.HexAdventure
+[2023.02.27-20.27.43:490][335]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): GetPackageInfo ReturnValue: 1
+[2023.02.27-20.27.43:704][348]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): GetPackageInfo ReturnValue: com.TwoBricksGamingCompany.HexAdventure
+[2023.02.27-20.27.43:718][349]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Writing bat for install with separate OBB
+[2023.02.27-20.27.43:718][349]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Writing bat for uninstall with separate OBB
+[2023.02.27-20.27.43:718][349]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ********** PACKAGE COMMAND COMPLETED **********
+[2023.02.27-20.27.43:718][349]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ********** ARCHIVE COMMAND STARTED **********
+[2023.02.27-20.27.43:718][349]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): Archiving to C:/Users/carlt/source/repos/HexAdventure/Unreal Project/HexAdventure 4.27/Packaged/Android
+[2023.02.27-20.27.44:003][366]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): GetPackageInfo ReturnValue: com.TwoBricksGamingCompany.HexAdventure
+[2023.02.27-20.27.44:085][371]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): GetPackageInfo ReturnValue: 1
+[2023.02.27-20.27.44:153][375]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): GetPackageInfo ReturnValue: com.TwoBricksGamingCompany.HexAdventure
+[2023.02.27-20.27.44:218][379]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): GetPackageInfo ReturnValue: 1
+[2023.02.27-20.27.44:286][383]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): GetPackageInfo ReturnValue: com.TwoBricksGamingCompany.HexAdventure
+[2023.02.27-20.27.44:353][387]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): GetPackageInfo ReturnValue: 1
+[2023.02.27-20.27.44:436][392]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): GetPackageInfo ReturnValue: com.TwoBricksGamingCompany.HexAdventure
+[2023.02.27-20.27.44:502][396]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): GetPackageInfo ReturnValue: 1
+[2023.02.27-20.27.44:618][403]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): ********** ARCHIVE COMMAND COMPLETED **********
+[2023.02.27-20.27.44:618][403]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): BUILD SUCCESSFUL
+[2023.02.27-20.27.44:635][404]UATHelper: Packaging (Android (Multi:ASTC,DXT,ETC2)): AutomationTool exiting with ExitCode=0 (Success)

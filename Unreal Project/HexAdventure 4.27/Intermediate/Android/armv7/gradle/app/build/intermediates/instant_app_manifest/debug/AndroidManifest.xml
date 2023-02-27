@@ -23,8 +23,6 @@
     <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
     <uses-permission android:name="android.permission.VIBRATE" />
     <uses-permission android:name="com.android.vending.BILLING" />
-    <!-- Supported texture compression formats (cooked) -->
-    <supports-gl-texture android:name="GL_KHR_texture_compression_astc_ldr" />
     <!-- Application Definition -->
     <application
         android:name="com.epicgames.ue4.GameApplication"
@@ -97,13 +95,13 @@
             android:value="" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.bHasOBBFiles"
-            android:value="false" />
+            android:value="true" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.BuildConfiguration"
             android:value="Development" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.CookedFlavors"
-            android:value="ASTC" />
+            android:value="ETC2,DXT,ASTC" />
         <meta-data
             android:name="com.epicgames.ue4.GameActivity.bValidateTextureFormats"
             android:value="true" />

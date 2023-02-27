@@ -1,1 +1,1 @@
-../../../HexAdventure/HexAdventure.uproject  /Game/Maps/MainMenu -Messaging -SessionId=084DBA584544CC95C6C6E3A70C2EC94B -SessionOwner="carlt" -SessionName="Launch On Device" -iterative
+../../../HexAdventure/HexAdventure.uproject 

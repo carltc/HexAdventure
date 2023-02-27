@@ -42,8 +42,7 @@
 		{
 			"ShaderMapHash": "E51B540C634E4691200D24C4443592C722883526",
 			"Assets": [
-				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial",
-				"/Game/Models/SnowyMountain"
+				"/OculusVR/Materials/TouchForQuestRiftSControllerMaterial"
 			]
 		},
 		{
@@ -89,6 +88,12 @@
 			]
 		},
 		{
+			"ShaderMapHash": "A5C5810F470383E69DA94ED98CC88F8CE49042FC",
+			"Assets": [
+				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
+			]
+		},
+		{
 			"ShaderMapHash": "1416539809F87AF06D0F2B830217C362C74BF4A2",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeBillboardMaster"
@@ -98,12 +103,6 @@
 			"ShaderMapHash": "989B20B2C99C7EA7F32A1523A670B1071FED1367",
 			"Assets": [
 				"/SpeedTreeImporter/SpeedTree9/SpeedTreeMaster"
-			]
-		},
-		{
-			"ShaderMapHash": "A5C5810F470383E69DA94ED98CC88F8CE49042FC",
-			"Assets": [
-				"/Engine/EngineDebugMaterials/M_VolumeRenderSphereTracePP"
 			]
 		},
 		{
@@ -202,20 +201,7 @@
 			"Assets": [
 				"/Engine/VREditor/TransformGizmo/Xray",
 				"/Game/Materials/HexBase",
-				"/Game/Materials/PlayerMaterial",
-				"/Game/Models/LeafGreen",
-				"/Game/Models/HedgeGreen",
-				"/Game/Models/FieldYellow_004",
-				"/Game/Models/FieldYellow_003",
-				"/Game/Models/FieldYellow_002",
-				"/Game/Models/FieldYellow_001",
-				"/Game/Models/FieldYellow",
-				"/Game/Models/FenceBrown",
-				"/Game/Models/BarkBrown",
-				"/Game/Models/RockGrey",
-				"/Game/Models/WaterBlue",
-				"/Game/Models/PineGreen",
-				"/Game/Models/GrassGreen"
+				"/Game/Materials/PlayerMaterial"
 			]
 		},
 		{
@@ -288,6 +274,30 @@
 			"ShaderMapHash": "7727B3BDB4BA7EB1753B49A631F5A1CDD172FC04",
 			"Assets": [
 				"/Engine/EngineSky/M_Sky_Panning_Clouds2"
+			]
+		},
+		{
+			"ShaderMapHash": "B7366938E8785761C8FA80DB0E18830DC7D0D532",
+			"Assets": [
+				"/Game/Materials/JourneyPath"
+			]
+		},
+		{
+			"ShaderMapHash": "3F356146ED82E66C930C8FF718242DC5ECD5770C",
+			"Assets": [
+				"/Game/Materials/Invisible"
+			]
+		},
+		{
+			"ShaderMapHash": "9C6BCFF6065E48C82DD78CA53E11039CB8BAC5E2",
+			"Assets": [
+				"/Game/Materials/HexBlend"
+			]
+		},
+		{
+			"ShaderMapHash": "7B551F8F17395BE57D4ED76E9EA553FF97DA5AD9",
+			"Assets": [
+				"/Game/Materials/HexBlend_Smooth"
 			]
 		}
 	]
