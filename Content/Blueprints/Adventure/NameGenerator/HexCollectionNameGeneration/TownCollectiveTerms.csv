@@ -1,0 +1,9 @@
+Row Name,ShouldUse,RelativeUsageQuantity
+ton,TRUE,1
+hampton,TRUE,1
+derry,TRUE,1
+ City,TRUE,1
+ Town,TRUE,1
+ham,TRUE,1
+bury,TRUE,1
+by,TRUE,1

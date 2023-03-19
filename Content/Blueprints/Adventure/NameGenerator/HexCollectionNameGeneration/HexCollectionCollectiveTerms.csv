@@ -1,0 +1,23 @@
+Row Name,AnyHexType,HexType,ShouldUse,RelativeUsageQuantity
+Fields,FALSE,Field,TRUE,1
+Wood,FALSE,Forest,TRUE,1
+Woods,FALSE,Forest,TRUE,1
+Forest,FALSE,Forest,TRUE,1
+Woodland,FALSE,Forest,TRUE,1
+Mountains,FALSE,Mountain,TRUE,1
+Cliffs,FALSE,Mountain,TRUE,1
+Ridge,FALSE,Mountain,TRUE,1
+Highlands,FALSE,Hill,TRUE,1
+Hills,FALSE,Hill,TRUE,1
+Downs,FALSE,Hill,TRUE,1
+Way,FALSE,Hill,TRUE,1
+Range,FALSE,Mountain,TRUE,1
+Gorge,FALSE,Cave,TRUE,1
+Caves,FALSE,Cave,TRUE,1
+Mines,FALSE,Cave,TRUE,1
+Mount,FALSE,Mountain,TRUE,1
+Sea,FALSE,Ocean,TRUE,1
+Ocean,FALSE,Ocean,TRUE,1
+Meadow,FALSE,Field,TRUE,1
+Glade,FALSE,Forest,TRUE,1
+Hollow,FALSE,Forest,TRUE,1

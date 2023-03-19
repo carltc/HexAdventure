@@ -1,0 +1,31 @@
+Row Name,AnyHexType,HexType,ShouldUse,RelativeUsageQuantity
+100 Acre,FALSE,Forest,TRUE,1
+Pine,FALSE,Forest,TRUE,1
+Whistling,TRUE,Field,TRUE,1
+Quirky,TRUE,Field,TRUE,1
+Green,TRUE,Field,TRUE,1
+Giants,TRUE,Field,TRUE,1
+New,TRUE,Field,TRUE,1
+Wanderers,TRUE,Field,TRUE,1
+Grazers,TRUE,Field,TRUE,1
+Royal,TRUE,Field,TRUE,1
+Old,TRUE,Field,TRUE,1
+High,TRUE,Field,TRUE,1
+Enchanted,TRUE,Field,TRUE,1
+Lost,TRUE,Field,TRUE,1
+Singing,TRUE,Field,TRUE,1
+Poachers,FALSE,Forest,TRUE,1
+Sunny,TRUE,Field,TRUE,1
+Dark,TRUE,Field,TRUE,1
+10 Mile,TRUE,Field,TRUE,1
+Hikers,FALSE,Hill,TRUE,1
+Peddlers,TRUE,Field,TRUE,1
+Frosty,TRUE,Field,TRUE,1
+Evergreen,FALSE,Forest,TRUE,1
+Misty,TRUE,Field,TRUE,1
+Sandy,TRUE,Field,TRUE,1
+Emerald,TRUE,Field,TRUE,1
+Windy,FALSE,Hill,TRUE,1
+Snowcap,FALSE,Mountain,TRUE,1
+Murky,FALSE,Cave,TRUE,1
+Hightop,TRUE,Field,TRUE,1
