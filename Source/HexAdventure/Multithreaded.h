@@ -19,4 +19,8 @@ class HEXADVENTURE_API IMultithreaded
 public:
 	UFUNCTION(BlueprintCallable, BlueprintImplementableEvent, Category = "Multithreaded")
 		void MultithreadedFunction();
+	UFUNCTION(BlueprintCallable, BlueprintImplementableEvent, Category = "Multithreaded")
+		void CalculateMeshDataFunction();
+	UFUNCTION(BlueprintCallable, BlueprintImplementableEvent, Category = "Multithreaded")
+		void CalculateMeshDecorationsFunction();
 };
