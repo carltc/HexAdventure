@@ -45,7 +45,7 @@ public:
 	}
 };
 
-UCLASS()
+UCLASS(DefaultToInstanced)
 class HEXADVENTURE_API UMultithreadedLibrary : public UBlueprintFunctionLibrary {
 	GENERATED_BODY()
 public:
